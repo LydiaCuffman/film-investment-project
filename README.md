@@ -62,7 +62,8 @@ We engineered a "Profit Ratio" variable to allow for more meaningful business an
 ├── images
 ├── working_notebooks
 ├── zippedData
-├── README.md
 ├── .gitignore
-└── Data_Analysis.ipynb
+├── Data_Analysis.ipynb
+├── README.md
+└── presentation.pdf
 ```
