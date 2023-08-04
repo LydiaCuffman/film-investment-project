@@ -40,8 +40,8 @@ We engineered a "Profit Ratio" variable to allow for more meaningful business an
 2. **Focus on Low-Budget Horror Movies** - Taking it a step further, we recommend producing low-budget horror movies as they return higher profit ratios, on average, than high-budget horror movies. In doing so, you would both minimize your investment risk and lower your initial investment, reducing your barrier to entry to the film industry.
 
 
-![img](images/bar_chart1.png)
 ![img](images/bar_chart3.png)
+![img](images/bar_chart1.png)
 
 3. **Month of release should not be a primary focus** - Though there seems to be a difference, according to our visuals, that month of release affects the profit ratio for a horror movie; there actually is no statistically significant difference between months. This leads us to our 'Next Steps' in our analysis...
 
