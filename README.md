@@ -46,11 +46,11 @@ We engineered a "Profit Ratio" variable to allow for more meaningful business an
 
 ## Next Steps
 
-1. We would like to pull more data to increase our sample sizes so we can get a better analysis of the month of release.
+1. We would like to pull data on more movies to increase our sample sizes so we can get a better analysis of the month of release. 
 
 2. Because our data only went through 2019, we want to gather data on 2020-2023 to see the recovery of the film industry post-pandemic. We would also analyze if the habits of people going to the movies have changed since then - did people get used to streaming, or is the film industry back and better than ever?
 
-3. Lastly, we could get even more granular and look into the time of year for movie releases to see if there are specific events like film festivals or holidays like Halloween that might be really exceptional times to release horror movies
+3. Lastly, we want to take a more granual look into the time of year for movie releases to see if there are specific events such as film festivals or holidays like Halloween that might be really exceptional times to release horror movies. We think these factors may have a more significant impact on the success and profits of a movie than the month generally that they are released in. 
 
 
 ## Repository Structure
