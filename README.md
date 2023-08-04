@@ -8,7 +8,7 @@
 
 ## Overview
 
-Our data analytics firm has been hired by Flatiron Productions, to analyze which films perform the best at the Box Office. This project analyses a data set that combines data from [IMBd](https://www.imdb.com/)
+Our data analytics firm has been hired by Flatiron Productions to analyze which films perform the best at the Box Office. This project analyses a data set that combines data from [IMBd](https://www.imdb.com/)
  and [The Numbers](https://www.the-numbers.com/movie/), to assess which movies have the most success worldwide. Based on our analysis results, we will make recommendations based on genre, production budget, and seasonal trends.
 
 ## Business Understanding
