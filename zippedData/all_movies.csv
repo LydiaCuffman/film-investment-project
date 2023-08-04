@@ -1,0 +1,985 @@
+,Unnamed: 0,id,release_date,movie,production_budget,domestic_gross,worldwide_gross,return_on_investment,year,movie_id,primary_title,original_title,runtime_minutes,genres,averagerating,numvotes
+0,1,2,2011-05-20,Pirates of the Caribbean: On Stranger Tides,410600000,241063875,1045663875,2.546672856794934,2011,tt1298650,Pirates of the Caribbean: On Stranger Tides,Pirates of the Caribbean: On Stranger Tides,136.0,"Action,Adventure,Fantasy",6.6,447624
+1,3,4,2015-05-01,Avengers: Age of Ultron,330600000,459005868,1403013963,4.243841388384754,2015,tt2395427,Avengers: Age of Ultron,Avengers: Age of Ultron,141.0,"Action,Adventure,Sci-Fi",7.3,665594
+2,6,7,2018-04-27,Avengers: Infinity War,300000000,678815482,2048134200,6.827114,2018,tt4154756,Avengers: Infinity War,Avengers: Infinity War,149.0,"Action,Adventure,Sci-Fi",8.5,670926
+3,8,9,2017-11-17,Justice League,300000000,229024295,655945209,2.18648403,2017,tt0974015,Justice League,Justice League,120.0,"Action,Adventure,Fantasy",6.5,329135
+4,9,10,2015-11-06,Spectre,300000000,200074175,879620923,2.9320697433333334,2015,tt2379713,Spectre,Spectre,148.0,"Action,Adventure,Thriller",6.8,352504
+5,10,11,2012-07-20,The Dark Knight Rises,275000000,448139099,1084439099,3.943414905454545,2012,tt1345836,The Dark Knight Rises,The Dark Knight Rises,164.0,"Action,Thriller",8.4,1387769
+6,11,12,2018-05-25,Solo: A Star Wars Story,275000000,213767512,393151347,1.4296412618181815,2018,tt3778644,Solo: A Star Wars Story,Solo: A Star Wars Story,135.0,"Action,Adventure,Fantasy",7.0,226243
+7,13,14,2012-03-09,John Carter,275000000,73058679,282778100,1.028284,2012,tt0401729,John Carter,John Carter,132.0,"Action,Adventure,Sci-Fi",6.6,241792
+8,16,17,2016-05-06,Captain America: Civil War,250000000,408084349,1140069413,4.560277652,2016,tt3498820,Captain America: Civil War,Captain America: Civil War,147.0,"Action,Adventure,Sci-Fi",7.8,583507
+9,17,18,2016-03-25,Batman v Superman: Dawn of Justice,250000000,330360194,867500281,3.470001124,2016,tt2975590,Batman v Superman: Dawn of Justice,Batman v Superman: Dawn of Justice,151.0,"Action,Adventure,Fantasy",6.5,576909
+10,18,19,2012-12-14,The Hobbit: An Unexpected Journey,250000000,303003568,1017003568,4.068014272,2012,tt0903624,The Hobbit: An Unexpected Journey,The Hobbit: An Unexpected Journey,169.0,"Adventure,Family,Fantasy",7.9,719629
+11,20,21,2013-12-13,The Hobbit: The Desolation of Smaug,250000000,258366855,960366855,3.84146742,2013,tt1170358,The Hobbit: The Desolation of Smaug,The Hobbit: The Desolation of Smaug,161.0,"Adventure,Fantasy",7.8,565563
+12,21,22,2014-12-17,The Hobbit: The Battle of the Five Armies,250000000,255119788,945577621,3.782310484,2014,tt2310332,The Hobbit: The Battle of the Five Armies,The Hobbit: The Battle of the Five Armies,144.0,"Adventure,Fantasy",7.4,438621
+13,22,23,2017-04-14,The Fate of the Furious,250000000,225764765,1234846267,4.939385068,2017,tt4630562,The Fate of the Furious,The Fate of the Furious,136.0,"Action,Crime,Thriller",6.7,179774
+14,24,25,2017-05-26,Pirates of the Caribbean: Dead Men Tell No Tales,230000000,172558876,788241137,3.4271353782608696,2017,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,Pirates of the Caribbean: Dead Men Tell No Tales,129.0,"Action,Adventure,Fantasy",6.6,228592
+15,26,27,2012-05-04,The Avengers,225000000,623279547,1517935897,6.746381764444443,2012,tt0848228,The Avengers,The Avengers,143.0,"Action,Adventure,Sci-Fi",8.1,1183655
+16,28,29,2013-06-14,Man of Steel,225000000,291045518,667999518,2.968886746666666,2013,tt0770828,Man of Steel,Man of Steel,143.0,"Action,Adventure,Sci-Fi",7.1,647288
+17,30,31,2012-07-03,The Amazing Spider-Man,220000000,262030663,757890267,3.4449557590909086,2012,tt0948470,The Amazing Spider-Man,The Amazing Spider-Man,136.0,"Action,Adventure,Sci-Fi",7.0,525632
+18,31,32,2012-05-18,Battleship,220000000,65233400,313477717,1.4248987136363636,2012,tt1440129,Battleship,Battleship,131.0,"Action,Adventure,Sci-Fi",5.8,225342
+19,32,33,2017-06-21,Transformers: The Last Knight,217000000,130168683,602893340,2.778310322580645,2017,tt3371366,Transformers: The Last Knight,Transformers: The Last Knight,154.0,"Action,Adventure,Sci-Fi",5.2,119007
+20,33,34,2015-06-12,Jurassic World,215000000,652270625,1648854864,7.669092390697673,2015,tt0369610,Jurassic World,Jurassic World,124.0,"Action,Adventure,Sci-Fi",7.0,539338
+21,34,35,2012-05-25,Men in Black 3,215000000,179020854,654213485,3.042853418604651,2012,tt1409024,Men in Black 3,Men in Black 3,106.0,"Action,Adventure,Comedy",6.8,309879
+22,36,37,2014-06-27,Transformers: Age of Extinction,210000000,245439076,1104039076,5.2573289333333335,2014,tt2109248,Transformers: Age of Extinction,Transformers: Age of Extinction,165.0,"Action,Adventure,Sci-Fi",5.7,283486
+23,41,42,2018-02-16,Black Panther,200000000,700059566,1348258224,6.74129112,2018,tt1825683,Black Panther,Black Panther,134.0,"Action,Adventure,Sci-Fi",7.3,516148
+24,43,44,2018-06-15,Incredibles 2,200000000,608581744,1242520711,6.212603555,2018,tt3606756,Incredibles 2,Incredibles 2,118.0,"Action,Adventure,Animation",7.7,203510
+25,44,45,2016-12-16,Rogue One: A Star Wars Story,200000000,532177324,1049102856,5.24551428,2016,tt3748528,Rogue One: A Star Wars Story,Rogue One,133.0,"Action,Adventure,Sci-Fi",7.8,478592
+26,45,46,2016-06-17,Finding Dory,200000000,486295561,1021215193,5.106075965,2016,tt2277860,Finding Dory,Finding Dory,97.0,"Adventure,Animation,Comedy",7.3,213542
+27,47,48,2013-05-03,Iron Man 3,200000000,408992272,1215392272,6.07696136,2013,tt1300854,Iron Man 3,Iron Man Three,130.0,"Action,Adventure,Sci-Fi",7.2,692794
+28,51,52,2012-11-08,Skyfall,200000000,304360277,1110526981,5.552634905,2012,tt1074638,Skyfall,Skyfall,143.0,"Action,Adventure,Thriller",7.8,592221
+29,52,53,2013-06-21,Monsters University,200000000,268488329,743588329,3.717941645,2013,tt1453405,Monsters University,Monsters University,104.0,"Adventure,Animation,Comedy",7.3,291887
+30,53,54,2013-03-08,Oz the Great and Powerful,200000000,234770996,490359051,2.451795255,2013,tt1623205,Oz the Great and Powerful,Oz the Great and Powerful,130.0,"Adventure,Family,Fantasy",6.3,192045
+31,54,55,2014-05-23,X-Men: Days of Future Past,200000000,233921534,747862775,3.739313875,2014,tt1877832,X-Men: Days of Future Past,X-Men: Days of Future Past,132.0,"Action,Adventure,Sci-Fi",8.0,620079
+32,55,56,2014-05-02,The Amazing Spider-Man 2,200000000,202853933,708996336,3.54498168,2014,tt1872181,The Amazing Spider-Man 2,The Amazing Spider-Man 2,142.0,"Action,Adventure,Sci-Fi",6.6,388363
+33,56,57,2011-06-24,Cars 2,200000000,191450875,560155383,2.800776915,2011,tt1216475,Cars 2,Cars 2,106.0,"Adventure,Animation,Comedy",6.2,138914
+34,59,60,2018-11-16,Fantastic Beasts: The Crimes of Grindelwald,200000000,159555901,652220086,3.26110043,2018,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,Fantastic Beasts: The Crimes of Grindelwald,134.0,"Adventure,Family,Fantasy",6.6,163151
+35,61,62,2011-06-17,Green Lantern,200000000,116601172,219535492,1.09767746,2011,tt1133985,Green Lantern,Green Lantern,114.0,"Action,Adventure,Sci-Fi",5.5,252281
+36,63,64,2011-06-29,Transformers: Dark of the Moon,195000000,352390543,1123790543,5.763028425641027,2011,tt1399103,Transformers: Dark of the Moon,Transformers: Dark of the Moon,154.0,"Action,Adventure,Sci-Fi",6.2,366409
+37,64,65,2017-06-09,The Mummy,195000000,80101125,409953905,2.102327717948718,2017,tt2345759,The Mummy,The Mummy,110.0,"Action,Adventure,Fantasy",5.5,154345
+38,65,66,2013-03-01,Jack the Giant Slayer,195000000,65187603,197687603,1.0137825794871795,2013,tt1351685,Jack the Giant Slayer,Jack the Giant Slayer,114.0,"Adventure,Fantasy",6.3,123127
+39,66,67,2015-04-03,Furious 7,190000000,353007020,1518722794,7.9932778631578945,2015,tt2820852,Furious 7,Furious Seven,137.0,"Action,Crime,Thriller",7.2,335074
+40,67,68,2013-05-16,Star Trek Into Darkness,190000000,228778661,467381584,2.4599030736842105,2013,tt1408101,Star Trek Into Darkness,Star Trek Into Darkness,132.0,"Action,Adventure,Sci-Fi",7.7,445535
+41,68,69,2013-06-21,World War Z,190000000,202359711,531514650,2.7974455263157894,2013,tt0816711,World War Z,World War Z,116.0,"Action,Adventure,Horror",7.0,553751
+42,69,70,2013-05-10,The Great Gatsby,190000000,144840419,351040419,1.8475811526315788,2013,tt1343092,The Great Gatsby,The Great Gatsby,143.0,"Drama,Romance",7.3,433165
+43,71,72,2013-07-12,Pacific Rim,190000000,101802906,411002906,2.1631731894736843,2013,tt1663662,Pacific Rim,Pacific Rim,131.0,"Action,Adventure,Sci-Fi",6.9,443667
+44,72,73,2015-11-25,The Good Dinosaur,187500000,123087120,333771037,1.7801121973333334,2015,tt1979388,The Good Dinosaur,The Good Dinosaur,93.0,"Adventure,Animation,Comedy",6.7,91465
+45,76,77,2012-06-22,Brave,185000000,237282182,554606532,2.9978731459459467,2012,tt1217209,Brave,Brave,93.0,"Adventure,Animation,Comedy",7.1,338728
+46,77,78,2017-03-10,Kong: Skull Island,185000000,168052812,561072059,3.0328219405405403,2017,tt3731562,Kong: Skull Island,Kong: Skull Island,118.0,"Action,Adventure,Fantasy",6.6,237720
+47,78,79,2016-07-22,Star Trek Beyond,185000000,158848340,335802233,1.8151472054054052,2016,tt2660888,Star Trek Beyond,Star Trek Beyond,122.0,"Action,Adventure,Sci-Fi",7.1,209844
+48,79,80,2017-10-06,Blade Runner 2049,185000000,92054159,259357408,1.4019319351351351,2017,tt1856101,Blade Runner 2049,Blade Runner 2049,164.0,"Drama,Mystery,Sci-Fi",8.0,376241
+49,80,81,2019-05-24,Aladdin,182000000,246734314,619234314,3.4023863406593406,2019,tt6139732,Aladdin,Aladdin,128.0,"Adventure,Comedy,Family",7.4,57549
+50,81,82,2017-11-03,Thor: Ragnarok,180000000,315058289,846980024,4.7054445777777785,2017,tt3501632,Thor: Ragnarok,Thor: Ragnarok,130.0,"Action,Adventure,Comedy",7.9,482995
+51,83,84,2014-05-30,Maleficent,180000000,241407328,758536735,4.214092972222222,2014,tt1587310,Maleficent,Maleficent,97.0,"Action,Adventure,Family",7.0,305832
+52,84,85,2016-11-18,Fantastic Beasts and Where to Find Them,180000000,234037575,802402853,4.457793627777779,2016,tt3183660,Fantastic Beasts and Where to Find Them,Fantastic Beasts and Where to Find Them,132.0,"Adventure,Family,Fantasy",7.3,365353
+53,87,88,2016-07-01,The Legend of Tarzan,180000000,126643061,348902025,1.9383445833333333,2016,tt0918940,The Legend of Tarzan,The Legend of Tarzan,110.0,"Action,Adventure,Drama",6.3,150154
+54,88,89,2011-11-23,Hugo,180000000,73864507,180047784,1.0002654666666666,2011,tt0970179,Hugo,Hugo,126.0,"Adventure,Drama,Family",7.5,284869
+55,89,90,2017-07-21,Valerian and the City of a Thousand Planets,180000000,40479370,215098356,1.1949908666666669,2017,tt2239822,Valerian and the City of a Thousand Planets,Valerian and the City of a Thousand Planets,137.0,"Action,Adventure,Fantasy",6.5,139792
+56,90,91,2015-02-06,Jupiter Ascending,179000000,47482519,181982519,1.0166621173184358,2015,tt1617661,Jupiter Ascending,Jupiter Ascending,127.0,"Action,Adventure,Sci-Fi",5.3,166327
+57,92,93,2016-05-27,X-Men: Apocalypse,178000000,155442489,542537546,3.047963741573034,2016,tt3385516,X-Men: Apocalypse,X-Men: Apocalypse,144.0,"Action,Adventure,Sci-Fi",7.0,356556
+58,93,94,2018-08-10,The Meg,178000000,145443742,529530715,2.974891657303371,2018,tt4779682,The Meg,The Meg,113.0,"Action,Horror,Sci-Fi",5.7,114042
+59,94,95,2014-06-06,Edge of Tomorrow,178000000,100206256,370541256,2.0816924494382016,2014,tt1631867,Edge of Tomorrow,Edge of Tomorrow,113.0,"Action,Sci-Fi",7.9,546284
+60,95,96,2019-03-08,Captain Marvel,175000000,426525952,1123061550,6.417494571428572,2019,tt4154664,Captain Marvel,Captain Marvel,123.0,"Action,Adventure,Sci-Fi",7.0,296225
+61,96,97,2016-04-15,The Jungle Book,175000000,364001123,962854547,5.502025982857144,2016,tt2226178,The Jungle Book,The Jungle Book,64.0,Animation,7.0,59
+62,97,98,2015-06-19,Inside Out,175000000,356461711,854235992,4.8813485257142855,2015,tt1640486,Inside Out,Inside Out,93.0,"Crime,Drama",4.6,1566
+63,98,99,2017-07-07,Spider-Man: Homecoming,175000000,334201140,880166350,5.029522,2017,tt2250912,Spider-Man: Homecoming,Spider-Man: Homecoming,133.0,"Action,Adventure,Sci-Fi",7.5,426302
+64,99,100,2016-08-05,Suicide Squad,175000000,325100054,746059887,4.263199354285715,2016,tt1386697,Suicide Squad,Suicide Squad,123.0,"Action,Adventure,Fantasy",6.0,533039
+65,101,2,2017-11-22,Coco,175000000,209726015,798008101,4.560046291428573,2017,tt2380307,Coco,Coco,105.0,"Adventure,Animation,Comedy",8.4,277194
+66,104,5,2017-06-16,Cars 3,175000000,152901115,383541369,2.1916649657142857,2017,tt3606752,Cars 3,Cars 3,102.0,"Adventure,Animation,Comedy",6.8,59408
+67,112,13,2018-06-22,Jurassic World: Fallen Kingdom,170000000,417719760,1305772799,7.681016464705883,2018,tt4881806,Jurassic World: Fallen Kingdom,Jurassic World: Fallen Kingdom,128.0,"Action,Adventure,Sci-Fi",6.2,219125
+68,113,14,2014-08-01,Guardians of the Galaxy,170000000,333172112,770867516,4.5345148,2014,tt2015381,Guardians of the Galaxy,Guardians of the Galaxy,121.0,"Action,Adventure,Comedy",8.1,948394
+69,115,16,2014-04-04,Captain America: The Winter Soldier,170000000,259746958,714401889,4.202364052941176,2014,tt1843866,Captain America: The Winter Soldier,Captain America: The Winter Soldier,136.0,"Action,Adventure,Sci-Fi",7.8,666252
+70,116,17,2014-07-11,Dawn of the Planet of the Apes,170000000,208545589,710644566,4.180262152941176,2014,tt2103281,Dawn of the Planet of the Apes,Dawn of the Planet of the Apes,130.0,"Action,Adventure,Drama",7.6,390199
+71,118,19,2012-06-01,Snow White and the Huntsman,170000000,155136755,401021746,2.3589514470588235,2012,tt1735898,Snow White and the Huntsman,Snow White and the Huntsman,127.0,"Action,Adventure,Drama",6.1,258938
+72,121,22,2019-03-29,Dumbo,170000000,113883318,345004422,2.0294377764705884,2019,tt3861390,Dumbo,Dumbo,112.0,"Adventure,Family,Fantasy",6.6,25072
+73,122,23,2015-05-22,Tomorrowland,170000000,93436322,206627518,1.2154559882352942,2015,tt1964418,Tomorrowland,Tomorrowland,130.0,"Action,Adventure,Family",6.4,161343
+74,123,24,2019-02-14,Alita: Battle Angel,170000000,85710210,402976036,2.370447270588236,2019,tt0437086,Alita: Battle Angel,Alita: Battle Angel,122.0,"Action,Adventure,Sci-Fi",7.5,88207
+75,124,25,2019-05-31,Godzilla: King of the Monsters,170000000,85576941,299276941,1.7604525941176472,2019,tt3741700,Godzilla: King of the Monsters,Godzilla: King of the Monsters,132.0,"Action,Adventure,Fantasy",6.7,36479
+76,125,26,2016-05-27,Alice Through the Looking Glass,170000000,77042381,276928112,1.6289888941176471,2016,tt2567026,Alice Through the Looking Glass,Alice Through the Looking Glass,113.0,"Adventure,Family,Fantasy",6.2,79951
+77,127,28,2016-11-04,Doctor Strange,165000000,232641920,676404566,4.099421612121212,2016,tt1211837,Doctor Strange,Doctor Strange,115.0,"Action,Adventure,Fantasy",7.5,514510
+78,128,29,2014-11-07,Big Hero 6,165000000,222527828,652127828,3.952289866666667,2014,tt2245084,Big Hero 6,Big Hero 6,102.0,"Action,Adventure,Animation",7.8,371204
+79,130,31,2012-11-02,Wreck-It Ralph,165000000,189412677,496511521,3.009160733333333,2012,tt1772341,Wreck-It Ralph,Wreck-It Ralph,101.0,"Adventure,Animation,Comedy",7.7,344496
+80,131,32,2014-11-05,Interstellar,165000000,188017894,666379375,4.038662878787878,2014,tt0816692,Interstellar,Interstellar,169.0,"Adventure,Drama,Sci-Fi",8.6,1299334
+81,132,33,2016-06-24,Independence Day: Resurgence,165000000,103144286,384169424,2.328299539393939,2016,tt1628841,Independence Day: Resurgence,Independence Day: Resurgence,120.0,"Action,Adventure,Sci-Fi",5.2,155344
+82,134,35,2017-03-17,Beauty and the Beast,160000000,504014165,1259199706,7.8699981625,2017,tt2316801,Beauty and the Beast,La belle et la bête,112.0,"Drama,Fantasy,Romance",6.4,18100
+83,135,36,2018-12-21,Aquaman,160000000,335061807,1146894640,7.168091499999999,2018,tt1477834,Aquaman,Aquaman,143.0,"Action,Adventure,Fantasy",7.1,263328
+84,138,39,2015-11-20,The Hunger Games: Mockingjay - Part 2,160000000,281723902,648986787,4.05616741875,2015,tt1951266,The Hunger Games: Mockingjay - Part 2,The Hunger Games: Mockingjay - Part 2,137.0,"Action,Adventure,Sci-Fi",6.6,252384
+85,140,41,2014-05-16,Godzilla,160000000,200676069,529076069,3.30672543125,2014,tt0831387,Godzilla,Godzilla,123.0,"Action,Adventure,Sci-Fi",6.4,350687
+86,141,42,2011-06-03,X-Men: First Class,160000000,146408305,355408305,2.22130190625,2011,tt1270798,X-Men: First Class,X: First Class,131.0,"Action,Adventure,Sci-Fi",7.7,608930
+87,145,46,2016-06-10,Warcraft,160000000,47225655,425522281,2.65951425625,2016,tt0803096,Warcraft,Warcraft,123.0,"Action,Adventure,Fantasy",6.9,225557
+88,149,50,2018-03-23,Pacific Rim: Uprising,155000000,59874525,290930148,1.8769686967741936,2018,tt2557478,Pacific Rim: Uprising,Pacific Rim: Uprising,111.0,"Action,Adventure,Sci-Fi",5.6,89462
+89,151,52,2017-07-14,War for the Planet of the Apes,152000000,146880162,489592267,3.2210017565789477,2017,tt3450958,War for the Planet of the Apes,War for the Planet of the Apes,140.0,"Action,Adventure,Drama",7.5,201943
+90,154,55,2017-06-02,Wonder Woman,150000000,412563408,821133378,5.47422252,2017,tt0451279,Wonder Woman,Wonder Woman,141.0,"Action,Adventure,Fantasy",7.5,487527
+91,155,56,2013-11-22,Frozen,150000000,400738009,1272469910,8.483132733333333,2013,tt1323045,Frozen,Frozen,93.0,"Adventure,Drama,Sport",6.2,62311
+92,156,57,2016-03-04,Zootopia,150000000,341268248,1019429616,6.79619744,2016,tt2948356,Zootopia,Zootopia,108.0,"Adventure,Animation,Comedy",8.0,383446
+93,161,62,2016-11-23,Moana,150000000,248757044,637517365,4.250115766666666,2016,tt3521164,Moana,Moana,107.0,"Adventure,Animation,Comedy",7.6,224253
+94,165,66,2013-11-08,Thor: The Dark World,150000000,206362140,644602516,4.297350106666666,2013,tt1981115,Thor: The Dark World,Thor: The Dark World,112.0,"Action,Adventure,Fantasy",6.9,540996
+95,168,69,2017-07-21,Dunkirk,150000000,190068280,499837368,3.33224912,2017,tt5013056,Dunkirk,Dunkirk,106.0,"Action,Drama,History",7.9,466580
+96,169,70,2011-05-06,Thor,150000000,181030624,449326618,2.995510786666667,2011,tt0800369,Thor,Thor,115.0,"Action,Adventure,Fantasy",7.0,683264
+97,173,74,2011-05-26,Kung Fu Panda 2,150000000,165249063,664837547,4.432250313333333,2011,tt1302011,Kung Fu Panda 2,Kung Fu Panda 2,90.0,"Action,Adventure,Animation",7.2,228465
+98,174,75,2015-05-15,Mad Max: Fury Road,150000000,153636354,370098020,2.467320133333333,2015,tt1392190,Mad Max: Fury Road,Mad Max: Fury Road,120.0,"Action,Adventure,Sci-Fi",8.1,780910
+99,177,78,2018-03-29,Ready Player One,150000000,137690172,579290136,3.86193424,2018,tt1677720,Ready Player One,Ready Player One,140.0,"Action,Adventure,Sci-Fi",7.5,301660
+100,186,87,2012-03-30,Wrath of the Titans,150000000,83670083,305270083,2.035133886666667,2012,tt1646987,Wrath of the Titans,Wrath of the Titans,99.0,"Action,Adventure,Fantasy",5.7,172330
+101,188,89,2012-05-11,Dark Shadows,150000000,79727149,238202668,1.5880177866666667,2012,tt1077368,Dark Shadows,Dark Shadows,113.0,"Comedy,Fantasy,Horror",6.2,229818
+102,189,90,2013-06-28,White House Down,150000000,73103784,205440387,1.36960258,2013,tt2334879,White House Down,White House Down,131.0,"Action,Drama,Thriller",6.4,191791
+103,191,92,2017-02-17,The Great Wall,150000000,45157105,334486852,2.2299123466666666,2017,tt2034800,The Great Wall,The Great Wall,103.0,"Action,Adventure,Fantasy",6.0,111602
+104,192,93,2015-10-09,Pan,150000000,35088320,151525973,1.0101731533333334,2015,tt3332064,Pan,Pan,111.0,"Adventure,Comedy,Family",5.8,55867
+105,196,97,2012-06-08,Madagascar 3: Europe's Most Wanted,145000000,216391482,746921271,5.151181179310345,2012,tt1277953,Madagascar 3: Europe's Most Wanted,Madagascar 3: Europe's Most Wanted,93.0,"Adventure,Animation,Comedy",6.8,146858
+106,198,99,2014-06-13,How to Train Your Dragon 2,145000000,177002924,614586270,4.238526,2014,tt1646971,How to Train Your Dragon 2,How to Train Your Dragon 2,102.0,"Action,Adventure,Animation",7.8,278205
+107,200,1,2014-03-07,Mr. Peabody & Sherman,145000000,111506430,269806430,1.860734,2014,tt0864835,Mr. Peabody & Sherman,Mr. Peabody & Sherman,92.0,"Adventure,Animation,Comedy",6.8,57277
+108,201,2,2012-11-21,Rise of the Guardians,145000000,103412758,306900902,2.1165579448275857,2012,tt1446192,Rise of the Guardians,Rise of the Guardians,97.0,"Action,Adventure,Animation",7.3,145281
+109,203,4,2016-07-15,Ghostbusters,144000000,128350574,229008658,1.5903379027777778,2016,tt1289401,Ghostbusters,Ghostbusters,116.0,"Action,Comedy,Fantasy",5.2,186788
+110,209,10,2011-07-22,Captain America: The First Avenger,140000000,176654505,370569776,2.6469269714285715,2011,tt0458339,Captain America: The First Avenger,Captain America: The First Avenger,124.0,"Action,Adventure,Sci-Fi",6.9,668137
+111,210,11,2016-01-29,Kung Fu Panda 3,140000000,143528619,517599142,3.697136728571429,2016,tt2267968,Kung Fu Panda 3,Kung Fu Panda 3,95.0,"Action,Adventure,Animation",7.1,116166
+112,212,13,2013-03-27,G.I. Joe: Retaliation,140000000,122523060,375740705,2.6838621785714287,2013,tt1583421,G.I. Joe: Retaliation,G.I. Joe: Retaliation,110.0,"Action,Adventure,Sci-Fi",5.8,165536
+113,215,16,2014-12-12,Exodus: Gods and Kings,140000000,65014513,268314513,1.9165322357142855,2014,tt1528100,Exodus: Gods and Kings,Exodus: Gods and Kings,150.0,"Action,Adventure,Drama",6.0,150858
+114,216,17,2016-07-01,The BFG,140000000,55483770,199646680,1.4260477142857142,2016,tt3691740,The BFG,The BFG,117.0,"Adventure,Family,Fantasy",6.4,69340
+115,225,26,2013-03-22,The Croods,135000000,187168425,573068425,4.244951296296296,2013,tt0481499,The Croods,The Croods,98.0,"Action,Adventure,Animation",7.2,176699
+116,226,27,2015-12-25,The Revenant,135000000,183637894,532938302,3.9476911259259264,2015,tt1663202,The Revenant,The Revenant,156.0,"Action,Adventure,Biography",8.0,621193
+117,228,29,2011-03-04,Rango,135000000,123477607,245724600,1.820182222222222,2011,tt1192628,Rango,Rango,107.0,"Adventure,Animation,Comedy",7.2,215761
+118,230,31,2013-07-17,Turbo,135000000,83028130,286896578,2.1251598370370366,2013,tt1860353,Turbo,Turbo,96.0,"Adventure,Animation,Comedy",6.4,74639
+119,231,32,2016-06-03,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,82051601,245328374,1.8172472148148149,2016,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,112.0,"Action,Adventure,Comedy",6.0,77234
+120,232,33,2011-11-18,Happy Feet Two,135000000,64006466,157956466,1.1700478962962964,2011,tt1402488,Happy Feet Two,Happy Feet Two,100.0,"Adventure,Animation,Comedy",5.9,38396
+121,234,35,2018-11-02,The Nutcracker and the Four Realms,132900000,54858851,170293899,1.2813686907449209,2018,tt5523010,The Nutcracker and the Four Realms,The Nutcracker and the Four Realms,99.0,"Adventure,Family,Fantasy",5.5,18734
+122,236,37,2014-11-26,Penguins of Madagascar,132000000,83350911,366942531,2.7798676590909093,2014,tt1911658,Penguins of Madagascar,Penguins of Madagascar,92.0,"Adventure,Animation,Comedy",6.7,72551
+123,237,38,2013-11-22,The Hunger Games: Catching Fire,130000000,424668047,864868047,6.652831130769231,2013,tt1951264,The Hunger Games: Catching Fire,The Hunger Games: Catching Fire,146.0,"Action,Adventure,Sci-Fi",7.5,575455
+124,240,41,2018-07-06,Ant-Man and the Wasp,130000000,216648740,623144660,4.793420461538462,2018,tt5095030,Ant-Man and the Wasp,Ant-Man and the Wasp,118.0,"Action,Adventure,Comedy",7.1,244024
+125,242,43,2015-07-17,Ant-Man,130000000,180202163,518858449,3.9912188384615375,2015,tt0478970,Ant-Man,Ant-Man,117.0,"Action,Adventure,Comedy",7.3,501213
+126,243,44,2015-03-27,Home,130000000,177397510,385997896,2.969214584615385,2015,tt2075392,Home,Yurt,76.0,Drama,6.0,96
+127,244,45,2018-12-19,Mary Poppins Returns,130000000,171958438,341528518,2.627142446153846,2018,tt5028340,Mary Poppins Returns,Mary Poppins Returns,130.0,"Comedy,Family,Fantasy",6.9,52103
+128,245,46,2011-10-28,Puss in Boots,130000000,149260504,554987477,4.269134438461538,2011,tt0448694,Puss in Boots,Puss in Boots,90.0,"Action,Adventure,Animation",6.6,133355
+129,248,49,2014-04-11,Rio 2,130000000,131538435,492846291,3.791125315384616,2014,tt2357291,Rio 2,Rio 2,101.0,"Adventure,Animation,Comedy",6.3,72209
+130,250,51,2014-03-28,Noah,130000000,101200044,352831065,2.7140851153846155,2014,tt1091821,Noah,Noah,,Animation,5.6,223
+131,251,52,2011-12-21,The Adventures of Tintin,130000000,77591831,373993951,2.8768765461538464,2011,tt0983193,The Adventures of Tintin,The Adventures of Tintin,107.0,"Action,Adventure,Animation",7.3,202430
+132,252,53,2013-05-31,After Earth,130000000,60522097,251499665,1.934612807692308,2013,tt1815862,After Earth,After Earth,100.0,"Action,Adventure,Drama",4.8,181687
+133,255,56,2019-02-22,How to Train Your Dragon: The Hidden World,129000000,160791800,519258283,4.025258007751938,2019,tt2386490,How to Train Your Dragon: The Hidden World,How to Train Your Dragon: The Hidden World,104.0,"Action,Adventure,Animation",7.6,60769
+134,258,59,2017-03-03,Logan,127000000,226277068,615461394,4.846152708661418,2017,tt1483010,Logan,Logan,94.0,"Comedy,Drama,Family",6.2,252
+135,259,60,2014-12-19,Night at the Museum: Secret of the Tomb,127000000,113746621,353756621,2.7854852047244094,2014,tt2692250,Night at the Museum: Secret of the Tomb,Night at the Museum: Secret of the Tomb,98.0,"Adventure,Comedy,Family",6.2,93103
+136,261,62,2014-11-21,The Hunger Games: Mockingjay - Part 1,125000000,337135885,766575131,6.132601048,2014,tt1951265,The Hunger Games: Mockingjay - Part 1,The Hunger Games: Mockingjay - Part 1,123.0,"Action,Adventure,Sci-Fi",6.6,379050
+137,266,67,2011-04-29,Fast Five,125000000,210031325,630163454,5.041307632,2011,tt1596343,Fast Five,Fast Five,130.0,"Action,Crime,Thriller",7.3,329892
+138,267,68,2014-08-08,Teenage Mutant Ninja Turtles,125000000,191204754,485004754,3.880038032,2014,tt1291150,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,101.0,"Action,Adventure,Comedy",5.8,192220
+139,268,69,2011-12-16,Sherlock Holmes: A Game of Shadows,125000000,186848418,535663443,4.285307544,2011,tt1515091,Sherlock Holmes: A Game of Shadows,Sherlock Holmes: A Game of Shadows,129.0,"Action,Adventure,Crime",7.5,394189
+140,270,71,2017-03-31,The Boss Baby,125000000,175003033,510878762,4.087030096,2017,tt3874544,The Boss Baby,The Boss Baby,97.0,"Adventure,Animation,Comedy",6.3,93730
+141,272,73,2016-11-04,Trolls,125000000,153707064,344150134,2.753201072,2016,tt1679335,Trolls,Trolls,92.0,"Adventure,Animation,Comedy",6.5,63295
+142,274,75,2012-06-08,Prometheus,125000000,126477084,402448265,3.21958612,2012,tt1446714,Prometheus,Prometheus,124.0,"Adventure,Mystery,Sci-Fi",7.0,538720
+143,275,76,2012-08-10,The Bourne Legacy,125000000,113203870,280355920,2.24284736,2012,tt1194173,The Bourne Legacy,The Bourne Legacy,135.0,"Action,Adventure,Thriller",6.7,268678
+144,277,78,2018-07-13,Skyscraper,125000000,68420120,304115534,2.4329242719999997,2018,tt5758778,Skyscraper,Skyscraper,102.0,"Action,Adventure,Thriller",5.8,81193
+145,278,79,2012-08-03,Total Recall,125000000,58877969,211856088,1.694848704,2012,tt1386703,Total Recall,Total Recall,118.0,"Action,Adventure,Mystery",6.3,228460
+146,285,86,2016-07-29,Jason Bourne,120000000,162192920,416168316,3.4680693,2016,tt4196776,Jason Bourne,Jason Bourne,123.0,"Action,Thriller",6.6,190596
+147,287,88,2012-11-21,Life of Pi,120000000,124987022,620912003,5.174266691666666,2012,tt0454876,Life of Pi,Life of Pi,127.0,"Adventure,Drama,Fantasy",7.9,535836
+148,289,90,2018-04-13,Rampage,120000000,101028233,428056280,3.5671356666666667,2018,tt2231461,Rampage,Rampage,107.0,"Action,Adventure,Sci-Fi",6.1,115891
+149,291,92,2013-08-09,Elysium,120000000,93050117,286192091,2.3849340916666666,2013,tt1535108,Elysium,Elysium,109.0,"Action,Drama,Sci-Fi",6.6,395572
+150,292,93,2013-04-19,Oblivion,120000000,89107235,287916633,2.399305275,2013,tt1483013,Oblivion,Oblivion,124.0,"Action,Adventure,Sci-Fi",7.0,453966
+151,293,94,2017-03-24,Power Rangers,120000000,85364450,142531552,1.1877629333333333,2017,tt3717490,Power Rangers,Power Rangers,124.0,"Action,Adventure,Sci-Fi",6.0,92013
+152,295,96,2014-02-12,RoboCop,120000000,58607007,242981799,2.024848325,2014,tt1234721,RoboCop,RoboCop,117.0,"Action,Crime,Sci-Fi",6.2,205798
+153,297,98,2015-08-07,Fantastic Four,120000000,56117548,167849187,1.398743225,2015,tt1502712,Fantastic Four,Fantastic Four,100.0,"Action,Adventure,Drama",4.3,140148
+154,302,3,2018-10-05,Venom,116000000,213511408,853628605,7.358867284482758,2018,tt1270797,Venom,Venom,112.0,"Action,Sci-Fi,Thriller",6.7,275406
+155,307,8,2013-07-26,The Wolverine,115000000,132556852,416456852,3.621363930434783,2013,tt1430132,The Wolverine,The Wolverine,126.0,"Action,Adventure,Sci-Fi",6.7,401286
+156,313,14,2017-12-15,Ferdinand,111000000,84410380,289847930,2.6112426126126125,2017,tt3411444,Ferdinand,Ferdinand,108.0,"Adventure,Animation,Comedy",6.7,40229
+157,314,15,2018-05-18,Deadpool 2,110000000,324591735,786680557,7.151641427272727,2018,tt5463162,Deadpool 2,Deadpool 2,119.0,"Action,Adventure,Comedy",7.8,391735
+158,315,16,2013-10-04,Gravity,110000000,274092705,693698673,6.306351572727272,2013,tt1454468,Gravity,Gravity,91.0,"Drama,Sci-Fi,Thriller",7.7,710018
+159,318,19,2015-05-29,San Andreas,110000000,155190832,456258539,4.1478049,2015,tt2126355,San Andreas,San Andreas,114.0,"Action,Adventure,Drama",6.1,192750
+160,319,20,2011-07-29,The Smurfs,110000000,142614158,563749323,5.124993845454545,2011,tt0472181,The Smurfs,The Smurfs,103.0,"Adventure,Animation,Comedy",5.5,77577
+161,325,26,2014-03-07,300: Rise of an Empire,110000000,106580051,330780051,3.007091372727273,2014,tt1253863,300: Rise of an Empire,300: Rise of an Empire,102.0,"Action,Fantasy,War",6.2,262978
+162,327,28,2016-12-21,Passengers,110000000,100014699,302239672,2.747633381818182,2016,tt1355644,Passengers,Passengers,116.0,"Drama,Romance,Sci-Fi",7.0,311083
+163,328,29,2011-01-14,The Green Hornet,110000000,98780042,229155503,2.083231845454545,2011,tt0990407,The Green Hornet,The Green Hornet,119.0,"Action,Comedy,Crime",5.8,148622
+164,330,31,2011-10-07,Real Steel,110000000,85463309,263880341,2.398912190909091,2011,tt0433035,Real Steel,Real Steel,127.0,"Action,Drama,Family",7.1,283534
+165,332,33,2013-07-31,The Smurfs 2,110000000,71017784,348547523,3.1686138454545456,2013,tt2017020,The Smurfs 2,The Smurfs 2,105.0,"Adventure,Animation,Comedy",5.4,34229
+166,335,36,2013-11-01,Ender's Game,110000000,61737191,127983283,1.1634843909090908,2013,tt1731141,Ender's Game,Ender's Game,114.0,"Action,Adventure,Fantasy",6.6,211722
+167,339,40,2017-03-31,Ghost in the Shell,110000000,40563557,167910690,1.5264608181818182,2017,tt1219827,Ghost in the Shell,Ghost in the Shell,107.0,"Action,Drama,Sci-Fi",6.4,176499
+168,345,46,2015-10-02,The Martian,108000000,228433663,655271443,6.067328175925926,2015,tt3659388,The Martian,The Martian,144.0,"Adventure,Drama,Sci-Fi",8.0,680116
+169,346,47,2016-11-23,Allied,106000000,40098064,119266661,1.125157179245283,2016,tt3640424,Allied,Allied,124.0,"Action,Drama,Romance",7.1,125741
+170,351,52,2016-07-22,Ice Age: Collision Course,105000000,64063008,402156682,3.8300636380952384,2016,tt3416828,Ice Age: Collision Course,Ice Age: Collision Course,94.0,"Adventure,Animation,Comedy",5.7,48932
+171,353,54,2017-09-22,Kingsman: The Golden Circle,104000000,100234838,408803696,3.9308047692307686,2017,tt4649466,Kingsman: The Golden Circle,Kingsman: The Golden Circle,141.0,"Action,Adventure,Comedy",6.8,230797
+172,357,58,2018-03-09,A Wrinkle in Time,103000000,100478608,133401882,1.2951639029126214,2018,tt1620680,A Wrinkle in Time,A Wrinkle in Time,109.0,"Adventure,Family,Fantasy",4.2,34888
+173,361,62,2018-12-21,Bumblebee,102000000,127195589,465195589,4.5607410686274505,2018,tt4701182,Bumblebee,Bumblebee,114.0,"Action,Adventure,Sci-Fi",6.9,94155
+174,362,63,2012-10-26,Cloud Atlas,102000000,27108272,130673154,1.2811093529411766,2012,tt1371111,Cloud Atlas,Cloud Atlas,172.0,"Action,Drama,Mystery",7.4,326473
+175,368,69,2012-12-25,Django Unchained,100000000,162805434,449948323,4.49948323,2012,tt1853728,Django Unchained,Django Unchained,165.0,"Drama,Western",8.4,1211405
+176,375,76,2013-12-25,The Wolf of Wall Street,100000000,116900694,389870414,3.89870414,2013,tt0993846,The Wolf of Wall Street,The Wolf of Wall Street,180.0,"Biography,Crime,Drama",8.2,1035358
+177,376,77,2013-05-24,Epic,100000000,107518682,262794441,2.62794441,2013,tt0848537,Epic,Epic,102.0,"Adventure,Animation,Family",6.7,95318
+178,380,81,2012-08-17,The Expendables 2,100000000,85028192,311979256,3.11979256,2012,tt1764651,The Expendables 2,The Expendables 2,103.0,"Action,Adventure,Thriller",6.6,277584
+179,383,84,2014-07-25,Hercules,100000000,72688614,243388614,2.43388614,2014,tt1267297,Hercules,Hercules,98.0,"Action,Adventure,Fantasy",6.0,137287
+180,393,94,2019-03-15,Wonder Park,100000000,45216793,115149422,1.15149422,2019,tt6428676,Wonder Park,Wonder Park,85.0,"Adventure,Animation,Comedy",5.7,3091
+181,395,96,2014-08-15,The Expendables 3,100000000,39322544,209461378,2.09461378,2014,tt2333784,The Expendables 3,The Expendables 3,126.0,"Action,Adventure,Thriller",6.1,156432
+182,398,99,2017-10-20,Geostorm,100000000,33700160,220796009,2.20796009,2017,tt1981128,Geostorm,Geostorm,109.0,"Action,Sci-Fi,Thriller",5.3,78287
+183,399,100,2015-12-25,Point Break,100000000,28782481,126704591,1.26704591,2015,tt2058673,Point Break,Point Break,114.0,"Action,Crime,Sport",5.3,53802
+184,401,2,2014-04-18,Transcendence,100000000,23022309,103039258,1.03039258,2014,tt2202408,Transcendence,Transcendence,98.0,Drama,6.1,22
+185,406,7,2015-11-06,The Peanuts Movie,99000000,130178411,250091610,2.5261778787878786,2015,tt2452042,The Peanuts Movie,The Peanuts Movie,88.0,"Adventure,Animation,Comedy",7.1,39149
+186,411,12,2017-05-19,Alien: Covenant,97000000,74262031,238521247,2.4589819278350515,2017,tt2316204,Alien: Covenant,Alien: Covenant,122.0,"Horror,Sci-Fi,Thriller",6.4,226920
+187,412,13,2015-03-13,Cinderella,95000000,201151353,534551353,5.62685634736842,2015,tt1661199,Cinderella,Cinderella,105.0,"Drama,Family,Fantasy",6.9,142792
+188,413,14,2012-07-13,Ice Age: Continental Drift,95000000,161321843,879765137,9.26068565263158,2012,tt1667889,Ice Age: Continental Drift,Ice Age: Continental Drift,88.0,"Adventure,Animation,Comedy",6.6,175601
+189,417,18,2012-08-10,The Campaign,95000000,86907746,104907746,1.1042920631578947,2012,tt1790886,The Campaign,The Campaign,85.0,Comedy,6.1,118678
+190,423,24,2015-02-06,Seventh Son,95000000,17725785,108874967,1.1460522842105263,2015,tt1121096,Seventh Son,Seventh Son,102.0,"Action,Adventure,Fantasy",5.5,66565
+191,428,29,2015-02-13,Kingsman: The Secret Service,94000000,128261724,404561724,4.303848127659576,2015,tt2802144,Kingsman: The Secret Service,Kingsman: The Secret Service,129.0,"Action,Adventure,Comedy",7.7,544510
+192,430,31,2011-08-05,Rise of the Planet of the Apes,93000000,176760185,470986200,5.064367741935484,2011,tt1318514,Rise of the Planet of the Apes,Rise of the Planet of the Apes,105.0,"Action,Drama,Sci-Fi",7.6,473020
+193,433,34,2013-02-14,A Good Day to Die Hard,92000000,67349198,304249198,3.3070565000000003,2013,tt1606378,A Good Day to Die Hard,A Good Day to Die Hard,98.0,"Action,Thriller",5.3,188383
+194,436,37,2013-12-25,The Secret Life of Walter Mitty,91000000,58236838,187861183,2.0644086043956045,2013,tt0359950,The Secret Life of Walter Mitty,The Secret Life of Walter Mitty,114.0,"Adventure,Comedy,Drama",7.3,275300
+195,437,38,2017-12-20,Jumanji: Welcome to the Jungle,90000000,404508916,964496193,10.716624366666666,2017,tt2283362,Jumanji: Welcome to the Jungle,Jumanji: Welcome to the Jungle,119.0,"Action,Adventure,Comedy",7.0,242735
+196,445,46,2011-04-15,Rio,90000000,143619809,487519809,5.416886766666668,2011,tt1436562,Rio,Rio,96.0,"Adventure,Animation,Comedy",6.9,191621
+197,450,51,2011-12-20,The Girl with the Dragon Tattoo,90000000,102515793,239373970,2.6597107777777778,2011,tt1568346,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,158.0,"Crime,Drama,Mystery",7.8,387580
+198,454,55,2016-09-23,The Magnificent Seven,90000000,93432655,162525156,1.8058350666666667,2016,tt2404435,The Magnificent Seven,The Magnificent Seven,132.0,"Action,Adventure,Western",6.9,168514
+199,455,56,2015-12-18,Alvin and the Chipmunks: The Road Chip,90000000,85886987,249517956,2.772421733333333,2015,tt2974918,Alvin and the Chipmunks: The Road Chip,Alvin and the Chipmunks: The Road Chip,92.0,"Adventure,Animation,Comedy",5.1,14507
+200,458,59,2015-07-24,Pixels,90000000,78765986,244041804,2.7115756,2015,tt1664775,Pixels,Piksele,100.0,"Action,Comedy",4.6,54
+201,463,64,2013-08-07,Percy Jackson: Sea of Monsters,90000000,68559554,200859554,2.2317728222222217,2013,tt1854564,Percy Jackson: Sea of Monsters,Percy Jackson: Sea of Monsters,106.0,"Adventure,Family,Fantasy",5.8,102313
+202,465,66,2016-06-10,Now You See Me 2,90000000,65075540,328325007,3.648055633333333,2016,tt3110958,Now You See Me 2,Now You See Me 2,129.0,"Action,Adventure,Comedy",6.5,216219
+203,469,70,2018-03-16,Tomb Raider,90000000,58250803,273477501,3.0386389,2018,tt1365519,Tomb Raider,Tomb Raider,119.0,"Action,Adventure,Fantasy",6.3,163560
+204,476,77,2011-10-21,The Three Musketeers,90000000,20377913,139877913,1.554199033333333,2011,tt1509767,The Three Musketeers,The Three Musketeers,110.0,"Action,Adventure,Romance",5.8,98408
+205,483,84,2018-09-14,The Predator,88000000,51024708,159487563,1.8123586704545451,2018,tt3829266,The Predator,The Predator,107.0,"Action,Adventure,Sci-Fi",5.4,94888
+206,494,95,2014-03-21,Divergent,85000000,150947895,276014965,3.2472348823529416,2014,tt1840309,Divergent,Divergent,139.0,"Action,Adventure,Mystery",6.7,399703
+207,495,96,2012-09-28,Hotel Transylvania,85000000,148313048,378505812,4.453009552941175,2012,tt0837562,Hotel Transylvania,Hotel Transylvania,91.0,"Animation,Comedy,Family",7.1,204571
+208,496,97,2019-04-05,Shazam!,85000000,139606856,362899733,4.269408623529412,2019,tt0448115,Shazam!,Shazam!,132.0,"Action,Adventure,Comedy",7.4,109051
+209,498,99,2012-02-10,Safe House,85000000,126181630,208542162,2.4534372,2012,tt1599348,Safe House,Safe House,115.0,"Action,Adventure,Crime",6.8,192655
+210,504,5,2011-11-04,Tower Heist,85000000,78046570,150422946,1.7696817176470587,2011,tt0471042,Tower Heist,Tower Heist,104.0,"Action,Comedy,Crime",6.2,125102
+211,506,7,2012-03-30,Mirror Mirror,85000000,64935167,173613482,2.0425115529411766,2012,tt1667353,Mirror Mirror,Mirror Mirror,106.0,"Adventure,Comedy,Drama",5.6,79510
+212,513,14,2011-11-23,Arthur Christmas,85000000,46462469,149717124,1.7613779294117646,2011,tt1430607,Arthur Christmas,Arthur Christmas,97.0,"Adventure,Animation,Comedy",7.1,45439
+213,514,15,2017-01-20,xXx: Return of Xander Cage,85000000,44898413,345033359,4.059215988235295,2017,tt1293847,xXx: Return of Xander Cage,xXx: Return of Xander Cage,107.0,"Action,Adventure,Thriller",5.2,77976
+214,524,25,2017-12-20,The Greatest Showman,84000000,174340174,386665550,4.603161309523808,2017,tt1485796,The Greatest Showman,The Greatest Showman,105.0,"Biography,Drama,Musical",7.6,199663
+215,527,28,2013-07-19,RED 2,84000000,53262560,141507355,1.6846113690476192,2013,tt1821694,RED 2,RED 2,116.0,"Action,Comedy,Crime",6.6,148846
+216,537,38,2012-03-23,The Hunger Games,80000000,408010692,677923379,8.4740422375,2012,tt1392170,The Hunger Games,The Hunger Games,142.0,"Action,Adventure,Sci-Fi",7.2,795227
+217,538,39,2011-05-26,The Hangover Part II,80000000,254464305,586464305,7.3308038125,2011,tt1411697,The Hangover Part II,The Hangover Part II,102.0,"Comedy,Mystery",6.5,432800
+218,540,41,2017-02-10,The Lego Batman Movie,80000000,175750384,310660018,3.883250225,2017,tt4116284,The Lego Batman Movie,The Lego Batman Movie,104.0,"Action,Animation,Comedy",7.3,116433
+219,541,42,2015-09-25,Hotel Transylvania 2,80000000,169700110,469500298,5.868753725,2015,tt2510894,Hotel Transylvania 2,Hotel Transylvania 2,89.0,"Animation,Comedy,Family",6.7,92905
+220,547,48,2013-07-12,Grown Ups 2,80000000,133668525,247023808,3.0877976,2013,tt2191701,Grown Ups 2,Grown Ups 2,101.0,Comedy,5.4,128500
+221,548,49,2011-12-16,Alvin and the Chipmunks: Chipwrecked,80000000,133107389,349088523,4.3636065375,2011,tt1615918,Alvin and the Chipmunks: Chipwrecked,Alvin and the Chipmunks: Chipwrecked,87.0,"Adventure,Animation,Comedy",4.4,28158
+222,567,68,2014-10-17,Fury,80000000,85817906,210315681,2.6289460125,2014,tt2713180,Fury,Fury,134.0,"Action,Drama,War",7.6,381993
+223,568,69,2018-09-28,Smallfoot,80000000,83240103,213691277,2.6711409625,2018,tt6182908,Smallfoot,Smallfoot,96.0,"Adventure,Animation,Comedy",6.7,23295
+224,570,71,2011-07-08,Zookeeper,80000000,80360866,170805525,2.1350690625,2011,tt1222817,Zookeeper,Zookeeper,102.0,"Comedy,Family,Romance",5.2,52396
+225,580,81,2019-06-07,The Secret Life of Pets 2,80000000,63795655,113351496,1.4168937,2019,tt5113040,The Secret Life of Pets 2,The Secret Life of Pets 2,86.0,"Adventure,Animation,Comedy",6.6,3467
+226,595,96,2015-10-23,The Last Witch Hunter,80000000,27367660,130818912,1.6352364,2015,tt1618442,The Last Witch Hunter,The Last Witch Hunter,106.0,"Action,Adventure,Fantasy",6.0,86118
+227,596,97,2014-02-21,Pompeii,80000000,23169033,108469033,1.3558629125,2014,tt1921064,Pompeii,Pompeii,105.0,"Action,Adventure,Drama",5.5,100467
+228,609,10,2012-02-10,Journey 2: The Mysterious Island,79000000,103860290,318146162,4.0271666075949355,2012,tt1397514,Journey 2: The Mysterious Island,Journey 2: The Mysterious Island,94.0,"Action,Adventure,Comedy",5.8,83507
+229,610,11,2011-11-11,Jack and Jill,79000000,74158157,150519217,1.905306544303797,2011,tt0810913,Jack and Jill,Jack and Jill,91.0,Comedy,3.3,71361
+230,612,13,2013-09-27,Cloudy with a Chance of Meatballs 2,78000000,119793567,274392649,3.5178544743589737,2013,tt1985966,Cloudy with a Chance of Meatballs 2,Cloudy with a Chance of Meatballs 2,95.0,"Adventure,Animation,Comedy",6.4,81010
+231,618,19,2016-02-12,The Little Prince,77500000,1311213,102028919,1.3165021806451611,2016,tt10075374,The Little Prince,The Little Prince,93.0,Action,8.3,6
+232,620,21,2018-07-20,The Equalizer 2,77000000,102084362,190453132,2.473417298701299,2018,tt3766354,The Equalizer 2,The Equalizer 2,121.0,"Action,Crime,Thriller",6.7,97963
+233,621,22,2013-07-03,Despicable Me 2,76000000,368065385,975216835,12.831800460526313,2013,tt1690953,Despicable Me 2,Despicable Me 2,98.0,"Adventure,Animation,Comedy",7.4,344230
+234,625,26,2016-07-08,The Secret Life of Pets,75000000,368384330,886750534,11.823340453333332,2016,tt2709768,The Secret Life of Pets,The Secret Life of Pets,87.0,"Adventure,Animation,Comedy",6.5,161997
+235,628,29,2016-12-21,Sing,75000000,270329045,634454789,8.459397186666667,2016,tt3470600,Sing,Sing,108.0,"Animation,Comedy,Family",7.1,115951
+236,629,30,2017-06-30,Despicable Me 3,75000000,264624300,1034727750,13.796370000000001,2017,tt3469046,Despicable Me 3,Despicable Me 3,89.0,"Adventure,Animation,Comedy",6.3,92580
+237,640,41,2013-05-31,Now You See Me,75000000,117723989,342769200,4.570256,2013,tt1670345,Now You See Me,Now You See Me,115.0,"Crime,Mystery,Thriller",7.3,553156
+238,642,43,2018-08-03,Christopher Robin,75000000,99215042,197504758,2.633396773333333,2018,tt4575576,Christopher Robin,Christopher Robin,104.0,"Adventure,Animation,Comedy",7.3,52737
+239,644,45,2011-11-11,Immortals,75000000,83504017,211562435,2.820832466666667,2011,tt1253864,Immortals,Immortals,110.0,"Action,Drama,Fantasy",6.0,152992
+240,661,62,2011-03-25,Sucker Punch,75000000,36392502,89758389,1.19677852,2011,tt0978764,Sucker Punch,Sucker Punch,110.0,"Action,Adventure,Fantasy",6.1,218371
+241,663,64,2016-10-28,Inferno,75000000,34343574,219519367,2.926924893333333,2016,tt1686470,Inferno,Giao lo dinh menh,100.0,Thriller,6.3,50
+242,672,73,2015-07-10,Minions,74000000,336045770,1160336173,15.680218554054056,2015,tt2293640,Minions,Minions,91.0,"Adventure,Animation,Comedy",6.4,193917
+243,673,74,2015-02-06,The SpongeBob Movie: Sponge Out of Water,74000000,162994032,311013181,4.202880824324326,2015,tt2279373,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,92.0,"Adventure,Animation,Comedy",6.0,43560
+244,676,77,2016-05-20,The Angry Birds Movie,73000000,107509366,352327887,4.826409410958903,2016,tt1985949,The Angry Birds Movie,Angry Birds,97.0,"Action,Animation,Comedy",6.3,69624
+245,708,9,2013-03-22,Olympus Has Fallen,70000000,98927592,172878928,2.4696989714285715,2013,tt2302755,Olympus Has Fallen,Olympus Has Fallen,119.0,"Action,Thriller",6.5,235443
+246,711,12,2011-12-25,War Horse,70000000,79883359,156815529,2.2402218428571428,2011,tt1568911,War Horse,War Horse,146.0,"Drama,History,War",7.2,136447
+247,713,14,2014-02-07,The Monuments Men,70000000,78031620,158702748,2.2671821142857143,2014,tt2177771,The Monuments Men,The Monuments Men,118.0,"Comedy,Drama,History",6.1,117638
+248,714,15,2016-09-23,Storks,70000000,72679278,183353431,2.6193347285714284,2016,tt4624424,Storks,Storks,87.0,"Adventure,Animation,Comedy",6.8,50448
+249,719,20,2017-09-22,The Lego Ninjago Movie,70000000,59281555,122737201,1.7533885857142857,2017,tt3014284,The Lego Ninjago Movie,The Lego Ninjago Movie,101.0,"Action,Adventure,Animation",6.0,18926
+250,720,21,2014-10-10,Dracula Untold,70000000,55991880,220241723,3.1463103285714284,2014,tt0829150,Dracula Untold,Dracula Untold,92.0,"Action,Drama,Fantasy",6.3,164829
+251,724,25,2011-01-14,The Dilemma,70000000,48475290,70546865,1.0078123571428572,2011,tt1578275,The Dilemma,The Dilemma,111.0,"Comedy,Drama",5.3,48148
+252,736,37,2013-10-18,Escape Plan,70000000,25135965,103735965,1.4819423571428572,2013,tt1211956,Escape Plan,Escape Plan,115.0,"Action,Crime,Mystery",6.7,211587
+253,751,52,2018-03-02,Red Sparrow,69000000,46874505,145951861,2.1152443623188404,2018,tt2873282,Red Sparrow,Red Sparrow,140.0,"Action,Drama,Thriller",6.6,136738
+254,754,55,2015-06-26,Ted 2,68000000,81476385,217214143,3.1943256323529416,2015,tt2637276,Ted 2,Ted 2,115.0,Comedy,6.3,165843
+255,756,57,2011-02-25,Hall Pass,68000000,45060734,87173475,1.2819628676470591,2011,tt0480687,Hall Pass,Hall Pass,105.0,"Comedy,Romance",5.9,113775
+256,764,65,2012-06-22,Abraham Lincoln: Vampire Hunter,67500000,37519139,137489730,2.0368848888888893,2012,tt1611224,Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,105.0,"Action,Fantasy,Horror",5.9,142853
+257,769,70,2014-03-14,Need for Speed,66000000,43568507,194169619,2.9419639242424243,2014,tt2369135,Need for Speed,Need for Speed,132.0,"Action,Crime,Thriller",6.5,154909
+258,772,73,2012-11-09,Lincoln,65000000,182207973,273346281,4.205327400000001,2012,tt0443272,Lincoln,Lincoln,150.0,"Biography,Drama,History",7.4,228701
+259,776,77,2018-07-13,Hotel Transylvania 3: Summer Vacation,65000000,167500092,527079962,8.108922492307693,2018,tt5220122,Hotel Transylvania 3: Summer Vacation,Hotel Transylvania 3: Summer Vacation,97.0,"Adventure,Animation,Comedy",6.3,42299
+260,781,82,2014-12-25,Unbroken,65000000,115637895,163527824,2.5158126769230766,2014,tt1809398,Unbroken,Unbroken,137.0,"Biography,Drama,Sport",7.2,129981
+261,788,89,2014-12-19,Annie,65000000,85911262,139829625,2.151225,2014,tt1823664,Annie,Annie,118.0,"Comedy,Drama,Family",5.3,31241
+262,795,96,2012-05-16,The Dictator,65000000,59650222,180148897,2.7715214923076923,2012,tt1645170,The Dictator,The Dictator,83.0,Comedy,6.4,250976
+263,797,98,2012-02-17,This Means War,65000000,54760791,156974557,2.4149931846153847,2012,tt1596350,This Means War,This Means War,103.0,"Action,Comedy,Romance",6.3,167438
+264,798,99,2015-02-27,Focus,65000000,53862963,168065700,2.585626153846154,2015,tt2381941,Focus,Focus,105.0,"Comedy,Crime,Drama",6.6,192147
+265,802,3,2015-09-18,Everest,65000000,43482270,221297061,3.4045701692307686,2015,tt2719848,Everest,Everest,121.0,"Action,Adventure,Biography",7.1,181133
+266,803,4,2012-09-14,Resident Evil: Retribution,65000000,42345531,240647629,3.702271215384616,2012,tt1855325,Resident Evil: Retribution,Resident Evil: Retribution,95.0,"Action,Horror,Sci-Fi",5.4,125191
+267,826,27,2011-04-01,Hop,63000000,108085305,188657593,2.9945649682539686,2011,tt1411704,Hop,Hop,95.0,"Adventure,Animation,Comedy",5.4,28893
+268,827,28,2017-09-15,American Assassin,63000000,36249674,68310140,1.0842879365079363,2017,tt1961175,American Assassin,American Assassin,112.0,"Action,Thriller",6.2,57793
+269,832,33,2015-12-25,The Hateful Eight,62000000,54117416,147864886,2.3849175161290317,2015,tt3460252,The Hateful Eight,The Hateful Eight,168.0,"Crime,Drama,Mystery",7.8,434966
+270,835,36,2014-10-03,Gone Girl,61000000,167767189,368567189,6.042085065573771,2014,tt2267998,Gone Girl,Gone Girl,149.0,"Drama,Mystery,Thriller",8.1,761592
+271,837,38,2015-09-18,Maze Runner: The Scorch Trials,61000000,81697192,310566162,5.09124855737705,2015,tt4046784,Maze Runner: The Scorch Trials,Maze Runner: The Scorch Trials,131.0,"Action,Sci-Fi,Thriller",6.3,201143
+272,838,39,2013-08-02,2 Guns,61000000,75612460,132493015,2.1720166393442617,2013,tt1272878,2 Guns,2 Guns,109.0,"Action,Comedy,Crime",6.7,182025
+273,843,44,2014-02-07,The Lego Movie,60000000,257784718,457729388,7.6288231333333325,2014,tt1490017,The Lego Movie,The Lego Movie,100.0,"Action,Adventure,Animation",7.8,304179
+274,849,50,2016-09-09,Sully,60000000,125070033,238524556,3.9754092666666665,2016,tt3263904,Sully,Sully,96.0,"Biography,Drama",7.5,202718
+275,867,68,2012-12-21,Jack Reacher,60000000,80070736,217370736,3.6228455999999998,2012,tt0790724,Jack Reacher,Jack Reacher,130.0,"Action,Crime,Thriller",7.0,284547
+276,870,71,2011-09-09,Contagion,60000000,75658097,137551594,2.2925265666666665,2011,tt1598778,Contagion,Contagion,106.0,"Action,Drama,Thriller",6.6,201536
+277,879,80,2016-03-04,London Has Fallen,60000000,62524260,195194085,3.25323475,2016,tt3300542,London Has Fallen,London Has Fallen,99.0,"Action,Thriller",5.9,124757
+278,884,85,2016-10-21,Jack Reacher: Never Go Back,60000000,58697076,159946489,2.6657748166666666,2016,tt3393786,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,118.0,"Action,Thriller",6.1,121892
+279,885,86,2017-05-25,Baywatch,60000000,58060186,175863783,2.93106305,2017,tt1469304,Baywatch,Baywatch,116.0,"Action,Comedy,Crime",5.6,137528
+280,887,88,2015-12-25,Joy,60000000,56451232,101134059,1.68556765,2015,tt1465490,Joy,Joy,75.0,Drama,6.1,233
+281,888,89,2012-08-17,ParaNorman,60000000,56003051,108119662,1.801994366666667,2012,tt1623288,ParaNorman,ParaNorman,92.0,"Adventure,Animation,Comedy",7.0,87250
+282,893,94,2014-09-26,The Boxtrolls,60000000,50837305,111946251,1.86577085,2014,tt0787474,The Boxtrolls,The Boxtrolls,96.0,"Adventure,Animation,Comedy",6.8,50763
+283,894,95,2017-08-04,The Dark Tower,60000000,50701325,113461527,1.89102545,2017,tt1648190,The Dark Tower,The Dark Tower,95.0,"Action,Adventure,Fantasy",5.7,107518
+284,896,97,2014-01-17,Jack Ryan: Shadow Recruit,60000000,50577412,131377412,2.189623533333333,2014,tt1205537,Jack Ryan: Shadow Recruit,Jack Ryan: Shadow Recruit,105.0,"Action,Drama,Thriller",6.2,114913
+285,899,100,2018-12-25,Vice,60000000,47836282,70883171,1.1813861833333332,2018,tt3480796,Vice,Vice,96.0,"Action,Adventure,Sci-Fi",4.2,14436
+286,903,4,2013-01-11,Gangster Squad,60000000,46000903,104100903,1.73501505,2013,tt1321870,Gangster Squad,Gangster Squad,113.0,"Action,Crime,Drama",6.7,195560
+287,904,5,2017-04-07,Smurfs: The Lost Village,60000000,45020282,197578586,3.292976433333333,2017,tt2398241,Smurfs: The Lost Village,Smurfs: The Lost Village,90.0,"Adventure,Animation,Comedy",6.0,15612
+288,905,6,2018-10-12,First Man,60000000,44936545,105203825,1.7533970833333334,2018,tt1213641,First Man,First Man,141.0,"Biography,Drama,History",7.4,120009
+289,922,23,2019-02-08,Cold Pursuit,60000000,32138862,62599159,1.0433193166666668,2019,tt5719748,Cold Pursuit,Cold Pursuit,119.0,"Action,Crime,Drama",6.2,27648
+290,925,26,2013-08-21,The Mortal Instruments: City of Bones,60000000,31165421,75965567,1.2660927833333333,2013,tt1538403,The Mortal Instruments: City of Bones,The Mortal Instruments: City of Bones,130.0,"Action,Fantasy,Horror",5.9,121936
+291,928,29,2011-05-13,Priest,60000000,29136626,84154026,1.4025671,2011,tt0822847,Priest,Priest,87.0,"Action,Adventure,Fantasy",5.7,108320
+292,953,54,2018-03-23,Sherlock Gnomes,59000000,43242871,87527651,1.4835195084745765,2018,tt2296777,Sherlock Gnomes,Sherlock Gnomes,86.0,"Adventure,Animation,Comedy",5.1,8030
+293,955,56,2016-02-12,Deadpool,58000000,363070709,801025593,13.810786086206894,2016,tt1431045,Deadpool,Deadpool,108.0,"Action,Adventure,Comedy",8.0,820847
+294,956,57,2014-12-25,American Sniper,58000000,350126372,547326372,9.436661586206895,2014,tt2179136,American Sniper,American Sniper,133.0,"Action,Biography,Drama",7.3,401915
+295,957,58,2015-10-16,Goosebumps,58000000,80069458,158905324,2.739746965517241,2015,tt1051904,Goosebumps,Goosebumps,103.0,"Adventure,Comedy,Family",6.3,72858
+296,962,63,2013-06-07,The Internship,58000000,44672764,93672764,1.6150476551724138,2013,tt2234155,The Internship,The Internship,119.0,Comedy,6.3,179817
+297,965,66,2017-03-24,Life,58000000,30234022,100929666,1.7401666551724138,2017,tt1869538,Life,Life,75.0,Documentary,7.8,5
+298,970,71,2012-06-15,That's My Boy,57500000,36931089,58085235,1.010178,2012,tt1232200,That's My Boy,That's My Boy,116.0,Comedy,5.6,83009
+299,972,73,2012-02-17,Ghost Rider: Spirit of Vengeance,57000000,51774002,149217355,2.6178483333333333,2012,tt1071875,Ghost Rider: Spirit of Vengeance,Ghost Rider: Spirit of Vengeance,96.0,"Action,Fantasy,Thriller",4.3,103608
+300,976,77,2014-12-25,Into the Woods,56200000,128002372,213116401,3.792106779359431,2014,tt2180411,Into the Woods,Into the Woods,125.0,"Adventure,Comedy,Drama",6.0,123577
+301,983,84,2018-11-02,Bohemian Rhapsody,55000000,216303339,894985342,16.272460763636364,2018,tt1727824,Bohemian Rhapsody,Bohemian Rhapsody,134.0,"Biography,Drama,Music",8.0,345466
+302,990,91,2017-02-10,Fifty Shades Darker,55000000,114434010,381398492,6.934518036363636,2017,tt4465564,Fifty Shades Darker,Fifty Shades Darker,118.0,"Drama,Romance",4.6,81706
+303,991,92,2013-10-11,Captain Phillips,55000000,107136417,220648184,4.011785163636364,2013,tt1535109,Captain Phillips,Captain Phillips,134.0,"Biography,Drama,Thriller",7.8,387402
+304,994,95,2017-11-10,Murder on the Orient Express,55000000,102826543,345922730,6.289504181818183,2017,tt3402236,Murder on the Orient Express,Murder on the Orient Express,114.0,"Crime,Drama,Mystery",6.5,178603
+305,995,96,2014-09-26,The Equalizer,55000000,101530738,192903624,3.507338618181818,2014,tt0455944,The Equalizer,The Equalizer,132.0,"Action,Crime,Thriller",7.2,302302
+306,996,97,2018-02-09,Fifty Shades Freed,55000000,100407760,371350619,6.7518294363636375,2018,tt4477536,Fifty Shades Freed,Fifty Shades Freed,105.0,"Drama,Romance,Thriller",4.5,43893
+307,1004,5,2015-01-16,Paddington,55000000,76223578,258789097,4.70525630909091,2015,tt1109624,Paddington,Paddington,95.0,"Adventure,Comedy,Family",7.2,84679
+308,1015,16,2013-11-01,Free Birds,55000000,55750480,110387072,2.0070376727272725,2013,tt1621039,Free Birds,Free Birds,91.0,"Adventure,Animation,Comedy",5.9,20934
+309,1019,20,2014-03-21,Muppets Most Wanted,55000000,51178893,79312301,1.4420418363636365,2014,tt2281587,Muppets Most Wanted,Muppets Most Wanted,107.0,"Adventure,Comedy,Crime",6.4,29018
+310,1021,22,2016-08-19,Kubo and the Two Strings,55000000,48023088,77548122,1.4099658545454543,2016,tt4302938,Kubo and the Two Strings,Kubo and the Two Strings,101.0,"Action,Adventure,Animation",7.8,105578
+311,1026,27,2012-07-27,The Watch,55000000,34353000,67130045,1.220546272727273,2012,tt1298649,The Watch,The Watch,102.0,"Action,Comedy,Horror",5.7,115757
+312,1032,33,2015-10-16,Crimson Peak,55000000,31090320,74966854,1.363033709090909,2015,tt2554274,Crimson Peak,Crimson Peak,119.0,"Drama,Fantasy,Horror",6.5,119287
+313,1033,34,2012-04-27,The Pirates! Band of Misfits,55000000,31051126,136143605,2.4753382727272726,2012,tt1430626,The Pirates! Band of Misfits,The Pirates! In an Adventure with Scientists!,88.0,"Adventure,Animation,Comedy",6.7,41958
+314,1058,59,2015-09-18,Black Mass,53000000,62575678,98837872,1.8648655094339623,2015,tt1355683,Black Mass,Black Mass,123.0,"Biography,Crime,Drama",6.9,155847
+315,1065,66,2012-12-19,Zero Dark Thirty,52500000,95720716,134612435,2.564046380952381,2012,tt1790885,Zero Dark Thirty,Zero Dark Thirty,157.0,"Drama,Thriller",7.4,251072
+316,1071,72,2011-08-05,The Change-Up,52000000,37243418,75997067,1.4614820576923078,2011,tt1488555,The Change-Up,The Change-Up,112.0,"Comedy,Fantasy",6.3,155374
+317,1078,79,2018-08-17,Alpha,51000000,35851379,99624873,1.953428882352941,2018,tt2121250,Alpha,Alpha,116.0,Crime,5.5,102
+318,1080,81,2011-03-04,The Adjustment Bureau,50200000,62495645,126931325,2.528512450199204,2011,tt1385826,The Adjustment Bureau,The Adjustment Bureau,106.0,"Romance,Sci-Fi,Thriller",7.1,227616
+319,1083,84,2012-06-29,Ted,50000000,218665740,556016627,11.12033254,2012,tt1637725,Ted,Ted,106.0,"Comedy,Fantasy",6.9,538367
+320,1084,85,2014-06-13,22 Jump Street,50000000,191719337,331333876,6.62667752,2014,tt2294449,22 Jump Street,22 Jump Street,112.0,"Action,Comedy,Crime",7.0,319504
+321,1090,91,2016-06-17,Central Intelligence,50000000,127440871,217194805,4.343896099999999,2016,tt1489889,Central Intelligence,Central Intelligence,107.0,"Action,Comedy,Crime",6.3,138872
+322,1091,92,2013-12-18,Anchorman 2: The Legend Continues,50000000,127352707,172185754,3.44371508,2013,tt1229340,Anchorman 2: The Legend Continues,Anchorman 2: The Legend Continues,119.0,Comedy,6.3,156116
+323,1092,93,2011-06-10,Super 8,50000000,127004179,257972745,5.159454900000001,2011,tt1650062,Super 8,Super 8,112.0,"Mystery,Sci-Fi,Thriller",7.0,320575
+324,1095,96,2018-11-21,Creed II,50000000,115715889,213591522,4.27183044,2018,tt6343314,Creed II,Creed II,130.0,"Drama,Sport",7.2,72503
+325,1096,97,2018-02-09,Peter Rabbit,50000000,115234093,347136477,6.94272954,2018,tt5117670,Peter Rabbit,Peter Rabbit,95.0,"Adventure,Animation,Comedy",6.6,27908
+326,1099,100,2018-12-14,The Mule,50000000,103804407,170857676,3.41715352,2018,tt0804509,The Mule,La mula,100.0,"Comedy,Drama",6.2,653
+327,1101,2,2014-02-28,Non-Stop,50000000,91742160,222383055,4.4476610999999995,2014,tt2024469,Non-Stop,Non-Stop,106.0,"Action,Mystery,Thriller",7.0,234717
+328,1106,7,2017-07-28,The Emoji Movie,50000000,86089513,216562312,4.33124624,2017,tt4877122,The Emoji Movie,The Emoji Movie,86.0,"Adventure,Animation,Comedy",3.2,47294
+329,1108,9,2017-12-22,The Post,50000000,81903458,179748880,3.5949776,2017,tt6294822,The Post,The Post,116.0,"Biography,Drama,History",7.2,108017
+330,1113,14,2011-12-23,We Bought a Zoo,50000000,75624550,118729073,2.37458146,2011,tt1389137,We Bought a Zoo,We Bought a Zoo,124.0,"Comedy,Drama,Family",7.1,126849
+331,1114,15,2011-09-23,Moneyball,50000000,75605492,111300835,2.2260167,2011,tt1210166,Moneyball,Moneyball,133.0,"Biography,Drama,Sport",7.6,326657
+332,1125,26,2012-04-06,American Reunion,50000000,56758835,236799211,4.73598422,2012,tt1605630,American Reunion,American Reunion,113.0,Comedy,6.7,192250
+333,1126,27,2013-01-25,Hansel & Gretel: Witch Hunters,50000000,55703475,214949716,4.29899432,2013,tt1428538,Hansel & Gretel: Witch Hunters,Hansel & Gretel: Witch Hunters,88.0,"Action,Fantasy,Horror",6.1,183387
+334,1131,32,2017-09-29,American Made,50000000,51342000,135569212,2.71138424,2017,tt3532216,American Made,American Made,115.0,"Action,Biography,Comedy",7.2,131043
+335,1134,35,2014-10-17,The Book of Life,50000000,50151543,97651543,1.95303086,2014,tt2262227,The Book of Life,The Book of Life,95.0,"Adventure,Animation,Comedy",7.3,59486
+336,1139,40,2014-08-08,Into the Storm,50000000,47602194,150429371,3.00858742,2014,tt2106361,Into the Storm,Into the Storm,89.0,"Action,Adventure,Drama",5.8,60894
+337,1140,41,2014-10-10,The Judge,50000000,47119388,76119388,1.52238776,2014,tt1872194,The Judge,The Judge,141.0,"Crime,Drama",7.4,162952
+338,1144,45,2016-08-19,War Dogs,50000000,43034523,86234503,1.72469006,2016,tt2005151,War Dogs,War Dogs,114.0,"Comedy,Crime,Drama",7.1,154029
+339,1155,56,2016-05-20,The Nice Guys,50000000,36261763,59596747,1.19193494,2016,tt3799694,The Nice Guys,The Nice Guys,116.0,"Action,Comedy,Crime",7.4,240337
+340,1163,64,2016-02-12,Zoolander 2,50000000,28848693,55348693,1.10697386,2016,tt1608290,Zoolander 2,Zoolander 2,101.0,Comedy,4.7,59914
+341,1167,68,2013-03-29,The Host,50000000,26623701,64477051,1.28954102,2013,tt1517260,The Host,The Host,125.0,"Action,Adventure,Drama",5.9,105633
+342,1169,70,2015-03-13,Run All Night,50000000,26461644,66961644,1.33923288,2015,tt2199571,Run All Night,Run All Night,114.0,"Action,Drama,Thriller",6.6,94131
+343,1184,85,2013-02-14,Beautiful Creatures,50000000,19452138,60282876,1.20565752,2013,tt1559547,Beautiful Creatures,Beautiful Creatures,124.0,"Drama,Fantasy,Romance",6.2,79764
+344,1210,11,2015-03-06,Chappie,49000000,31569268,105002056,2.142899102040816,2015,tt1823672,Chappie,Chappie,120.0,"Action,Crime,Drama",6.8,213733
+345,1212,13,2012-11-16,Anna Karenina,49000000,12816367,71004627,1.4490740204081634,2012,tt1781769,Anna Karenina,Anna Karenina,129.0,"Drama,Romance",6.6,84668
+346,1217,18,2015-01-09,Taken 3,48000000,89256424,327656424,6.826175500000001,2015,tt2446042,Taken 3,Taken 3,108.0,"Action,Thriller",6.0,165072
+347,1219,20,2018-11-16,Instant Family,48000000,67363237,119736188,2.4945039166666665,2018,tt7401588,Instant Family,Instant Family,118.0,"Comedy,Drama",7.4,46728
+348,1233,34,2016-11-11,Arrival,47000000,100546139,203127894,4.321870085106384,2016,tt2543164,Arrival,Arrival,116.0,"Drama,Mystery,Sci-Fi",7.9,515483
+349,1247,48,2013-09-20,Prisoners,46000000,61002302,113402302,2.465267434782609,2013,tt1392214,Prisoners,Prisoners,153.0,"Crime,Drama,Mystery",8.1,526273
+350,1253,54,2012-10-05,Taken 2,45000000,139854287,377807404,8.395720088888886,2012,tt1397280,Taken 2,Taken 2,92.0,"Action,Thriller",6.3,273106
+351,1257,58,2017-12-22,Pitch Perfect 3,45000000,104897530,185736412,4.127475822222221,2017,tt4765284,Pitch Perfect 3,Pitch Perfect 3,93.0,"Comedy,Music",5.8,45127
+352,1263,64,2011-11-23,The Muppets,45000000,88625922,160971922,3.5771538222222223,2011,tt1204342,The Muppets,The Muppets,103.0,"Adventure,Comedy,Family",7.1,82752
+353,1267,68,2016-10-07,The Girl on the Train,45000000,75395035,174278214,3.8728491999999997,2016,tt2387589,The Girl on the Train,The Girl on the Train,80.0,Thriller,4.4,819
+354,1280,81,2016-12-09,Office Christmas Party,45000000,54767494,91323299,2.0294066444444443,2016,tt1711525,Office Christmas Party,Office Christmas Party,105.0,Comedy,5.8,59253
+355,1287,88,2012-07-06,Savages,45000000,47323100,82513490,1.8336331111111108,2012,tt1615065,Savages,Savages,131.0,"Crime,Drama,Thriller",6.5,115793
+356,1289,90,2014-05-23,Blended,45000000,46290741,127990741,2.844238688888889,2014,tt1086772,Blended,Blended,117.0,"Comedy,Romance",6.5,106491
+357,1290,91,2017-06-16,All Eyez on Me,45000000,44922302,54876855,1.2194856666666667,2017,tt1666185,All Eyez on Me,All Eyez on Me,139.0,"Biography,Drama,Music",5.8,18541
+358,1318,19,2011-10-21,Johnny English Reborn,45000000,8406711,164640401,3.6586755777777777,2011,tt1634122,Johnny English Reborn,Johnny English Reborn,101.0,"Action,Adventure,Comedy",6.3,110824
+359,1326,27,2012-10-12,Argo,44500000,136025503,227140757,5.104286674157303,2012,tt1024648,Argo,Argo,120.0,"Biography,Drama,Thriller",7.7,534683
+360,1334,35,2013-06-28,The Heat,43000000,159581587,229727774,5.342506372093023,2013,tt2404463,The Heat,The Heat,117.0,"Action,Comedy,Crime",6.6,153501
+361,1340,41,2017-01-06,A Monster Calls,43000000,3740823,46414530,1.0794076744186047,2017,tt3416532,A Monster Calls,A Monster Calls,108.0,"Animation,Drama,Fantasy",7.5,70416
+362,1341,42,2011-01-28,The Mechanic,42500000,29121498,76347393,1.7964092470588235,2011,tt0472399,The Mechanic,The Mechanic,93.0,"Action,Crime,Thriller",6.6,141254
+363,1343,44,2012-03-16,21 Jump Street,42000000,138447667,202812429,4.828867357142856,2012,tt1232829,21 Jump Street,21 Jump Street,109.0,"Action,Comedy,Crime",7.2,477771
+364,1350,51,2017-05-12,Snatched,42000000,45852178,57852177,1.3774327857142856,2017,tt1245534,Snatched,Snatched,81.0,Comedy,5.5,61
+365,1351,52,2012-10-12,Here Comes the Boom,42000000,45290318,73239258,1.7437918571428572,2012,tt1648179,Here Comes the Boom,Here Comes the Boom,105.0,"Action,Comedy,Sport",6.4,81761
+366,1354,55,2011-03-11,Red Riding Hood,42000000,37662162,91678442,2.1828200476190482,2011,tt1486185,Red Riding Hood,Red Riding Hood,100.0,"Fantasy,Horror,Mystery",5.5,102369
+367,1363,64,2012-01-27,Man on a Ledge,42000000,18620000,49621440,1.1814628571428571,2012,tt1568338,Man on a Ledge,Man on a Ledge,102.0,"Action,Adventure,Crime",6.6,137507
+368,1370,71,2019-05-31,Rocketman,41000000,57342725,108642725,2.64982256097561,2019,tt2066051,Rocketman,Rocketman,121.0,"Biography,Drama,Music",7.7,24266
+369,1377,78,2015-02-13,Fifty Shades of Grey,40000000,166167230,570998101,14.274952525,2015,tt2322441,Fifty Shades of Grey,Fifty Shades of Grey,125.0,"Drama,Romance,Thriller",4.1,279126
+370,1379,80,2013-12-13,American Hustle,40000000,150117807,257878294,6.44695735,2013,tt1800241,American Hustle,American Hustle,138.0,"Crime,Drama",7.2,418221
+371,1382,83,2014-07-25,Lucy,40000000,126573960,457507776,11.4376944,2014,tt2872732,Lucy,Lucy,89.0,"Action,Sci-Fi,Thriller",6.4,403194
+372,1383,84,2013-12-25,Lone Survivor,40000000,125095601,149804632,3.7451157999999998,2013,tt1091191,Lone Survivor,Lone Survivor,121.0,"Action,Biography,Drama",7.5,246641
+373,1394,95,2016-01-15,Ride Along 2,40000000,90862685,124827316,3.1206829,2016,tt2869728,Ride Along 2,Ride Along 2,102.0,"Action,Comedy,Crime",5.9,48688
+374,1396,97,2015-03-27,Get Hard,40000000,90411453,106511453,2.662786325,2015,tt2561572,Get Hard,Get Hard,100.0,"Comedy,Crime",6.0,111187
+375,1399,100,2016-10-14,The Accountant,40000000,86260045,152962083,3.824052075,2016,tt2140479,The Accountant,The Accountant,128.0,"Action,Crime,Drama",7.3,233022
+376,1400,1,2014-11-14,Dumb and Dumber To,40000000,86208010,156553592,3.9138398000000003,2014,tt2096672,Dumb and Dumber To,Dumb and Dumber To,109.0,"Adventure,Comedy",5.6,118646
+377,1401,2,2014-04-25,The Other Woman,40000000,83911193,195111193,4.877779825,2014,tt2203939,The Other Woman,The Other Woman,109.0,"Comedy,Romance",6.0,122889
+378,1405,6,2015-09-25,The Intern,40000000,75764672,197115710,4.92789275,2015,tt1636456,The Intern,El pasante,65.0,,5.5,22
+379,1409,10,2015-10-16,Bridge of Spies,40000000,72313754,162498338,4.06245845,2015,tt3682448,Bridge of Spies,Bridge of Spies,142.0,"Drama,History,Thriller",7.6,263004
+380,1416,17,2016-11-04,Hacksaw Ridge,40000000,67209615,168904682,4.22261705,2016,tt2119532,Hacksaw Ridge,Hacksaw Ridge,139.0,"Biography,Drama,History",8.1,366904
+381,1420,21,2011-02-18,Unknown,40000000,63686397,136123083,3.403077075,2011,tt1401152,Unknown,Unknown,113.0,"Action,Mystery,Thriller",6.9,235167
+382,1424,25,2011-03-18,The Lincoln Lawyer,40000000,58009200,87145086,2.17862715,2011,tt1189340,The Lincoln Lawyer,The Lincoln Lawyer,118.0,"Crime,Drama,Thriller",7.3,196109
+383,1430,31,2014-11-26,Horrible Bosses 2,40000000,54445357,105945357,2.648633925,2014,tt2170439,Horrible Bosses 2,Horrible Bosses 2,108.0,"Comedy,Crime",6.3,144442
+384,1435,36,2012-08-15,The Odd Life of Timothy Green,40000000,51853450,55249159,1.381228975,2012,tt1462769,The Odd Life of Timothy Green,The Odd Life of Timothy Green,105.0,"Comedy,Drama,Family",6.6,42770
+385,1442,43,2014-06-20,Jersey Boys,40000000,47047013,65282732,1.6320683,2014,tt1742044,Jersey Boys,Jersey Boys,134.0,"Biography,Drama,Music",6.8,30410
+386,1448,49,2011-08-12,Final Destination 5,40000000,42587643,155011165,3.875279125,2011,tt1622979,Final Destination 5,Final Destination 5,92.0,Horror,5.9,98061
+387,1449,50,2018-11-16,Widows,40000000,42402632,73866088,1.8466522,2018,tt1785670,Widows,Viudas,100.0,"Comedy,Drama",6.3,484
+388,1453,54,2014-07-18,Sex Tape,40000000,38543473,126069509,3.151737725,2014,tt1956620,Sex Tape,Sex Tape,94.0,"Comedy,Romance",5.1,100520
+389,1454,55,2011-04-15,Scream 4,40000000,38180928,95989590,2.39973975,2011,tt1262416,Scream 4,Scream 4,111.0,"Horror,Mystery",6.2,118779
+390,1457,58,2011-03-18,Paul,40000000,37412945,101162106,2.52905265,2011,tt1092026,Paul,Paul,104.0,"Adventure,Comedy,Sci-Fi",7.0,220567
+391,1458,59,2012-12-19,The Guilt Trip,40000000,37134215,41294674,1.03236685,2012,tt1694020,The Guilt Trip,The Guilt Trip,95.0,"Comedy,Drama",5.8,33702
+392,1459,60,2011-08-26,Colombiana,40000000,36665854,72295262,1.80738155,2011,tt1657507,Colombiana,Colombiana,108.0,"Action,Drama,Thriller",6.4,87659
+393,1461,62,2018-01-12,The Commuter,40000000,36343858,101985431,2.549635775,2018,tt1590193,The Commuter,The Commuter,105.0,"Action,Mystery,Thriller",6.3,83114
+394,1466,67,2011-04-08,Arthur,40000000,33035397,47787943,1.194698575,2011,tt1334512,Arthur,Arthur,110.0,"Comedy,Romance",5.7,49013
+395,1468,69,2016-12-21,Patriots Day,40000000,31886361,52837989,1.320949725,2016,tt4572514,Patriots Day,Patriots Day,133.0,"Action,Crime,Drama",7.4,76204
+396,1474,75,2019-05-03,Long Shot,40000000,30202860,43711031,1.092775775,2019,tt2139881,Long Shot,Long Shot,125.0,"Comedy,Romance",7.2,12814
+397,1476,77,2013-12-25,Grudge Match,40000000,29807260,69807260,1.7451815,2013,tt1661382,Grudge Match,Grudge Match,113.0,"Comedy,Drama,Sport",6.4,54080
+398,1480,81,2017-08-11,The Nut Job 2: Nutty by Nature,40000000,28370522,57438389,1.435959725,2017,tt3486626,The Nut Job 2: Nutty by Nature,The Nut Job 2: Nutty by Nature,91.0,"Adventure,Animation,Comedy",5.5,4820
+399,1483,84,2017-01-27,Resident Evil: The Final Chapter,40000000,26844692,314101190,7.85252975,2017,tt2592614,Resident Evil: The Final Chapter,Resident Evil: The Final Chapter,107.0,"Action,Horror,Sci-Fi",5.6,74979
+400,1488,89,2011-01-07,Season of the Witch,40000000,24827228,91126600,2.278165,2011,tt0479997,Season of the Witch,Season of the Witch,95.0,"Action,Adventure,Fantasy",5.4,85777
+401,1493,94,2016-08-26,Mechanic: Resurrection,40000000,21218403,109738840,2.743471,2016,tt3522806,Mechanic: Resurrection,Mechanic: Resurrection,98.0,"Action,Adventure,Thriller",5.7,67275
+402,1499,100,2012-12-21,The Impossible,40000000,19019882,169590606,4.23976515,2012,tt1649419,The Impossible,Lo imposible,114.0,"Drama,History,Thriller",7.6,177762
+403,1526,27,2014-06-27,Snowpiercer,40000000,4563029,88069880,2.201747,2014,tt1706620,Snowpiercer,Snowpiercer,126.0,"Action,Drama,Sci-Fi",7.1,239264
+404,1547,48,2012-10-05,Frankenweenie,39000000,35287788,81150788,2.080789435897436,2012,tt1142977,Frankenweenie,Frankenweenie,87.0,"Animation,Comedy,Family",7.0,89489
+405,1558,59,2017-06-02,Captain Underpants: The First Epic Movie,38000000,73921000,126577874,3.3309966842105263,2017,tt2091256,Captain Underpants: The First Epic Movie,Captain Underpants: The First Epic Movie,89.0,"Action,Animation,Comedy",6.2,21903
+406,1559,60,2015-04-17,Paul Blart: Mall Cop 2,38000000,71091594,107650646,2.8329117368421053,2015,tt3450650,Paul Blart: Mall Cop 2,Paul Blart: Mall Cop 2,94.0,"Action,Comedy,Crime",4.4,30828
+407,1561,62,2016-12-23,Why Him?,38000000,60323786,117425156,3.0901356842105265,2016,tt4501244,Why Him?,Why Him?,111.0,Comedy,6.2,89628
+408,1562,63,2011-04-22,Water for Elephants,38000000,58709717,116809717,3.073939921052632,2011,tt1067583,Water for Elephants,Water for Elephants,120.0,"Drama,Romance",6.9,105812
+409,1565,66,2013-09-06,Riddick,38000000,42025135,94763758,2.4937831052631583,2013,tt1411250,Riddick,Riddick,119.0,"Action,Adventure,Sci-Fi",6.4,144821
+410,1568,69,2016-01-22,The 5th Wave,38000000,34912982,111336398,2.929905210526316,2016,tt2304933,The 5th Wave,The 5th Wave,112.0,"Action,Adventure,Drama",5.2,90788
+411,1570,71,2013-09-20,Rush,38000000,26947624,98230839,2.585022078947369,2013,tt1979320,Rush,Rush,123.0,"Action,Biography,Drama",8.1,393437
+412,1584,85,2019-01-11,The Upside,37500000,108235497,119024536,3.1739876266666665,2019,tt1987680,The Upside,The Upside,126.0,"Comedy,Drama",6.7,24169
+413,1585,86,2012-05-18,What to Expect When You're Expecting,37500000,41152203,88473016,2.3592804266666665,2012,tt1586265,What to Expect When You're Expecting,What to Expect When You're Expecting,110.0,"Comedy,Drama,Romance",5.7,65890
+414,1586,87,2012-09-14,The Master,37500000,16247159,50647416,1.35059776,2012,tt1560747,The Master,The Master,138.0,Drama,7.1,131365
+415,1589,90,2013-08-07,We're the Millers,37000000,150394119,267816276,7.23827772972973,2013,tt1723121,We're the Millers,We're the Millers,110.0,"Comedy,Crime",7.0,371759
+416,1590,91,2015-11-25,Creed,37000000,109767581,173567581,4.691015702702702,2015,tt1632705,Creed,Creed,77.0,Horror,6.6,12
+417,1592,93,2011-09-23,Dolphin Tale,37000000,72286779,96068724,2.596452,2011,tt1564349,Dolphin Tale,Dolphin Tale,113.0,"Drama,Family",6.9,20746
+418,1593,94,2018-02-23,Game Night,37000000,69179066,117378084,3.1723806486486485,2018,tt2704998,Game Night,Game Night,100.0,"Action,Comedy,Crime",7.0,163279
+419,1599,100,2011-01-28,The Rite,37000000,33047633,97143987,2.625513162162162,2011,tt1161864,The Rite,The Rite,114.0,"Drama,Horror,Mystery",6.0,85604
+420,1604,5,2018-10-05,A Star is Born,36000000,215288866,433449571,12.040265861111115,2018,tt1776364,A Star is Born,Zvezda je rodena,75.0,"Documentary,Music",5.1,15
+421,1611,12,2014-09-12,Dolphin Tale 2,36000000,42024533,57824533,1.6062370277777778,2014,tt2978462,Dolphin Tale 2,Dolphin Tale 2,107.0,"Drama,Family",6.4,7579
+422,1612,13,2016-12-16,Collateral Beauty,36000000,31016021,85309093,2.3696970277777782,2016,tt4682786,Collateral Beauty,Collateral Beauty,97.0,"Drama,Romance",6.8,78764
+423,1623,24,2017-09-08,It,35000000,327481748,697457969,19.927370542857144,2017,tt1396484,It,It,135.0,"Horror,Thriller",7.4,359123
+424,1631,32,2013-02-08,Identity Thief,35000000,134506920,175361578,5.010330799999999,2013,tt2024432,Identity Thief,Identity Thief,111.0,"Adventure,Comedy,Crime",5.7,115624
+425,1633,34,2011-07-08,Horrible Bosses,35000000,117538559,212417601,6.0690743142857135,2011,tt1499658,Horrible Bosses,Horrible Bosses,98.0,"Comedy,Crime",6.9,398695
+426,1635,36,2015-07-17,Trainwreck,35000000,110212700,141123897,4.032111342857143,2015,tt3152624,Trainwreck,Trainwreck,125.0,"Comedy,Drama,Romance",6.2,121860
+427,1636,37,2013-12-13,Saving Mr. Banks,35000000,83299761,114962525,3.284643571428572,2013,tt2140373,Saving Mr. Banks,Saving Mr. Banks,125.0,"Biography,Comedy,Drama",7.5,140678
+428,1654,55,2011-07-22,Friends with Benefits,35000000,55802754,146595891,4.188454028571429,2011,tt1632708,Friends with Benefits,Friends with Benefits,109.0,"Comedy,Romance",6.6,317338
+429,1655,56,2016-05-20,Neighbors 2: Sorority Rising,35000000,55340730,108757621,3.1073606,2016,tt4438848,Neighbors 2: Sorority Rising,Neighbors 2: Sorority Rising,92.0,Comedy,5.7,102793
+430,1658,59,2018-06-29,Sicario: Day of the Soldado,35000000,50065850,75885196,2.1681484571428573,2018,tt5052474,Sicario: Day of the Soldado,Sicario: Day of the Soldado,122.0,"Action,Crime,Drama",7.1,95650
+431,1661,62,2015-05-22,Poltergeist,35000000,47425125,95713069,2.7346591142857144,2015,tt1029360,Poltergeist,Poltergeist,93.0,"Horror,Thriller",4.9,51538
+432,1662,63,2018-10-12,Goosebumps 2: Haunted Halloween,35000000,46697321,93291478,2.6654708,2018,tt5664636,Goosebumps 2: Haunted Halloween,Goosebumps 2: Haunted Halloween,90.0,"Adventure,Comedy,Family",5.6,11459
+433,1663,64,2018-01-19,12 Strong,35000000,45819713,71118378,2.031953657142857,2018,tt1413492,12 Strong,12 Strong,130.0,"Action,Drama,History",6.6,50155
+434,1671,72,2011-05-06,Something Borrowed,35000000,39046489,65084116,1.8595461714285717,2011,tt0491152,Something Borrowed,Something Borrowed,112.0,"Comedy,Drama,Romance",5.9,54314
+435,1673,74,2011-10-28,In Time,35000000,37553932,165103952,4.717255771428571,2011,tt1637688,In Time,In Time,109.0,"Action,Crime,Drama",6.7,346077
+436,1675,76,2011-11-09,J. Edgar,35000000,37306030,84606030,2.417315142857143,2011,tt1616195,J. Edgar,J. Edgar,137.0,"Biography,Crime,Drama",6.6,115925
+437,1677,78,2018-08-17,Mile 22,35000000,36108758,66295121,1.8941463142857144,2018,tt4560436,Mile 22,Mile 22,94.0,"Action,Adventure,Thriller",6.1,47862
+438,1678,79,2015-05-08,Hot Pursuit,35000000,34580201,45671512,1.3049003428571428,2015,tt2967224,Hot Pursuit,Hot Pursuit,87.0,"Action,Comedy,Crime",5.1,44723
+439,1679,80,2015-12-25,Concussion,35000000,34531832,50363790,1.4389654285714286,2015,tt2296697,Concussion,Concussion,96.0,Drama,5.7,3813
+440,1680,81,2017-10-13,The Foreigner,35000000,34393507,140783360,4.022381714285714,2017,tt1615160,The Foreigner,The Foreigner,113.0,"Action,Thriller",7.0,81288
+441,1688,89,2018-06-01,Adrift,35000000,31445011,57897191,1.654205457142857,2018,tt2408090,Adrift,A la deriva,65.0,Drama,6.0,6
+442,1690,91,2017-01-06,Underworld: Blood Wars,35000000,30353973,81209222,2.3202634857142863,2017,tt3717252,Underworld: Blood Wars,Underworld: Blood Wars,91.0,"Action,Adventure,Fantasy",5.8,62942
+443,1695,96,2011-09-23,Abduction,35000000,28087155,86648359,2.4756674,2011,tt1600195,Abduction,Abduction,106.0,"Action,Mystery,Thriller",5.1,72552
+444,1699,100,2012-10-19,Alex Cross,35000000,25888412,35426759,1.0121931142857143,2012,tt1712170,Alex Cross,Alex Cross,101.0,"Action,Crime,Mystery",5.1,30951
+445,1707,8,2015-08-21,Hitman: Agent 47,35000000,22467450,82182803,2.3480800857142863,2015,tt2679042,Hitman: Agent 47,Hitman: Agent 47,96.0,"Action,Adventure,Crime",5.7,80510
+446,1717,18,2013-01-25,Parker,35000000,17616641,48543388,1.386953942857143,2013,tt1904996,Parker,Parker,118.0,"Action,Crime,Thriller",6.2,105529
+447,1723,24,2011-05-27,The Tree of Life,35000000,13305665,61721826,1.7634807428571428,2011,tt0478304,The Tree of Life,The Tree of Life,139.0,"Drama,Fantasy",6.8,156266
+448,1732,33,2015-09-30,The Walk,35000000,10161183,61492104,1.756917257142857,2015,tt2159988,The Walk,The Walk,89.0,"Crime,Thriller",6.8,126
+449,1739,40,2017-10-20,The Snowman,35000000,6670765,43226146,1.2350327428571428,2017,tt1758810,The Snowman,The Snowman,119.0,"Crime,Drama,Mystery",5.1,47890
+450,1757,58,2011-12-25,The Darkest Hour,34800000,21443494,62831715,1.8055090517241383,2011,tt1093357,The Darkest Hour,The Darkest Hour,89.0,"Action,Adventure,Horror",4.9,55071
+451,1758,59,2017-06-28,Baby Driver,34000000,107825862,228104185,6.708946617647059,2017,tt3890160,Baby Driver,Baby Driver,113.0,"Action,Crime,Drama",7.6,363977
+452,1759,60,2014-09-19,The Maze Runner,34000000,102427862,348319861,10.244701794117649,2014,tt1790864,The Maze Runner,The Maze Runner,113.0,"Action,Mystery,Sci-Fi",6.8,387038
+453,1760,61,2015-04-10,The Longest Ride,34000000,37446117,63802928,1.876556705882353,2015,tt2726560,The Longest Ride,The Longest Ride,123.0,"Drama,Romance",7.1,70327
+454,1763,64,2018-08-03,The Darkest Minds,34000000,12695691,38361428,1.1282772941176469,2018,tt4073790,The Darkest Minds,The Darkest Minds,104.0,"Action,Adventure,Drama",5.7,21340
+455,1767,68,2014-09-05,Thunder and the House of Magic,34000000,4091,62582520,1.8406623529411763,2014,tt3148834,Thunder and the House of Magic,The House of Magic,85.0,"Adventure,Animation,Comedy",6.3,5626
+456,1772,73,2016-07-08,Mike and Dave Need Wedding Dates,33000000,46009673,75898100,2.2999424242424245,2016,tt2823054,Mike and Dave Need Wedding Dates,Mike and Dave Need Wedding Dates,98.0,"Adventure,Comedy,Romance",6.0,74849
+457,1773,74,2012-07-27,Step Up Revolution,33000000,35074677,165552290,5.0167360606060605,2012,tt1800741,Step Up Revolution,Step Up Revolution,99.0,"Drama,Music,Romance",6.5,51295
+458,1777,78,2012-04-27,Safe,33000000,17142080,41495213,1.2574306969696971,2012,tt1656190,Safe,Safe,94.0,"Action,Crime,Thriller",6.5,96388
+459,1784,85,2011-05-13,Bridesmaids,32500000,169211718,289632023,8.911754553846151,2011,tt1478338,Bridesmaids,Bridesmaids,125.0,"Comedy,Romance",6.8,249501
+460,1786,87,2013-04-26,The Big Wedding,32500000,21819348,48425971,1.4900298769230769,2013,tt1931435,The Big Wedding,The Big Wedding,89.0,"Comedy,Drama,Romance",5.6,44221
+461,1795,96,2011-04-01,Source Code,32000000,54712227,140428499,4.38839059375,2011,tt0945513,Source Code,Source Code,93.0,"Action,Drama,Sci-Fi",7.5,452036
+462,1798,99,2018-04-20,I Feel Pretty,32000000,48795601,91553797,2.86105615625,2018,tt6791096,I Feel Pretty,I Feel Pretty,110.0,"Comedy,Romance",5.4,39936
+463,1820,21,2016-04-15,Criminal,31500000,14708696,38771262,1.2308337142857142,2016,tt3014866,Criminal,Criminal,113.0,"Action,Crime,Drama",6.3,51666
+464,1821,22,2013-04-12,42,31000000,95020213,97470701,3.1442161612903226,2013,tt0453562,42,42,128.0,"Biography,Drama,Sport",7.5,77703
+465,1822,23,2012-11-02,Flight,31000000,93772375,160558438,5.179304451612904,2012,tt1907668,Flight,Flight,138.0,"Drama,Thriller",7.3,303009
+466,1826,27,2014-03-07,The Grand Budapest Hotel,31000000,59076019,163981261,5.289718096774194,2014,tt2278388,The Grand Budapest Hotel,The Grand Budapest Hotel,99.0,"Adventure,Comedy,Crime",8.1,633604
+467,1827,28,2015-07-29,Vacation,31000000,58884188,102306500,3.300209677419355,2015,tt1524930,Vacation,Vacation,99.0,"Adventure,Comedy",6.1,87582
+468,1837,38,2018-08-15,Crazy Rich Asians,30000000,174532921,238099711,7.936657033333334,2018,tt3104988,Crazy Rich Asians,Crazy Rich Asians,120.0,"Comedy,Romance",7.0,96617
+469,1841,42,2012-02-10,The Vow,30000000,125014030,197618160,6.5872720000000005,2012,tt1606389,The Vow,The Vow,104.0,"Drama,Romance",6.8,173629
+470,1844,45,2013-08-16,Lee Daniels' The Butler,30000000,116632095,177025498,5.900849933333332,2013,tt1327773,Lee Daniels' The Butler,The Butler,132.0,"Biography,Drama",7.2,102468
+471,1856,57,2015-12-18,Sisters,30000000,87044645,106030660,3.534355333333333,2015,tt1850457,Sisters,Sisters,118.0,Comedy,6.0,58994
+472,1868,69,2012-09-28,Looper,30000000,66486205,170466405,5.6822135000000005,2012,tt1276104,Looper,Looper,113.0,"Action,Crime,Drama",7.4,500595
+473,1869,70,2013-02-01,Warm Bodies,30000000,66380662,115121608,3.837386933333333,2013,tt1588173,Warm Bodies,Warm Bodies,98.0,"Comedy,Horror,Romance",6.9,208709
+474,1871,72,2014-01-17,The Nut Job,30000000,64251538,122529966,4.0843322,2014,tt1821658,The Nut Job,The Nut Job,85.0,"Adventure,Animation,Comedy",5.7,24587
+475,1874,75,2012-08-08,Hope Springs,30000000,63536011,133085295,4.4361765,2012,tt1535438,Hope Springs,Hope Springs,100.0,"Comedy,Drama,Romance",6.3,38667
+476,1882,83,2011-05-20,Midnight in Paris,30000000,56816662,162502774,5.416759133333334,2011,tt1605783,Midnight in Paris,Midnight in Paris,94.0,"Comedy,Fantasy,Romance",7.7,356500
+477,1883,84,2017-11-22,Darkest Hour,30000000,56443120,150807172,5.026905733333333,2017,tt4555426,Darkest Hour,Darkest Hour,125.0,"Biography,Drama,History",7.4,136546
+478,1887,88,2018-05-11,Life of the Party,30000000,53059911,65759911,2.191997033333333,2018,tt1826727,Life of the Party,Life of the Party,84.0,"Comedy,Drama",7.6,47
+479,1891,92,2015-07-24,Southpaw,30000000,52421953,94156456,3.138548533333333,2015,tt1798684,Southpaw,Southpaw,124.0,"Drama,Sport",7.4,199783
+480,1893,94,2017-07-28,Atomic Blonde,30000000,51573925,98345423,3.2781807666666665,2017,tt2406566,Atomic Blonde,Atomic Blonde,115.0,"Action,Mystery,Thriller",6.7,150407
+481,1899,100,2015-09-18,Sicario,30000000,46889293,84393749,2.8131249666666664,2015,tt3397884,Sicario,Sicario,121.0,"Action,Crime,Drama",7.6,328548
+482,1902,3,2018-01-19,Den of Thieves,30000000,44947622,80131391,2.671046366666667,2018,tt1259528,Den of Thieves,Den of Thieves,140.0,"Action,Crime,Drama",7.0,69648
+483,1903,4,2012-04-13,The Three Stooges,30000000,44338224,54052249,1.8017416333333331,2012,tt0383010,The Three Stooges,The Three Stooges,92.0,"Comedy,Family",5.1,28570
+484,1905,6,2014-10-24,John Wick,30000000,43037835,76235001,2.5411667000000002,2014,tt2911666,John Wick,John Wick,101.0,"Action,Crime,Thriller",7.4,449942
+485,1907,8,2015-04-24,The Age of Adaline,30000000,42629776,68984536,2.299484533333333,2015,tt1655441,The Age of Adaline,The Age of Adaline,112.0,"Drama,Fantasy,Romance",7.2,138924
+486,1910,11,2012-04-13,The Cabin in the Woods,30000000,42073277,70689968,2.3563322666666666,2012,tt1259521,The Cabin in the Woods,The Cabin in the Woods,95.0,Horror,7.0,338445
+487,1913,14,2011-04-08,Hanna,30000000,40259119,65343694,2.178123133333333,2011,tt0993842,Hanna,Hanna,111.0,"Action,Drama,Thriller",6.8,179178
+488,1921,22,2013-09-13,The Family,30000000,36918811,51078541,1.7026180333333334,2013,tt1728973,The Family,The Family,88.0,"Horror,Thriller",5.0,833
+489,1922,23,2018-02-09,The 15:17 to Paris,30000000,36276286,56096200,1.8698733333333333,2018,tt6802308,The 15:17 to Paris,The 15:17 to Paris,94.0,"Biography,Drama,Thriller",5.2,21880
+490,1924,25,2011-07-01,Larry Crowne,30000000,35608245,61449135,2.0483045,2011,tt1583420,Larry Crowne,Larry Crowne,98.0,"Comedy,Drama,Romance",6.1,58927
+491,1925,26,2013-10-18,Carrie,30000000,35266619,82409520,2.746984,2013,tt1939659,Carrie,Carrie,100.0,"Drama,Horror",5.9,125424
+492,1927,28,2018-03-02,Death Wish,30000000,34017028,48575965,1.6191988333333334,2018,tt1137450,Death Wish,Death Wish,107.0,"Action,Crime,Drama",6.4,50279
+493,1929,30,2015-06-03,Entourage,30000000,32363404,46438538,1.5479512666666666,2015,tt1674771,Entourage,Entourage,104.0,Comedy,6.6,71519
+494,1931,32,2013-02-08,Side Effects,30000000,32172757,66742138,2.224737933333333,2013,tt2053463,Side Effects,Side Effects,106.0,"Crime,Drama,Mystery",7.1,168466
+495,1933,34,2014-07-02,Deliver Us from Evil,30000000,30577122,87956618,2.9318872666666667,2014,tt2377322,Deliver Us from Evil,Deliver Us from Evil,118.0,"Horror,Mystery,Thriller",6.2,63793
+496,1934,35,2014-08-01,Get on Up,30000000,30569935,33339868,1.1113289333333334,2014,tt2473602,Get on Up,Get on Up,139.0,"Biography,Drama,Music",6.9,19024
+497,1936,37,2012-04-27,The Five-Year Engagement,30000000,28700285,61623819,2.0541273,2012,tt1195478,The Five-Year Engagement,The Five-Year Engagement,124.0,"Comedy,Romance",6.2,88469
+498,1938,39,2011-07-15,Winnie the Pooh,30000000,26692846,50145607,1.6715202333333334,2011,tt1449283,Winnie the Pooh,Winnie the Pooh,63.0,"Adventure,Animation,Comedy",7.2,19605
+499,1944,45,2011-02-04,Sanctum,30000000,23209310,108957098,3.631903266666667,2011,tt0881320,Sanctum,Sanctum,108.0,"Adventure,Drama,Thriller",5.9,51318
+500,1946,47,2017-08-25,Ballerina,30000000,21858070,96892829,3.2297609666666665,2017,tt2560702,Ballerina,Ballerina,50.0,"Biography,Documentary",7.5,13
+501,1952,53,2013-10-04,Runner Runner,30000000,19316646,60512680,2.0170893333333333,2013,tt2364841,Runner Runner,Runner Runner,88.0,"Crime,Thriller",5.6,58235
+502,1954,55,2017-04-28,Baahubali 2: The Conclusion,30000000,18985794,263502914,8.783430466666667,2017,tt4849438,Baahubali 2: The Conclusion,Baahubali 2: The Conclusion,167.0,"Action,Drama",8.3,65656
+503,1957,58,2011-08-19,Fright Night,30000000,18298649,40520649,1.3506883,2011,tt1438176,Fright Night,Fright Night,106.0,"Comedy,Horror",6.4,94555
+504,1959,60,2015-10-09,Steve Jobs,30000000,17766658,35579007,1.1859669,2015,tt2080374,Steve Jobs,Steve Jobs,122.0,"Biography,Drama",7.2,138668
+505,1973,74,2013-01-18,The Last Stand,30000000,12050299,48330757,1.6110252333333333,2013,tt1549920,The Last Stand,The Last Stand,107.0,"Action,Thriller",6.4,126623
+506,2013,14,2015-05-15,Pitch Perfect 2,29000000,184296230,287625468,9.918119586206897,2015,tt2848292,Pitch Perfect 2,Pitch Perfect 2,115.0,"Comedy,Music",6.4,130692
+507,2015,16,2018-09-28,Night School,29000000,77339130,103008792,3.5520273103448274,2018,tt5599520,Night School,Night School,85.0,Documentary,7.2,112
+508,2016,17,2016-04-08,The Boss,29000000,63077560,78652207,2.7121450689655173,2016,tt2702724,The Boss,The Boss,99.0,Comedy,5.4,39096
+509,2020,21,2017-08-18,Logan Lucky,29000000,27778642,44264271,1.5263541724137932,2017,tt5439796,Logan Lucky,Logan Lucky,118.0,"Comedy,Crime,Drama",7.0,105966
+510,2021,22,2016-08-12,Florence Foster Jenkins,29000000,27383770,56000339,1.9310461724137933,2016,tt4136084,Florence Foster Jenkins,Florence Foster Jenkins,111.0,"Biography,Comedy,Drama",6.8,44970
+511,2034,35,2015-08-14,Straight Outta Compton,28000000,161197785,202182981,7.22082075,2015,tt1398426,Straight Outta Compton,Straight Outta Compton,147.0,"Biography,Drama,History",7.9,165307
+512,2035,36,2017-07-21,Girls Trip,28000000,115108515,140886353,5.0316554642857145,2017,tt3564472,Girls Trip,Girls Trip,122.0,"Comedy,Drama",6.2,29321
+513,2039,40,2017-11-01,A Bad Moms Christmas,28000000,72110659,127710550,4.561091071428573,2017,tt6359956,A Bad Moms Christmas,A Bad Moms Christmas,104.0,"Adventure,Comedy",5.5,33056
+514,2040,41,2013-02-14,Safe Haven,28000000,71399120,94050951,3.358962535714286,2013,tt1702439,Safe Haven,Safe Haven,115.0,"Drama,Romance,Thriller",6.7,97055
+515,2041,42,2015-12-11,The Big Short,28000000,70259870,133162752,4.755812571428573,2015,tt1596363,The Big Short,The Big Short,130.0,"Biography,Comedy,Drama",7.8,309227
+516,2045,46,2013-01-28,Last Vegas,28000000,63914167,112914167,4.032648821428571,2013,tt1204975,Last Vegas,Last Vegas,105.0,"Comedy,Drama",6.6,121409
+517,2049,50,2018-06-15,Tag,28000000,54730625,77026186,2.750935214285714,2018,tt1967669,Tag,Tag,91.0,Drama,4.6,158
+518,2059,60,2011-08-12,30 Minutes or Less,28000000,37053924,40966716,1.4630969999999999,2011,tt1622547,30 Minutes or Less,30 Minutes or Less,83.0,"Action,Comedy,Crime",6.1,87254
+519,2063,64,2014-02-21,3 Days to Kill,28000000,30697999,38959900,1.391425,2014,tt2172934,3 Days to Kill,3 Days to Kill,117.0,"Action,Drama,Thriller",6.2,81681
+520,2064,65,2013-08-16,Kick-Ass 2,28000000,28795985,63129909,2.254639607142857,2013,tt1650554,Kick-Ass 2,Kick-Ass 2,103.0,"Action,Comedy,Crime",6.6,238832
+521,2066,67,2014-09-19,A Walk Among the Tombstones,28000000,26017685,62108587,2.2181638214285715,2014,tt0365907,A Walk Among the Tombstones,A Walk Among the Tombstones,114.0,"Action,Crime,Drama",6.5,105116
+522,2068,69,2014-04-25,Brick Mansions,28000000,20396829,73421224,2.6221865714285717,2014,tt1430612,Brick Mansions,Brick Mansions,90.0,"Action,Crime",5.7,37528
+523,2071,72,2015-08-21,American Ultra,28000000,14439985,30295028,1.0819652857142856,2015,tt3316948,American Ultra,American Ultra,96.0,"Action,Comedy,Sci-Fi",6.1,76769
+524,2085,86,2012-01-13,Joyful Noise,27500000,30932113,31157914,1.1330150545454545,2012,tt1710396,Joyful Noise,Joyful Noise,118.0,"Comedy,Drama,Music",5.8,7575
+525,2090,91,2011-03-18,Limitless,27000000,79249455,155564919,5.761663666666666,2011,tt1219289,Limitless,Limitless,105.0,"Mystery,Sci-Fi,Thriller",7.4,492490
+526,2097,98,2016-05-13,Money Monster,27000000,41012075,93466095,3.4617072222222216,2016,tt2241351,Money Monster,Money Monster,98.0,"Crime,Drama,Thriller",6.5,86607
+527,2132,33,2013-04-26,Pain & Gain,26000000,49875291,81275291,3.1259727307692313,2013,tt1980209,Pain & Gain,Pain & Gain,129.0,"Action,Comedy,Crime",6.4,187820
+528,2137,38,2012-08-29,Lawless,26000000,37397291,54393687,2.0920648846153846,2012,tt1212450,Lawless,Lawless,116.0,"Crime,Drama",7.3,214055
+529,2141,42,2014-10-17,The Best of Me,26000000,26766213,41059418,1.5792083846153846,2014,tt1972779,The Best of Me,The Best of Me,118.0,"Drama,Romance",6.7,59750
+530,2144,45,2012-04-27,The Raven,26000000,16008272,30601801,1.1769923461538458,2012,tt1486192,The Raven,The Raven,110.0,"Crime,Mystery,Thriller",6.4,79578
+531,2153,54,2015-06-30,Viy,26000000,0,34246770,1.3171834615384614,2015,tt1224378,Viy,Viy,127.0,"Adventure,Fantasy,Mystery",5.3,4365
+532,2162,63,2011-08-10,The Help,25000000,169705587,213120004,8.52480016,2011,tt1454029,The Help,The Help,146.0,Drama,8.1,392699
+533,2163,64,2016-12-25,Hidden Figures,25000000,169607287,231771716,9.27086864,2016,tt4846340,Hidden Figures,Hidden Figures,127.0,"Biography,Drama,History",7.8,171131
+534,2166,67,2014-01-17,Ride Along,25000000,134202565,153733800,6.1493519999999995,2014,tt1408253,Ride Along,Ride Along,99.0,"Action,Comedy,Crime",6.2,94529
+535,2178,79,2012-12-25,Parental Guidance,25000000,77267296,120832383,4.83329532,2012,tt1047540,Parental Guidance,Parental Guidance,105.0,"Comedy,Family",6.1,23711
+536,2183,84,2011-01-21,No Strings Attached,25000000,70662220,149228078,5.96912312,2011,tt1411238,No Strings Attached,No Strings Attached,108.0,"Comedy,Romance",6.2,197663
+537,2184,85,2012-01-13,Contraband,25000000,66528000,98406855,3.9362741999999997,2012,tt1524137,Contraband,Contraband,109.0,"Action,Crime,Drama",6.5,111709
+538,2186,87,2012-04-20,The Lucky One,25000000,60457138,96633833,3.86535332,2012,tt1327194,The Lucky One,The Lucky One,101.0,"Drama,Romance",6.5,94359
+539,2191,92,2011-04-22,Madea's Big Happy Family,25000000,53345287,54160818,2.16643272,2011,tt1787759,Madea's Big Happy Family,Madea's Big Happy Family,106.0,"Comedy,Drama",4.7,6996
+540,2194,95,2012-01-27,The Grey,25000000,51580136,81249176,3.24996704,2012,tt1601913,The Grey,The Grey,117.0,"Action,Adventure,Drama",6.8,228798
+541,2201,2,2014-08-15,The Giver,25000000,45090374,66540205,2.6616082000000003,2014,tt0435651,The Giver,The Giver,97.0,"Drama,Romance,Sci-Fi",6.5,104999
+542,2205,6,2015-11-20,The Night Before,25000000,43035725,52427346,2.09709384,2015,tt3530002,The Night Before,The Night Before,101.0,"Adventure,Comedy,Fantasy",6.4,58455
+543,2214,15,2013-12-25,August: Osage County,25000000,37738810,50738810,2.0295523999999996,2013,tt1322269,August: Osage County,August: Osage County,121.0,"Comedy,Drama",7.2,79383
+544,2216,17,2014-05-16,Million Dollar Arm,25000000,36447959,39217912,1.56871648,2014,tt1647668,Million Dollar Arm,Million Dollar Arm,124.0,"Biography,Drama,Sport",7.0,41008
+545,2220,21,2018-09-07,Peppermint,25000000,35418723,51800758,2.07203032,2018,tt6850820,Peppermint,Peppermint,101.0,"Action,Crime,Drama",6.5,35854
+546,2224,25,2014-12-10,The Gambler,25000000,33680992,38718031,1.54872124,2014,tt1828325,The Gambler,The Gambler,105.0,Drama,7.0,10
+547,2228,29,2017-02-17,Fist Fight,25000000,32187017,40286416,1.61145664,2017,tt3401882,Fist Fight,Fist Fight,91.0,Comedy,5.6,35136
+548,2231,32,2011-12-09,The Sitter,25000000,30542576,38749404,1.54997616,2011,tt1366344,The Sitter,The Sitter,81.0,Comedy,5.7,65575
+549,2235,36,2014-04-11,Draft Day,25000000,28842237,29847480,1.1938992,2014,tt2223990,Draft Day,Draft Day,110.0,"Drama,Sport",6.8,48812
+550,2237,38,2017-02-03,Rings,25000000,27793018,82917283,3.31669132,2017,tt0498381,Rings,Rings,102.0,"Drama,Horror,Mystery",4.5,34151
+551,2242,43,2011-08-26,Don't Be Afraid of the Dark,25000000,24046682,39126427,1.56505708,2011,tt1270761,Don't Be Afraid of the Dark,Don't Be Afraid of the Dark,99.0,"Fantasy,Horror,Thriller",5.6,44490
+552,2249,50,2011-02-11,The Eagle,25000000,19490041,38993548,1.55974192,2011,tt1034389,The Eagle,The Eagle,114.0,"Action,Adventure,Drama",6.2,61475
+553,2257,58,2013-10-25,The Counselor,25000000,16973715,71009334,2.84037336,2013,tt2193215,The Counselor,The Counselor,117.0,"Crime,Drama,Thriller",5.3,92096
+554,2259,60,2018-12-07,Mary Queen of Scots,25000000,16468499,46734733,1.86938932,2018,tt1555069,Mary Queen of Scots,Mary Queen of Scots,119.0,"Biography,Drama,History",5.5,753
+555,2276,77,2012-12-21,Cirque du Soleil: Worlds Away,25000000,12512862,28012862,1.12051448,2012,tt1792647,Cirque du Soleil: Worlds Away,Cirque du Soleil: Worlds Away,91.0,Fantasy,6.8,7643
+556,2277,78,2015-11-13,The 33,25000000,12227722,28400715,1.1360286,2015,tt2006295,The 33,The 33,127.0,"Biography,Drama,History",6.9,32263
+557,2306,7,2011-12-16,Carnage,25000000,2546747,38112154,1.52448616,2011,tt1692486,Carnage,Carnage,80.0,"Comedy,Drama",7.2,111372
+558,2309,10,2015-11-20,Legend,25000000,1872994,42425450,1.6970180000000001,2015,tt3555036,Legend,Legend,168.0,"Action,Drama",6.5,1568
+559,2335,36,2014-06-20,Think Like a Man Too,24000000,65028687,70027933,2.9178305416666666,2014,tt2239832,Think Like a Man Too,Think Like a Man Too,106.0,"Comedy,Romance",5.8,18533
+560,2336,37,2016-12-16,Fences,24000000,57682904,64282881,2.678453375,2016,tt2671706,Fences,Fences,139.0,Drama,7.2,86749
+561,2338,39,2011-10-14,Footloose,24000000,51802742,62989834,2.6245764166666667,2011,tt1068242,Footloose,Footloose,113.0,"Comedy,Drama,Music",5.9,43251
+562,2339,40,2017-04-07,Going in Style,24000000,45018541,78672579,3.278024125,2017,tt2568862,Going in Style,Going in Style,96.0,"Comedy,Crime",6.6,66418
+563,2357,58,2011-09-16,I Don't Know How She Does It,24000000,9659074,24474463,1.0197692916666667,2011,tt1742650,I Don't Know How She Does It,I Don't Know How She Does It,89.0,"Comedy,Romance",4.9,18552
+564,2370,71,2018-11-16,Green Book,23000000,85080171,322034439,14.001497347826087,2018,tt6966692,Green Book,Green Book,130.0,"Biography,Comedy,Drama",8.3,204972
+565,2372,73,2015-01-16,The Wedding Ringer,23000000,64460211,80171596,3.4857215652173914,2015,tt0884732,The Wedding Ringer,The Wedding Ringer,101.0,Comedy,6.7,66893
+566,2375,76,2011-10-07,The Ides of March,23000000,40962534,77735925,3.3798228260869565,2011,tt1124035,The Ides of March,The Ides of March,101.0,"Drama,Thriller",7.1,207417
+567,2377,78,2018-10-05,The Hate U Give,23000000,29719483,35067665,1.5246810869565215,2018,tt5580266,The Hate U Give,The Hate U Give,133.0,"Crime,Drama",7.3,17583
+568,2379,80,2014-01-10,Her,23000000,25568251,48163815,2.0940789130434783,2014,tt1798709,Her,Her,126.0,"Drama,Romance,Sci-Fi",8.0,467232
+569,2382,83,2012-01-20,Haywire,23000000,18942396,36374700,1.581508695652174,2012,tt1506999,Haywire,Haywire,93.0,"Action,Drama,Thriller",5.8,78681
+570,2385,86,2016-02-26,Eddie the Eagle,23000000,15789389,45060480,1.959151304347826,2016,tt1083452,Eddie the Eagle,Eddie the Eagle,106.0,"Biography,Comedy,Drama",7.4,75331
+571,2402,3,2016-11-18,Nocturnal Animals,22500000,10663357,32398681,1.439941377777778,2016,tt4550098,Nocturnal Animals,Nocturnal Animals,116.0,"Drama,Thriller",7.5,205240
+572,2403,4,2015-04-24,The Water Diviner,22500000,4200117,31054727,1.3802100888888889,2015,tt3007512,The Water Diviner,The Water Diviner,111.0,"Drama,History,War",7.1,66595
+573,2410,11,2014-02-28,Son of God,22000000,59700064,70949793,3.224990590909091,2014,tt1805411,Son of God,Son of God,80.0,Documentary,6.8,13
+574,2412,13,2014-08-08,The Hundred-Foot Journey,22000000,54235441,94270488,4.2850221818181815,2014,tt2980648,The Hundred-Foot Journey,The Hundred-Foot Journey,122.0,"Comedy,Drama",7.3,69562
+575,2416,17,2012-08-03,Diary of a Wimpy Kid: Dog Days,22000000,49008662,77229695,3.510440681818182,2012,tt2023453,Diary of a Wimpy Kid: Dog Days,Diary of a Wimpy Kid: Dog Days,94.0,"Comedy,Family",6.3,19571
+576,2420,21,2013-11-22,Delivery Man,22000000,30659817,70536870,3.2062213636363635,2013,tt2387559,Delivery Man,Delivery Man,105.0,"Comedy,Drama",6.4,70706
+577,2426,27,2017-05-19,Diary of a Wimpy Kid: The Long Haul,22000000,20738724,35609577,1.6186171363636364,2017,tt6003368,Diary of a Wimpy Kid: The Long Haul,Diary of a Wimpy Kid: The Long Haul,91.0,"Comedy,Family",4.4,5635
+578,2428,29,2013-11-27,Homefront,22000000,20158492,51695362,2.3497891818181817,2013,tt2312718,Homefront,Homefront,100.0,"Action,Thriller",6.5,98549
+579,2433,34,2015-09-04,The Transporter Refueled,22000000,16029670,69698495,3.1681134090909087,2015,tt2938956,The Transporter Refueled,The Transporter Refueled,96.0,"Action,Adventure,Crime",5.2,36201
+580,2457,58,2012-06-22,To Rome with Love,21500000,16684352,74326015,3.4570239534883718,2012,tt1859650,To Rome with Love,To Rome with Love,112.0,"Comedy,Music,Romance",6.3,79381
+581,2458,59,2012-11-16,Silver Linings Playbook,21000000,132092958,236412453,11.257735857142857,2012,tt1045658,Silver Linings Playbook,Silver Linings Playbook,122.0,"Comedy,Drama,Romance",7.7,621018
+582,2459,60,2018-04-06,Blockers,21000000,60311495,94045328,4.478348952380952,2018,tt2531344,Blockers,Blockers,102.0,Comedy,6.2,57142
+583,2460,61,2019-04-05,Pet Sematary,21000000,54724696,109501146,5.214340285714286,2019,tt0837563,Pet Sematary,Pet Sematary,101.0,"Horror,Mystery,Thriller",6.0,34472
+584,2468,69,2017-08-04,Kidnap,21000000,30718107,34836080,1.6588609523809523,2017,tt10300662,Kidnap,Kidnap,,Drama,7.5,26
+585,2471,72,2011-12-09,Tinker Tailor Soldier Spy,21000000,24149393,81452811,3.8787052857142856,2011,tt1340800,Tinker Tailor Soldier Spy,Tinker Tailor Soldier Spy,122.0,"Drama,Mystery,Thriller",7.1,174890
+586,2487,88,2019-03-22,Us,20000000,175006930,254210310,12.7105155,2019,tt2708782,Us,Vi,92.0,Drama,5.3,814
+587,2491,92,2016-12-09,La La Land,20000000,151101803,426351163,21.31755815,2016,tt3783958,La La Land,La La Land,128.0,"Comedy,Drama,Music",8.0,436070
+588,2492,93,2013-07-19,The Conjuring,20000000,137400141,318000141,15.90000705,2013,tt1457767,The Conjuring,The Conjuring,112.0,"Horror,Mystery,Thriller",7.5,397233
+589,2494,95,2017-11-17,Wonder,20000000,132422809,304604712,15.2302356,2017,tt2543472,Wonder,Wonder,113.0,"Drama,Family",8.0,111632
+590,2498,99,2016-07-29,Bad Moms,20000000,113257297,180998716,9.0499358,2016,tt4651520,Bad Moms,Bad Moms,100.0,Comedy,6.2,100952
+591,2499,100,2019-01-18,Glass,20000000,111035005,245303505,12.26517525,2019,tt4598720,Glass,Glass,71.0,"Drama,Mystery,Thriller",8.2,84
+592,2502,3,2014-07-02,Tammy,20000000,84525432,96407655,4.82038275,2014,tt2103254,Tammy,Tammy,97.0,"Comedy,Romance",4.9,44345
+593,2504,5,2011-11-16,The Descendants,20000000,82624961,175507800,8.77539,2011,tt1033575,The Descendants,The Descendants,115.0,"Comedy,Drama",7.3,223464
+594,2517,18,2013-10-18,12 Years a Slave,20000000,56671993,181025343,9.05126715,2013,tt2024544,12 Years a Slave,12 Years a Slave,134.0,"Biography,Drama,History",8.1,577301
+595,2519,20,2016-06-03,Me Before You,20000000,56245075,208265198,10.4132599,2016,tt2674426,Me Before You,Me Before You,106.0,"Drama,Romance",7.4,174567
+596,2520,21,2019-02-08,What Men Want,20000000,54611903,69911903,3.49559515,2019,tt7634968,What Men Want,What Men Want,117.0,"Comedy,Fantasy,Romance",4.9,10141
+597,2521,22,2016-04-15,Barbershop: The Next Cut,20000000,54030051,54404202,2.7202101,2016,tt3628584,Barbershop: The Next Cut,Barbershop: The Next Cut,111.0,"Comedy,Drama",5.9,13306
+598,2523,24,2018-09-14,A Simple Favor,20000000,53548586,97628717,4.88143585,2018,tt7040874,A Simple Favor,A Simple Favor,117.0,"Comedy,Crime,Drama",6.9,83338
+599,2524,25,2015-01-09,Selma,20000000,52076908,66776576,3.3388288,2015,tt1020072,Selma,Selma,128.0,"Biography,Drama,History",7.5,77633
+600,2533,34,2015-11-06,Spotlight,20000000,45055776,92088460,4.604423000000001,2015,tt1895587,Spotlight,Spotlight,129.0,"Crime,Drama",8.1,365110
+601,2534,35,2018-03-30,Acrimony,20000000,43549096,46627836,2.3313917999999996,2018,tt6063050,Acrimony,Acrimony,120.0,"Drama,Romance,Thriller",5.7,6119
+602,2535,36,2015-06-26,Max,20000000,42656255,43658157,2.18290785,2015,tt2390281,Max,Max,83.0,Comedy,5.1,248
+603,2538,39,2017-11-17,The Star,20000000,40847995,62758010,3.1379005,2017,tt4587656,The Star,The Star,86.0,"Adventure,Animation,Comedy",6.1,5159
+604,2542,43,2016-07-27,Nerve,20000000,38583626,70652284,3.5326142,2016,tt1772317,Nerve,Nerve,83.0,"Comedy,Drama",6.8,88
+605,2547,48,2016-02-19,Risen,20000000,36880033,46255763,2.31278815,2016,tt0850709,Risen,Risen,121.0,"Biography,Drama",5.3,182
+606,2552,53,2011-11-04,A Very Harold & Kumar 3D Christmas,20000000,35061031,36265745,1.81328725,2011,tt1268799,A Very Harold & Kumar 3D Christmas,A Very Harold & Kumar 3D Christmas,90.0,"Adventure,Comedy",6.3,62151
+607,2554,55,2013-01-04,Texas Chainsaw 3D,20000000,34341945,47666013,2.38330065,2013,tt1572315,Texas Chainsaw 3D,Texas Chainsaw 3D,92.0,"Horror,Thriller",4.8,41784
+608,2564,65,2011-08-31,The Debt,20000000,31177548,46604054,2.3302027,2011,tt1226753,The Debt,The Debt,113.0,"Drama,Thriller",6.9,61046
+609,2575,76,2013-08-23,The World's End,20000000,26004851,47508505,2.37542525,2013,tt1213663,The World's End,The World's End,109.0,"Action,Comedy,Sci-Fi",7.0,235308
+610,2580,81,2018-12-25,On the Basis of Sex,20000000,24622687,38073377,1.90366885,2018,tt4669788,On the Basis of Sex,On the Basis of Sex,120.0,"Biography,Drama",6.9,12083
+611,2581,82,2014-02-14,Endless Love,20000000,23438250,34718173,1.73590865,2014,tt2318092,Endless Love,Endless Love,104.0,"Drama,Romance",6.3,37869
+612,2583,84,2011-07-01,Monte Carlo,20000000,23186769,39686769,1.98433845,2011,tt1067774,Monte Carlo,Monte Carlo,109.0,"Adventure,Comedy,Family",5.8,38731
+613,2586,87,2017-06-16,Rough Night,20000000,22105643,46844357,2.34221785,2017,tt4799050,Rough Night,Rough Night,101.0,"Comedy,Crime,Thriller",5.2,39447
+614,2593,94,2015-11-20,Secret in Their Eyes,20000000,20180155,32608019,1.63040095,2015,tt1741273,Secret in Their Eyes,Secret in Their Eyes,111.0,"Crime,Drama,Mystery",6.3,37455
+615,2610,11,2017-09-29,Flatliners,20000000,16883115,45173738,2.2586869,2017,tt2039338,Flatliners,Flatliners,109.0,"Drama,Horror,Mystery",5.2,33752
+616,2621,22,2012-04-13,Lockout,20000000,14326865,33943049,1.69715245,2012,tt1592525,Lockout,Lockout,95.0,"Action,Sci-Fi,Thriller",6.1,89554
+617,2623,24,2011-09-30,What's Your Number?,20000000,14011084,30163785,1.50818925,2011,tt0770703,What's Your Number?,What's Your Number?,106.0,"Comedy,Romance",6.1,67922
+618,2626,27,2015-10-30,Burnt,20000000,13651946,36773510,1.8386755000000001,2015,tt2503944,Burnt,Burnt,101.0,"Comedy,Drama",6.6,95988
+619,2632,33,2016-02-26,Triple 9,20000000,12639297,25943792,1.2971896,2016,tt1712261,Triple 9,Triple 9,115.0,"Crime,Thriller",6.3,60369
+620,2633,34,2016-09-02,The Light Between Oceans,20000000,12545979,22281732,1.1140866000000003,2016,tt2547584,The Light Between Oceans,The Light Between Oceans,133.0,"Drama,Romance",7.2,46247
+621,2677,78,2012-09-07,The Cold Light of Day,20000000,3763583,25361206,1.2680603000000001,2012,tt1366365,The Cold Light of Day,The Cold Light of Day,93.0,"Action,Thriller",4.9,33039
+622,2707,8,2012-12-31,Zambezia,20000000,0,34454336,1.7227168000000002,2012,tt1488181,Zambezia,Zambezia,83.0,"Adventure,Animation,Comedy",5.8,6010
+623,2718,19,2017-12-01,The Shape of Water,19500000,63859435,195790794,10.040553538461538,2017,tt5580390,The Shape of Water,The Shape of Water,123.0,"Adventure,Drama,Fantasy",7.3,308112
+624,2726,27,2011-06-24,Bad Teacher,19000000,100292856,215448997,11.339420894736842,2011,tt1284575,Bad Teacher,Bad Teacher,92.0,"Comedy,Romance",5.7,181189
+625,2727,28,2016-08-12,Sausage Party,19000000,97670358,141344255,7.439171315789473,2016,tt1700841,Sausage Party,Sausage Party,89.0,"Adventure,Animation,Comedy",6.2,159111
+626,2740,41,2013-11-08,The Book Thief,19000000,21488481,76086711,4.0045637368421065,2013,tt0816442,The Book Thief,The Book Thief,131.0,"Drama,War",7.6,119023
+627,2763,64,2014-05-09,Neighbors,18000000,150086800,270944428,15.052468222222224,2014,tt2004420,Neighbors,Neighbors,97.0,Comedy,6.3,266020
+628,2776,77,2016-03-25,My Big Fat Greek Wedding 2,18000000,59689605,92096558,5.116475444444443,2016,tt3760922,My Big Fat Greek Wedding 2,My Big Fat Greek Wedding 2,94.0,"Comedy,Romance",6.0,25933
+629,2777,78,2015-09-11,The Perfect Guy,18000000,57027435,60278166,3.348787,2015,tt3862750,The Perfect Guy,The Perfect Guy,100.0,"Crime,Drama,Horror",5.6,8998
+630,2779,80,2011-03-25,Diary of a Wimpy Kid: Rodrick Rules,18000000,52698535,73695194,4.094177444444443,2011,tt1650043,Diary of a Wimpy Kid: Rodrick Rules,Diary of a Wimpy Kid: Rodrick Rules,99.0,"Comedy,Family",6.6,23135
+631,2782,83,2011-04-08,Soul Surfer,18000000,43853424,47158652,2.6199251111111117,2011,tt1596346,Soul Surfer,Soul Surfer,112.0,"Biography,Drama,Family",7.1,41659
+632,2784,85,2018-06-29,Uncle Drew,18000000,42469946,46527161,2.5848422777777778,2018,tt7334528,Uncle Drew,Uncle Drew,103.0,"Comedy,Sport",5.7,9739
+633,2785,86,2014-10-17,Birdman or (The Unexpected Virtue of Ignorance),18000000,42340598,103215094,5.734171888888889,2014,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Birdman or (The Unexpected Virtue of Ignorance),119.0,"Comedy,Drama",7.7,519417
+634,2789,90,2013-07-26,Blue Jasmine,18000000,33404871,102912961,5.717386722222222,2013,tt2334873,Blue Jasmine,Blue Jasmine,98.0,Drama,7.3,179453
+635,2794,95,2015-08-07,Ricki and the Flash,18000000,26839498,41166033,2.287001833333333,2015,tt3623726,Ricki and the Flash,Ricki and the Flash,101.0,"Comedy,Drama,Music",5.9,20932
+636,2797,98,2015-11-13,Love the Coopers,18000000,26302731,42227490,2.345971666666667,2015,tt2279339,Love the Coopers,Love the Coopers,107.0,"Comedy,Fantasy,Romance",5.8,18018
+637,2803,4,2017-04-28,The Circle,18000000,20497844,40651864,2.2584368888888893,2017,tt2122313,The Circle,Cirkeln,144.0,"Drama,Fantasy,Horror",5.9,2396
+638,2808,9,2016-01-15,Norm of the North,18000000,17062499,30535660,1.6964255555555556,2016,tt1594972,Norm of the North,Norm of the North,90.0,"Adventure,Animation,Comedy",3.6,7951
+639,2810,11,2013-08-16,Jobs,18000000,16131410,43402515,2.4112508333333333,2013,tt2357129,Jobs,Jobs,128.0,"Biography,Drama",5.9,88788
+640,2832,33,2014-04-11,The Railway Man,18000000,4438438,23910210,1.328345,2014,tt2058107,The Railway Man,The Railway Man,116.0,"Biography,Drama,Romance",7.1,34586
+641,2865,66,2018-04-06,A Quiet Place,17000000,188024361,334522294,19.677782,2018,tt6347308,A Quiet Place,A Quiet Place,80.0,Documentary,6.6,18
+642,2872,73,2013-11-15,The Best Man Holiday,17000000,70525195,72835710,4.284453529411763,2013,tt2083355,The Best Man Holiday,The Best Man Holiday,123.0,"Comedy,Drama",6.7,13967
+643,2874,75,2012-09-28,Pitch Perfect,17000000,65001093,116044347,6.8261380588235285,2012,tt1981677,Pitch Perfect,Pitch Perfect,112.0,"Comedy,Music,Romance",7.2,256565
+644,2876,77,2013-04-05,Evil Dead,17000000,54239856,97778356,5.7516680000000004,2013,tt1288558,Evil Dead,Evil Dead,91.0,"Fantasy,Horror,Thriller",6.5,146399
+645,2880,81,2016-11-11,Almost Christmas,17000000,42065185,42493506,2.499618,2016,tt4649416,Almost Christmas,Almost Christmas,111.0,"Comedy,Drama",6.1,5212
+646,2886,87,2011-03-04,Beastly,17000000,27865571,38028230,2.236954705882353,2011,tt1152398,Beastly,Beastly,86.0,"Drama,Fantasy,Romance",5.6,72599
+647,2932,33,2012-05-25,Moonrise Kingdom,16000000,45512466,68848446,4.303027875,2012,tt1748122,Moonrise Kingdom,Moonrise Kingdom,94.0,"Adventure,Comedy,Drama",7.8,291750
+648,2933,34,2011-11-25,The Artist,16000000,44667095,128256712,8.016044500000001,2011,tt1655442,The Artist,The Artist,100.0,"Comedy,Drama,Romance",7.9,217184
+649,2938,39,2011-02-04,The Roommate,16000000,37300107,52545707,3.2841066875,2011,tt1265990,The Roommate,The Roommate,91.0,"Drama,Thriller",4.9,33062
+650,2956,57,2014-10-03,Left Behind,16000000,14019924,20769209,1.2980755625,2014,tt2243377,Left Behind,Left Behind,86.0,"Horror,Mystery,Thriller",6.5,33
+651,2970,71,2013-04-05,Trance,16000000,2322593,22594052,1.41212825,2013,tt1111235,Trance,Trance,83.0,Horror,4.6,77
+652,2982,83,2018-12-21,Second Act,15700000,39282227,63288854,4.031137197452229,2018,tt2126357,Second Act,Second Act,103.0,"Comedy,Drama,Romance",5.8,13109
+653,3001,2,2017-08-11,Annabelle: Creation,15000000,102092201,305384865,20.358991,2017,tt5140878,Annabelle: Creation,Annabelle: Creation,109.0,"Horror,Mystery,Thriller",6.5,90402
+654,3005,6,2014-11-28,The Imitation Game,15000000,91125143,227740463,15.182697533333334,2014,tt2084970,The Imitation Game,The Imitation Game,114.0,"Biography,Drama,Thriller",8.0,620834
+655,3008,9,2013-01-18,Mama,15000000,71628180,148095566,9.873037733333334,2013,tt1805319,Mama,Mama,50.0,Drama,4.5,6
+656,3017,18,2012-02-03,The Woman in Black,15000000,54333290,128955898,8.597059866666667,2012,tt1596365,The Woman in Black,The Woman in Black,95.0,"Drama,Fantasy,Horror",6.4,165357
+657,3020,21,2018-08-10,BlacKkKlansman,15000000,49275340,93017335,6.201155666666668,2018,tt7349662,BlacKkKlansman,BlacKkKlansman,135.0,"Biography,Crime,Drama",7.5,149005
+658,3025,26,2013-02-22,Snitch,15000000,42930462,57907734,3.8605156000000003,2013,tt0882977,Snitch,Snitch,112.0,"Action,Drama,Thriller",6.5,78142
+659,3027,28,2015-12-04,Krampus,15000000,42725475,61788393,4.1192262,2015,tt3850590,Krampus,Krampus,98.0,"Comedy,Fantasy,Horror",6.2,55400
+660,3028,29,2012-09-21,End of Watch,15000000,41003371,57586606,3.8391070666666662,2012,tt1855199,End of Watch,End of Watch,109.0,"Action,Crime,Drama",7.6,211308
+661,3032,33,2014-12-03,Wild,15000000,37880356,52460543,3.497369533333333,2014,tt2305051,Wild,Wild,115.0,"Adventure,Biography,Drama",7.1,110138
+662,3034,35,2014-11-07,The Theory of Everything,15000000,35893537,123327692,8.221846133333333,2014,tt2980516,The Theory of Everything,The Theory of Everything,123.0,"Biography,Drama,Romance",7.7,361534
+663,3035,36,2011-09-16,Drive,15000000,35060689,81357930,5.423862000000001,2011,tt0780504,Drive,Drive,100.0,"Crime,Drama",7.8,521495
+664,3038,39,2018-11-23,The Favourite,15000000,34366783,94113929,6.2742619333333325,2018,tt5083738,The Favourite,The Favourite,119.0,"Biography,Drama,History",7.6,116011
+665,3049,50,2014-08-22,When the Game Stands Tall,15000000,30127963,30138912,2.0092608,2014,tt2247476,When the Game Stands Tall,When the Game Stands Tall,115.0,"Drama,Family,Sport",6.7,14498
+666,3056,57,2017-09-08,Home Again,15000000,27020284,37336874,2.489124933333333,2017,tt2121286,Home Again,Home Again,104.0,Drama,6.6,360
+667,3060,61,2014-08-27,The November Man,15000000,25018119,34820335,2.321355666666667,2014,tt2402157,The November Man,The November Man,108.0,"Action,Crime,Thriller",6.3,59293
+668,3066,67,2013-03-29,The Place Beyond the Pines,15000000,21403519,47011449,3.1340966,2013,tt1817273,The Place Beyond the Pines,The Place Beyond the Pines,140.0,"Crime,Drama,Thriller",7.3,226765
+669,3069,70,2016-04-29,Keanu,15000000,20591853,20688141,1.3792094,2016,tt4139124,Keanu,Keanu,100.0,"Action,Comedy,Crime",6.3,41560
+670,3075,76,2014-07-25,A Most Wanted Man,15000000,17237855,36068890,2.404592666666667,2014,tt1972571,A Most Wanted Man,A Most Wanted Man,122.0,"Crime,Drama,Thriller",6.8,67914
+671,3078,79,2012-11-02,The Man with the Iron Fists,15000000,15634090,22018988,1.4679325333333333,2012,tt1258972,The Man with the Iron Fists,The Man with the Iron Fists,95.0,Action,5.4,58185
+672,3080,81,2019-02-01,Miss Bala,15000000,14998027,15362298,1.0241532,2019,tt1911600,Miss Bala,Miss Bala,113.0,"Crime,Drama,Thriller",6.5,8092
+673,3081,82,2012-11-30,Killing Them Softly,15000000,14945541,39238443,2.6158962000000003,2012,tt1764234,Killing Them Softly,Killing Them Softly,97.0,"Crime,Thriller",6.2,124086
+674,3083,84,2011-08-19,One Day,15000000,13843771,59168692,3.9445794666666663,2011,tt1563738,One Day,One Day,107.0,"Drama,Romance",7.0,128094
+675,3089,90,2017-01-20,The Founder,15000000,12786053,24403192,1.6268794666666666,2017,tt2262282,The Founder,Der Gründer,108.0,"Comedy,Sci-Fi",5.9,33
+676,3124,25,2015-10-30,Scouts Guide to the Zombie Apocalypse,15000000,3703046,15554855,1.0369903333333332,2015,tt1727776,Scouts Guide to the Zombie Apocalypse,Scouts Guide to the Zombie Apocalypse,93.0,"Action,Comedy,Horror",6.3,40479
+677,3153,54,2013-12-06,Khumba,15000000,0,20898221,1.3932147333333331,2013,tt1487931,Khumba,Khumba,85.0,"Adventure,Animation,Family",5.7,4984
+678,3154,55,2015-05-05,A Few Best Men,15000000,0,17224539,1.1483026,2015,tt1640711,A Few Best Men,A Few Best Men,97.0,"Comedy,Romance",5.7,12069
+679,3165,66,2015-07-01,Magic Mike XXL,14500000,66013057,123660597,8.52831703448276,2015,tt2268016,Magic Mike XXL,Magic Mike XXL,115.0,"Comedy,Drama,Music",5.6,48497
+680,3180,81,2012-08-31,The Possession,14000000,49130588,82925064,5.9232188571428575,2012,tt0431021,The Possession,The Possession,92.0,"Horror,Mystery,Thriller",5.9,53649
+681,3189,90,2012-01-13,The Iron Lady,14000000,29959436,115592104,8.256578857142857,2012,tt1007029,The Iron Lady,The Iron Lady,105.0,"Biography,Drama",6.4,96066
+682,3215,16,2015-10-23,Suffragette,14000000,4702420,34044909,2.4317792142857138,2015,tt3077214,Suffragette,Suffragette,106.0,"Biography,Drama,History",6.9,34306
+683,3217,18,2014-12-19,Mr. Turner,14000000,3958546,25187026,1.7990732857142857,2014,tt2473794,Mr. Turner,Mr. Turner,150.0,"Biography,Drama,History",6.8,22661
+684,3235,36,2012-10-12,Seven Psychopaths,13500000,15024049,33035736,2.447091555555556,2012,tt1931533,Seven Psychopaths,Seven Psychopaths,110.0,"Comedy,Crime",7.2,223493
+685,3243,44,2014-09-12,No Good Deed,13200000,52543632,54323210,4.115394696969697,2014,tt2011159,No Good Deed,No Good Deed,84.0,"Action,Crime,Drama",5.6,16045
+686,3247,48,2011-02-11,Justin Bieber: Never Say Never,13000000,73013910,99034125,7.618009615384616,2011,tt1702443,Justin Bieber: Never Say Never,Justin Bieber: Never Say Never,105.0,"Documentary,Music",1.6,74978
+687,3248,49,2018-07-04,The First Purge,13000000,69488745,136617305,10.509023461538463,2018,tt6133466,The First Purge,The First Purge,98.0,"Action,Horror,Sci-Fi",5.1,41741
+688,3249,50,2016-03-16,Miracles from Heaven,13000000,61705123,73798736,5.676825846153847,2016,tt4257926,Miracles from Heaven,Miracles from Heaven,109.0,"Biography,Drama,Family",7.1,17734
+689,3253,54,2016-06-24,The Shallows,13000000,55121623,118763442,9.135649384615384,2016,tt4052882,The Shallows,The Shallows,86.0,"Drama,Horror,Thriller",6.3,106927
+690,3257,58,2014-02-14,About Last Night,13000000,48637684,50445860,3.8804507692307686,2014,tt1826590,About Last Night,About Last Night,100.0,"Comedy,Romance",6.1,21078
+691,3260,61,2014-10-10,St. Vincent,13000000,44137712,54837234,4.218248769230769,2014,tt2170593,St. Vincent,St. Vincent,102.0,"Comedy,Drama",7.3,89372
+692,3261,62,2014-07-02,Earth to Echo,13000000,38934842,42174545,3.244195769230769,2014,tt2183034,Earth to Echo,Earth to Echo,91.0,"Adventure,Family,Sci-Fi",5.8,17627
+693,3271,72,2015-04-10,Ex Machina,13000000,25440971,38358392,2.9506455384615387,2015,tt0470752,Ex Machina,Ex Machina,108.0,"Drama,Mystery,Sci-Fi",7.7,424542
+694,3274,75,2016-03-11,Eye in the Sky,13000000,18704596,35402802,2.723292461538461,2016,tt2057392,Eye in the Sky,Eye in the Sky,102.0,"Drama,Thriller,War",7.3,72301
+695,3275,76,2013-03-22,Admission,13000000,18007317,18733666,1.4410512307692307,2013,tt1814621,Admission,Admission,107.0,"Comedy,Drama,Romance",5.7,31849
+696,3276,77,2012-09-21,The Perks of Being a Wallflower,13000000,17742948,33069303,2.5437925384615383,2012,tt1659337,The Perks of Being a Wallflower,The Perks of Being a Wallflower,103.0,Drama,8.0,422671
+697,3279,80,2015-10-16,Room,13000000,14677674,36262783,2.7894448461538457,2015,tt3170832,Room,Room,118.0,"Drama,Thriller",8.2,316791
+698,3280,81,2015-10-16,Woodlawn,13000000,14394097,14403703,1.1079771538461538,2015,tt4183692,Woodlawn,Woodlawn,123.0,"Drama,Sport",6.5,6070
+699,3285,86,2015-07-17,Bajrangi Bhaijaan,13000000,8178001,121778347,9.367565153846154,2015,tt3863552,Bajrangi Bhaijaan,Bajrangi Bhaijaan,163.0,"Action,Comedy,Drama",8.0,63747
+700,3298,99,2015-12-04,Youth,13000000,2703296,24001573,1.846274846153846,2015,tt2536448,Youth,Jeunesse,75.0,"Drama,Family",6.6,36
+701,3302,3,2015-07-24,The Vatican Tapes,13000000,1784763,14929184,1.1483987692307691,2015,tt1524575,The Vatican Tapes,The Vatican Tapes,91.0,"Horror,Thriller",5.0,14822
+702,3307,8,2015-08-14,Brothers,13000000,656688,17856688,1.3735913846153849,2015,tt1754838,Brothers,Veljekset,90.0,Drama,5.8,149
+703,3313,14,2013-03-15,The Call,12800000,51872378,69821476,5.4548028125,2013,tt1911644,The Call,The Call,94.0,"Crime,Drama,Horror",6.7,103780
+704,3315,16,2014-09-12,The Drop,12600000,10724389,19054534,1.5122646031746032,2014,tt1600196,The Drop,The Drop,106.0,"Crime,Drama",7.1,132161
+705,3342,43,2014-06-06,The Fault in Our Stars,12000000,124872350,307166834,25.597236166666665,2014,tt2582846,The Fault in Our Stars,The Fault in Our Stars,126.0,"Drama,Romance",7.7,315135
+706,3344,45,2012-04-20,Think Like a Man,12000000,91547205,113373764,9.447813666666667,2012,tt1621045,Think Like a Man,Think Like a Man,122.0,"Comedy,Romance",6.6,41043
+707,3351,52,2012-02-24,Act of Valor,12000000,70012847,82497035,6.874752916666668,2012,tt1591479,Act of Valor,Act of Valor,110.0,"Action,Adventure,Drama",6.5,63787
+708,3354,55,2012-02-03,Chronicle,12000000,64575175,123681790,10.306815833333333,2012,tt1706593,Chronicle,Chronicle,84.0,"Drama,Sci-Fi,Thriller",7.1,229258
+709,3357,58,2012-03-02,Project X,12000000,54731865,103028188,8.585682333333333,2012,tt1636826,Project X,Project X,88.0,Comedy,6.7,177782
+710,3359,60,2016-11-25,Lion,12000000,51739495,149570720,12.464226666666667,2016,tt3741834,Lion,Lion,118.0,"Biography,Drama",8.1,181601
+711,3360,61,2018-05-04,Overboard,12000000,50316123,85369830,7.114152499999999,2018,tt1563742,Overboard,Overboard,112.0,"Comedy,Romance",5.9,25607
+712,3364,65,2013-11-22,Philomena,12000000,37709979,98963392,8.246949333333333,2013,tt2431286,Philomena,Philomena,98.0,"Biography,Comedy,Drama",7.6,88704
+713,3367,68,2015-07-24,Paper Towns,12000000,32000304,85450484,7.120873666666666,2015,tt3622592,Paper Towns,Paper Towns,109.0,"Comedy,Drama,Mystery",6.3,87742
+714,3376,77,2016-08-12,Hell or High Water,12000000,27007844,37584304,3.132025333333333,2016,tt2582782,Hell or High Water,Hell or High Water,102.0,"Action,Crime,Drama",7.6,176469
+715,3378,79,2012-07-05,Katy Perry: Part of Me,12000000,25326071,32700439,2.725036583333333,2012,tt2215719,Katy Perry: Part of Me,Katy Perry: Part of Me,93.0,"Documentary,Music",5.9,13034
+716,3379,80,2014-12-12,Top Five,12000000,25317379,26001741,2.16681175,2014,tt2784678,Top Five,Top Five,102.0,"Comedy,Romance",6.4,24744
+717,3383,84,2015-01-30,Project Almanac,12000000,22348241,32909437,2.7424530833333334,2015,tt2436386,Project Almanac,Project Almanac,106.0,"Drama,Mystery,Sci-Fi",6.4,71500
+718,3390,91,2013-11-15,Nebraska,12000000,17654912,24761360,2.0634466666666667,2013,tt1821549,Nebraska,Nebraska,115.0,"Adventure,Comedy,Drama",7.7,105304
+719,3393,94,2011-12-09,Young Adult,12000000,16311571,22750356,1.895863,2011,tt1625346,Young Adult,Young Adult,94.0,"Comedy,Drama",6.3,74071
+720,3394,95,2013-11-01,About Time,12000000,15323921,89309178,7.4424315000000005,2013,tt2194499,About Time,About Time,123.0,"Comedy,Drama,Fantasy",7.8,263136
+721,3395,96,2018-12-14,If Beale Street Could Talk,12000000,14915773,19859167,1.6549305833333334,2018,tt7125860,If Beale Street Could Talk,If Beale Street Could Talk,119.0,"Drama,Romance",7.2,25512
+722,3396,97,2017-07-14,Wish Upon,12000000,14301505,23477345,1.9564454166666667,2017,tt5322012,Wish Upon,Wish Upon,90.0,"Drama,Fantasy,Horror",5.0,14962
+723,3403,4,2017-04-21,Unforgettable,12000000,11368012,16221211,1.3517675833333334,2017,tt1247436,Unforgettable,Unforgettable,88.0,Documentary,5.9,7
+724,3408,9,2012-09-14,Arbitrage,12000000,7919574,35830713,2.98589275,2012,tt1764183,Arbitrage,Arbitrage,107.0,"Drama,Thriller",6.6,46774
+725,3428,29,2013-03-01,Stoker,12000000,1703125,12034913,1.0029094166666668,2013,tt1682180,Stoker,Stoker,99.0,"Drama,Thriller",6.8,97393
+726,3456,57,2016-09-23,The Dressmaker,11900000,2022115,24041617,2.020303949579832,2016,tt2910904,The Dressmaker,The Dressmaker,119.0,"Comedy,Drama",7.1,46833
+727,3459,60,2015-11-20,Carol,11800000,12711491,42843521,3.63080686440678,2015,tt2402927,Carol,Carol,118.0,"Drama,Romance",7.2,100680
+728,3461,62,2016-01-22,Dirty Grandpa,11500000,35593113,105078449,9.137256434782607,2016,tt1860213,Dirty Grandpa,Dirty Grandpa,102.0,Comedy,5.9,101393
+729,3472,73,2014-08-22,If I Stay,11000000,50474843,78356170,7.1232881818181815,2014,tt1355630,If I Stay,If I Stay,107.0,"Drama,Fantasy,Music",6.8,107625
+730,3478,79,2015-11-04,Brooklyn,11000000,38322743,62076141,5.643285545454545,2015,tt2381111,Brooklyn,Brooklyn,117.0,"Drama,Romance",7.5,117021
+731,3480,81,2015-04-01,Woman in Gold,11000000,33307793,58586407,5.326037,2015,tt2404425,Woman in Gold,Woman in Gold,109.0,"Biography,Drama,History",7.3,48501
+732,3489,90,2013-01-11,Quartet,11000000,18388357,56178935,5.107175909090909,2013,tt1441951,Quartet,Quartet,94.0,"Comedy,Drama",6.8,17979
+733,3493,94,2013-12-06,Inside Llewyn Davis,11000000,13248209,32943247,2.9948406363636364,2013,tt2042568,Inside Llewyn Davis,Inside Llewyn Davis,104.0,"Drama,Music",7.5,123759
+734,3499,100,2016-07-06,Sultan,11000000,5599781,72989781,6.6354346363636365,2016,tt2650286,Sultan,Sultan,,"Drama,Romance",4.5,56
+735,3535,36,2018-10-19,Halloween,10000000,159342015,254900667,25.4900667,2018,tt1502407,Halloween,Halloween,106.0,"Horror,Thriller",6.6,88395
+736,3541,42,2016-07-01,The Purge: Election Year,10000000,79042440,118514727,11.8514727,2016,tt4094724,The Purge: Election Year,The Purge: Election Year,108.0,"Action,Horror,Sci-Fi",6.0,80254
+737,3542,43,2018-05-18,Book Club,10000000,68566296,91113683,9.1113683,2018,tt4727712,Book Club,Book Club,72.0,Documentary,6.6,9
+738,3544,45,2018-01-05,Insidious: The Last Key,10000000,67745330,167885588,16.7885588,2018,tt5726086,Insidious: The Last Key,Insidious: The Last Key,103.0,"Horror,Mystery,Thriller",5.7,42154
+739,3552,53,2017-11-03,Lady Bird,10000000,48958273,78610769,7.8610769,2017,tt4925292,Lady Bird,Lady Bird,94.0,"Comedy,Drama",7.4,177677
+740,3554,55,2012-05-04,The Best Exotic Marigold Hotel,10000000,46383639,134639780,13.463978,2012,tt1412386,The Best Exotic Marigold Hotel,The Best Exotic Marigold Hotel,124.0,"Comedy,Drama,Romance",7.3,85811
+741,3555,56,2018-06-08,Hereditary,10000000,44069456,70133905,7.0133905,2018,tt7784604,Hereditary,Hereditary,127.0,"Drama,Horror,Mystery",7.3,151571
+742,3560,61,2017-10-27,Jigsaw,10000000,38052832,102445196,10.2445196,2017,tt3348730,Jigsaw,Jigsaw,92.0,"Crime,Horror,Mystery",5.8,57184
+743,3567,68,2016-01-22,The Boy,10000000,35819556,68220952,6.822095200000001,2016,tt2443822,The Boy,The Boy,105.0,"Drama,Horror,Thriller",5.4,4251
+744,3572,73,2015-03-06,The Second Best Exotic Marigold Hotel,10000000,33078266,90384306,9.0384306,2015,tt2555736,The Second Best Exotic Marigold Hotel,The Second Best Exotic Marigold Hotel,122.0,"Comedy,Drama",6.6,28931
+745,3574,75,2017-04-28,How to Be a Latin Lover,10000000,32149404,62556228,6.255622799999999,2017,tt4795124,How to Be a Latin Lover,How to Be a Latin Lover,115.0,"Comedy,Drama",5.9,11747
+746,3579,80,2018-08-10,Slender Man,10000000,30564825,51723644,5.1723644,2018,tt5690360,Slender Man,Slender Man,93.0,"Horror,Mystery,Thriller",3.2,19650
+747,3584,85,2016-09-09,When the Bough Breaks,10000000,29747603,30768449,3.0768449,2016,tt1389139,When the Bough Breaks,When the Bough Breaks,107.0,"Crime,Drama,Horror",5.1,4729
+748,3590,91,2015-08-21,Sinister 2,10000000,27740955,54104225,5.4104225,2015,tt2752772,Sinister 2,Sinister 2,97.0,"Horror,Mystery,Thriller",5.3,41782
+749,3591,92,2016-01-08,The Forest,10000000,26594261,40749230,4.074923,2016,tt1488602,The Forest,The Forest,98.0,"Horror,Thriller",3.5,135
+750,3595,96,2012-08-17,Sparkle,10000000,24397469,24660323,2.4660322999999997,2012,tt1876451,Sparkle,Sparkle,116.0,"Drama,Music",5.7,5643
+751,3596,97,2016-10-14,Kevin Hart: What Now?,10000000,23591043,23591043,2.3591043,2016,tt4669186,Kevin Hart: What Now?,Kevin Hart: What Now?,96.0,"Comedy,Documentary",5.9,8134
+752,3597,98,2013-04-26,Mud,10000000,21590086,31556959,3.1556959,2013,tt1935179,Mud,Mud,130.0,Drama,7.4,156786
+753,3599,100,2017-12-01,The Disaster Artist,10000000,21120616,28717667,2.8717667000000002,2017,tt3521126,The Disaster Artist,The Disaster Artist,104.0,"Biography,Comedy,Drama",7.4,111737
+754,3600,1,2016-09-16,Blair Witch,10000000,20777061,38985577,3.8985577000000005,2016,tt1540011,Blair Witch,Blair Witch,89.0,"Horror,Mystery,Thriller",5.0,36867
+755,3606,7,2015-10-23,Paranormal Activity: The Ghost Dimension,10000000,18297124,77959374,7.7959374000000015,2015,tt2473510,Paranormal Activity: The Ghost Dimension,Paranormal Activity: The Ghost Dimension,88.0,"Horror,Mystery,Thriller",4.6,22361
+756,3616,17,2016-10-07,The Birth of a Nation,10000000,15861566,16891011,1.6891011000000002,2016,tt4196450,The Birth of a Nation,The Birth of a Nation,120.0,"Biography,Drama,History",6.4,18442
+757,3621,22,2011-11-23,My Week with Marilyn,10000000,14597405,34240572,3.4240572,2011,tt1655420,My Week with Marilyn,My Week with Marilyn,99.0,"Biography,Drama",7.0,79337
+758,3622,23,2014-12-25,Big Eyes,10000000,14482031,27317872,2.7317872000000003,2014,tt1126590,Big Eyes,Big Eyes,106.0,"Biography,Crime,Drama",7.0,77447
+759,3633,34,2019-04-05,The Best of Enemies,10000000,10205616,10205616,1.0205616,2019,tt4807408,The Best of Enemies,The Best of Enemies,133.0,"Biography,Drama,History",6.8,1162
+760,3638,39,2013-01-25,Movie 43,10000000,8840453,31164747,3.1164747000000004,2013,tt1333125,Movie 43,Movie 43,94.0,Comedy,4.3,92980
+761,3639,40,2018-10-19,Can You Ever Forgive Me?,10000000,8803865,11752387,1.1752387,2018,tt4595882,Can You Ever Forgive Me?,Can You Ever Forgive Me?,106.0,"Biography,Comedy,Crime",7.2,29473
+762,3644,45,2015-03-27,While We're Young,10000000,7582065,17503828,1.7503828000000001,2015,tt1791682,While We're Young,While We're Young,97.0,"Comedy,Drama,Mystery",6.3,41327
+763,3647,48,2012-06-22,Seeking a Friend for the End of the World,10000000,7078738,11766959,1.1766959,2012,tt1307068,Seeking a Friend for the End of the World,Seeking a Friend for the End of the World,101.0,"Adventure,Comedy,Drama",6.7,102047
+764,3649,50,2016-11-11,Shut In,10000000,6900335,11360665,1.1360665,2016,tt2582500,Shut In,Shut In,91.0,"Drama,Mystery,Thriller",4.7,11030
+765,3666,67,2016-04-29,The Man Who Knew Infinity,10000000,3877922,12382122,1.2382122,2016,tt0787524,The Man Who Knew Infinity,The Man Who Knew Infinity,108.0,"Biography,Drama",7.2,43575
+766,3747,48,2017-09-22,Friend Request,9900000,3759078,11310835,1.142508585858586,2017,tt2277308,Friend Request,Friend Request,91.0,Thriller,4.0,116
+767,3750,51,2012-12-19,Amour,9700000,6738954,36787044,3.792478762886598,2012,tt1602620,Amour,Amour,127.0,"Drama,Romance",7.9,84960
+768,3755,56,2016-12-21,Dangal,9500000,12391761,294654618,31.016275578947372,2016,tt5074352,Dangal,Dangal,161.0,"Action,Biography,Drama",8.5,123638
+769,3761,62,2011-11-11,Melancholia,9400000,3030848,21817298,2.32098914893617,2011,tt1527186,Melancholia,Melancholia,135.0,"Drama,Sci-Fi",7.2,153434
+770,3766,67,2011-12-31,Red Dog,9100000,0,20927794,2.2997575824175818,2011,tt0803061,Red Dog,Red Dog,92.0,"Biography,Comedy,Drama",7.4,15357
+771,3770,71,2014-07-18,The Purge: Anarchy,9000000,71562550,111534881,12.392764555555555,2014,tt2975578,The Purge: Anarchy,The Purge: Anarchy,103.0,"Action,Horror,Sci-Fi",6.5,126203
+772,3774,75,2016-10-21,Ouija: Origin of Evil,9000000,35144505,81831866,9.092429555555556,2016,tt4361050,Ouija: Origin of Evil,Ouija: Origin of Evil,99.0,"Drama,Horror,Mystery",6.1,47099
+773,3777,78,2019-02-13,Happy Death Day 2U,9000000,28051045,64179495,7.131055,2019,tt8155288,Happy Death Day 2U,Happy Death Day 2U,100.0,"Drama,Horror,Mystery",6.3,27462
+774,3779,80,2015-01-30,Black or White,9000000,21571189,21971021,2.4412245555555554,2015,tt2883434,Black or White,Black or White,121.0,Drama,6.6,10659
+775,3785,86,2016-11-18,The Edge of Seventeen,9000000,14431633,19096003,2.121778111111111,2016,tt1878870,The Edge of Seventeen,The Edge of Seventeen,104.0,"Comedy,Drama",7.3,87602
+776,3786,87,2016-12-02,Jackie,9000000,13960394,36588512,4.065390222222222,2016,tt1619029,Jackie,Jackie,100.0,"Biography,Drama,History",6.7,66008
+777,3789,90,2011-08-12,Glee: The 3D Concert Movie,9000000,11862398,17462398,1.9402664444444444,2011,tt1922612,Glee: The 3D Concert Movie,Glee: The 3D Concert Movie,84.0,"Documentary,Music",5.4,5449
+778,3791,92,2016-11-04,Loving,9000000,7710234,12898064,1.4331182222222223,2016,tt2495212,Loving,Milosc,105.0,"Drama,Romance",7.1,257
+779,3802,3,2013-03-22,The Sapphires,9000000,2450867,20395040,2.2661155555555554,2013,tt1673697,The Sapphires,The Sapphires,103.0,"Biography,Comedy,Drama",7.0,12143
+780,3823,24,2012-05-18,Polisse,8900000,176988,22744132,2.5555204494382022,2012,tt1661420,Polisse,Polisse,127.0,"Crime,Drama",7.3,12506
+781,3829,30,2016-11-18,Manchester by the Sea,8500000,47695371,77733867,9.145160823529412,2016,tt4034228,Manchester by the Sea,Manchester by the Sea,137.0,Drama,7.8,214557
+782,3833,34,2014-10-31,Nightcrawler,8500000,32381218,50334418,5.9216962352941165,2014,tt2872718,Nightcrawler,Nightcrawler,117.0,"Crime,Drama,Thriller",7.9,404476
+783,3835,36,2019-01-16,Dragon Ball Super: Broly,8500000,30376755,122747755,14.440912352941178,2019,tt7961060,Dragon Ball Super: Broly,Doragon bôru chô: Burorî,100.0,"Action,Adventure,Animation",8.0,16465
+784,3837,38,2013-09-27,Baggage Claim,8500000,21569509,22885836,2.6924512941176477,2013,tt1171222,Baggage Claim,Baggage Claim,96.0,Comedy,5.1,8296
+785,3838,39,2016-10-07,Middle School: The Worst Years of My Life,8500000,20007149,23311293,2.7425050588235296,2016,tt4981636,Middle School: The Worst Years of My Life,Middle School: The Worst Years of My Life,92.0,"Comedy,Family",6.1,6413
+786,3849,50,2017-12-31,Posledniy bogatyr,8500000,0,30700192,3.6117872941176468,2017,tt6175394,Posledniy bogatyr,Posledniy bogatyr,114.0,"Action,Adventure,Comedy",6.6,1853
+787,3853,54,2013-05-31,Yeh Jawaani Hai Deewani,8300000,3827466,50827466,6.123791084337349,2013,tt2178470,Yeh Jawaani Hai Deewani,Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical",7.1,33971
+788,3871,72,2019-05-03,The Intruder,8000000,35095904,36005871,4.500733875,2019,tt1773741,The Intruder,Khew ar-khard,106.0,Horror,4.3,136
+789,3872,73,2011-09-30,50/50,8000000,35016118,41334735,5.166841875,2011,tt1306980,50/50,50/50,100.0,"Comedy,Drama,Romance",7.7,300475
+790,3874,75,2015-09-02,A Walk in the Woods,8000000,29499394,37119358,4.63991975,2015,tt1178665,A Walk in the Woods,A Walk in the Woods,104.0,"Adventure,Biography,Comedy",6.3,22033
+791,3877,78,2014-01-31,That Awkward Moment,8000000,26068955,53068955,6.633619375,2014,tt1800246,That Awkward Moment,That Awkward Moment,94.0,"Comedy,Romance",6.2,92148
+792,3887,88,2013-09-18,Enough Said,8000000,17550872,25621449,3.202681125,2013,tt2390361,Enough Said,Enough Said,93.0,"Comedy,Drama,Romance",7.0,55698
+793,3890,91,2014-06-27,Begin Again,8000000,16170632,68838736,8.604842,2014,tt1945037,Begin Again,Begin Again,68.0,"Drama,Family",7.0,57
+794,3896,97,2011-04-29,Prom,8000000,10130219,10763183,1.345397875,2011,tt1604171,Prom,Prom,104.0,"Comedy,Drama,Family",5.4,14279
+795,3899,100,2015-06-12,Me and Earl and the Dying Girl,8000000,6758416,9266180,1.1582725,2015,tt2582496,Me and Earl and the Dying Girl,Me and Earl and the Dying Girl,105.0,"Comedy,Drama,Romance",7.8,112627
+796,3930,31,2016-11-18,A Street Cat Named Bob,8000000,82703,17382693,2.172836625,2016,tt3606888,A Street Cat Named Bob,A Street Cat Named Bob,103.0,"Biography,Comedy,Drama",7.4,23204
+797,3966,67,2011-12-21,Albert Nobbs,7500000,3014696,8539003,1.1385337333333334,2011,tt1602098,Albert Nobbs,Albert Nobbs,113.0,"Drama,Romance",6.7,22213
+798,3976,77,2017-01-13,The Bye Bye Man,7400000,22395806,31187727,4.2145577027027015,2017,tt4030600,The Bye Bye Man,The Bye Bye Man,96.0,"Drama,Fantasy,Horror",4.3,17743
+799,3987,88,2012-06-29,Magic Mike,7000000,113721571,170549753,24.36425042857143,2012,tt1915581,Magic Mike,Magic Mike,110.0,"Comedy,Drama",6.1,123955
+800,3989,90,2018-03-16,I Can Only Imagine,7000000,83482352,85604221,12.22917442857143,2018,tt6450186,I Can Only Imagine,I Can Only Imagine,110.0,"Biography,Drama,Family",7.4,11439
+801,3990,91,2019-03-15,Five Feet Apart,7000000,45729221,80504421,11.500631571428572,2019,tt6472976,Five Feet Apart,Five Feet Apart,116.0,"Drama,Romance",7.2,10645
+802,3992,93,2011-05-06,Jumping the Broom,7000000,37295394,38158601,5.4512287142857145,2011,tt1640484,Jumping the Broom,Jumping the Broom,112.0,"Comedy,Drama",5.7,9089
+803,4003,4,2017-04-07,Gifted,7000000,24801212,36964656,5.280665142857143,2017,tt3727750,Gifted,Gifted,,Documentary,7.0,7
+804,4010,11,2015-06-19,Dope,7000000,17506470,18190831,2.598690142857143,2015,tt3850214,Dope,Dope,103.0,"Comedy,Crime,Drama",7.2,76557
+805,4013,14,2014-01-17,Devil's Due,7000000,15821461,36146087,5.163726714285715,2014,tt2752758,Devil's Due,Devil's Due,89.0,"Horror,Mystery,Thriller",4.1,15502
+806,4015,16,2014-11-14,Beyond the Lights,7000000,14618727,14618727,2.0883895714285714,2014,tt3125324,Beyond the Lights,Beyond the Lights,116.0,"Drama,Music,Romance",6.9,14122
+807,4042,43,2012-01-13,We Need to Talk About Kevin,7000000,1738692,10765283,1.5378975714285714,2012,tt1242460,We Need to Talk About Kevin,We Need to Talk About Kevin,112.0,"Drama,Mystery,Thriller",7.5,123619
+808,4062,63,2016-12-06,Oddball,7000000,0,10237229,1.4624612857142858,2016,tt3401748,Oddball,Oddball,95.0,"Adventure,Family",6.4,2124
+809,4072,73,2012-09-21,House at the End of the Street,6900000,31611916,44103982,6.391881449275362,2012,tt1582507,House at the End of the Street,House at the End of the Street,101.0,"Drama,Horror,Thriller",5.6,66303
+810,4083,84,2014-10-03,Annabelle,6500000,84273813,256862920,39.51737230769231,2014,tt3322940,Annabelle,Annabelle,99.0,"Horror,Mystery,Thriller",5.4,122039
+811,4096,97,2011-12-02,Shame,6500000,4002293,20412841,3.1404370769230767,2011,tt1723811,Shame,Shame,101.0,Drama,7.2,171353
+812,4118,19,2018-05-11,Breaking In,6000000,46840590,51411620,8.568603333333334,2018,tt7137846,Breaking In,Breaking In,88.0,"Action,Crime,Drama",5.4,10154
+813,4132,33,2019-03-29,Unplanned,6000000,18107621,18107621,3.017936833333333,2019,tt9024106,Unplanned,Unplanned,106.0,"Biography,Drama",6.3,5945
+814,4135,36,2019-02-08,The Prodigy,6000000,14856291,19789712,3.2982853333333333,2019,tt4504044,The Prodigy,The Prodigy,92.0,"Horror,Thriller",5.9,11456
+815,4136,37,2018-11-30,The Possession of Hannah Grace,6000000,14836174,42785387,7.130897833333332,2018,tt5734576,The Possession of Hannah Grace,The Possession of Hannah Grace,86.0,"Horror,Mystery,Thriller",5.2,11629
+816,4145,46,2012-09-07,The Words,6000000,11494838,16369708,2.7282846666666667,2012,tt1840417,The Words,The Words,102.0,"Drama,Mystery,Romance",7.1,70308
+817,4146,47,2016-01-15,The Lady in the Van,6000000,10021175,42320503,7.053417166666668,2016,tt3722070,The Lady in the Van,The Lady in the Van,104.0,"Biography,Comedy,Drama",6.7,23105
+818,4147,48,2012-04-27,Bernie,6000000,9204489,10106975,1.6844958333333333,2012,tt1704573,Bernie,Bernie,99.0,"Biography,Comedy,Crime",6.8,53765
+819,4152,53,2012-03-16,Casa de mi Padre,6000000,5909483,8446952,1.4078253333333333,2012,tt1702425,Casa de mi Padre,Casa de mi Padre,84.0,"Comedy,Western",5.5,19170
+820,4153,54,2011-07-29,The Guard,6000000,5359774,21197454,3.5329089999999996,2011,tt1540133,The Guard,The Guard,96.0,"Comedy,Crime,Thriller",7.3,75183
+821,4160,61,2014-07-18,Wish I Was Here,6000000,3591299,6591365,1.0985608333333334,2014,tt2870708,Wish I Was Here,Wish I Was Here,106.0,"Comedy,Drama",6.7,34907
+822,4169,70,2011-07-15,Snow Flower and the Secret Fan,6000000,1348205,11348205,1.8913674999999999,2011,tt1541995,Snow Flower and the Secret Fan,Snow Flower and the Secret Fan,104.0,"Drama,History",6.1,3429
+823,4211,12,2012-12-07,Khiladi 786,5600000,385422,14683763,2.6221005357142864,2012,tt2166214,Khiladi 786,Khiladi 786,141.0,"Action,Comedy",4.4,5648
+824,4217,18,2013-09-27,Don Jon,5500000,24477704,41268579,7.503378,2013,tt2229499,Don Jon,Don Jon,90.0,"Comedy,Drama,Romance",6.6,216350
+825,4219,20,2018-09-28,Hell Fest,5500000,11107431,18119231,3.2944056363636363,2018,tt1999890,Hell Fest,Hell Fest,89.0,Horror,5.5,8662
+826,4228,29,2011-10-21,Le Havre,5500000,611709,13480196,2.450944727272727,2011,tt1508675,Le Havre,Le Havre,93.0,"Comedy,Drama",7.2,18490
+827,4245,46,2011-04-22,Dum Maaro Dum,5200000,564489,11633427,2.2371974999999997,2011,tt1618430,Dum Maaro Dum,Dum Maaro Dum,128.0,"Action,Crime,Drama",6.2,3616
+828,4248,49,2017-02-24,Get Out,5000000,176040665,255367951,51.0735902,2017,tt5052448,Get Out,Get Out,104.0,"Horror,Mystery,Thriller",7.7,400474
+829,4249,50,2017-01-20,Split,5000000,138141585,278964806,55.79296120000001,2017,tt2660118,Split,Split,90.0,"Comedy,Romance,Sport",2.9,557
+830,4250,51,2011-10-21,Paranormal Activity 3,5000000,104028807,207039844,41.4079688,2011,tt1778304,Paranormal Activity 3,Paranormal Activity 3,83.0,"Horror,Mystery,Thriller",5.8,85689
+831,4253,54,2016-03-11,10 Cloverfield Lane,5000000,72082999,108286422,21.657284399999998,2016,tt1179933,10 Cloverfield Lane,10 Cloverfield Lane,103.0,"Drama,Horror,Mystery",7.2,260383
+832,4254,55,2016-07-22,Lights Out,5000000,67268835,148806510,29.761302,2016,tt1085448,Lights Out,Lights Out,,Drama,6.6,10
+833,4255,56,2015-09-11,The Visit,5000000,65206105,98677816,19.735563199999998,2015,tt1605776,The Visit,The Visit,90.0,"Comedy,Drama,Romance",8.3,7
+834,4257,58,2017-10-13,Happy Death Day,5000000,55683845,125010260,25.002052,2017,tt5308322,Happy Death Day,Happy Death Day,96.0,"Horror,Mystery,Thriller",6.5,87132
+835,4258,59,2012-10-19,Paranormal Activity 4,5000000,53900335,142817992,28.5635984,2012,tt2109184,Paranormal Activity 4,Paranormal Activity 4,88.0,"Horror,Mystery,Thriller",4.6,58408
+836,4259,60,2014-10-24,Ouija,5000000,50856010,103300632,20.6601264,2014,tt1204977,Ouija,Ouija,89.0,"Horror,Mystery,Thriller",4.5,44054
+837,4262,63,2015-08-07,The Gift,5000000,43787265,58978477,11.7956954,2015,tt1494821,The Gift,The Gift,,Drama,7.8,12
+838,4263,64,2017-06-23,The Big Sick,5000000,42872467,53972860,10.794572,2017,tt5462602,The Big Sick,The Big Sick,120.0,"Comedy,Drama,Romance",7.6,104008
+839,4269,70,2014-01-03,Paranormal Activity: The Marked Ones,5000000,32462372,90904854,18.1809708,2014,tt2473682,Paranormal Activity: The Marked Ones,Paranormal Activity: The Marked Ones,84.0,"Horror,Mystery,Thriller",5.0,37147
+840,4271,72,2014-04-11,Oculus,5000000,27695246,44115496,8.8230992,2014,tt2388715,Oculus,Oculus,104.0,"Horror,Mystery",6.5,106906
+841,4272,73,2013-11-01,Dallas Buyers Club,5000000,27298285,60611845,12.122369,2013,tt0790636,Dallas Buyers Club,Dallas Buyers Club,117.0,"Biography,Drama",8.0,402462
+842,4273,74,2015-08-26,No Escape,5000000,27288872,42844516,8.5689032,2015,tt1781922,No Escape,No Escape,103.0,"Action,Thriller",6.8,70222
+843,4275,76,2015-02-27,The Lazarus Effect,5000000,25801570,38359310,7.671862,2015,tt2918436,The Lazarus Effect,The Lazarus Effect,83.0,"Horror,Mystery,Sci-Fi",5.2,37675
+844,4277,78,2011-08-26,Our Idiot Brother,5000000,24814830,25861249,5.1722498,2011,tt1637706,Our Idiot Brother,Our Idiot Brother,90.0,"Comedy,Drama",6.4,80738
+845,4278,79,2018-03-09,The Strangers: Prey at Night,5000000,24431472,29960051,5.9920102,2018,tt1285009,The Strangers: Prey at Night,The Strangers: Prey at Night,85.0,Horror,5.2,21614
+846,4282,83,2013-07-05,The Way Way Back,5000000,21502690,26853810,5.370762,2013,tt1727388,The Way Way Back,The Way Way Back,103.0,"Comedy,Drama",7.4,132642
+847,4289,90,2016-02-19,Race,5000000,19115191,23745772,4.7491544,2016,tt1867035,Race,Race,150.0,Drama,3.9,73
+848,4291,92,2015-01-16,Still Alice,5000000,18656400,41699612,8.3399224,2015,tt3316960,Still Alice,Still Alice,101.0,Drama,7.5,116832
+849,4293,94,2011-09-02,Apollo 18,5000000,17686929,26517819,5.3035638,2011,tt1772240,Apollo 18,Apollo 18,86.0,"Horror,Mystery,Sci-Fi",5.2,51427
+850,4295,96,2014-10-10,Addicted,5000000,17390770,17499242,3.4998484,2014,tt2205401,Addicted,Addicted,106.0,"Drama,Thriller",5.2,7640
+851,4302,3,2013-03-15,Spring Breakers,5000000,14124286,31149251,6.2298502000000004,2013,tt2101441,Spring Breakers,Spring Breakers,94.0,"Comedy,Crime,Drama",5.3,126504
+852,4303,4,2017-06-09,It Comes at Night,5000000,13985117,19720203,3.9440406,2017,tt4695012,It Comes at Night,It Comes at Night,91.0,"Horror,Mystery",6.2,69039
+853,4311,12,2017-03-03,Before I Fall,5000000,12241072,18945682,3.7891364000000003,2017,tt1691916,Before I Fall,Before I Fall,98.0,"Drama,Fantasy,Mystery",6.4,39282
+854,4314,15,2016-01-29,Fifty Shades of Black,5000000,11686940,22113075,4.422615,2016,tt4667094,Fifty Shades of Black,Fifty Shades of Black,92.0,Comedy,3.5,17189
+855,4320,21,2017-03-17,The Belko Experiment,5000000,10166820,11792942,2.3585884,2017,tt1082807,The Belko Experiment,The Belko Experiment,89.0,"Horror,Thriller",6.1,38378
+856,4321,22,2016-03-11,The Perfect Match,5000000,9669521,10182050,2.03641,2016,tt4871980,The Perfect Match,The Perfect Match,96.0,"Comedy,Romance",4.9,3052
+857,4328,29,2018-09-21,Fahrenheit 11/9,5000000,6352306,6653715,1.330743,2018,tt8632862,Fahrenheit 11/9,Fahrenheit 11/9,128.0,Documentary,6.7,11628
+858,4338,39,2016-12-02,Incarnate,5000000,4799774,9371036,1.8742072,2016,tt3216348,Incarnate,Incarnate,91.0,"Horror,Thriller",5.3,10217
+859,4348,49,2016-03-04,The Other Side of the Door,5000000,3000342,12905107,2.5810214,2016,tt3566920,The Other Side of the Door,The Other Side of the Door,90.0,Drama,3.8,5
+860,4350,51,2014-10-10,Kill the Messenger,5000000,2450846,6656705,1.3313409999999999,2014,tt1216491,Kill the Messenger,Kill the Messenger,112.0,"Biography,Crime,Drama",7.0,41231
+861,4353,54,2016-12-28,Paterson,5000000,2141423,10727536,2.1455072,2016,tt5247022,Paterson,Paterson,118.0,"Comedy,Drama,Romance",7.4,55285
+862,4400,1,2015-01-23,Mommy,4900000,3498695,17536004,3.5787763265306123,2015,tt3612616,Mommy,Mommy,139.0,Drama,8.1,43020
+863,4403,4,2012-08-17,The Awakening,4900000,95933,6924321,1.4131267346938776,2012,tt1373405,The Awakening,The Awakening,83.0,"Horror,Thriller",2.4,141
+864,4408,9,2011-09-30,Take Shelter,4750000,1728953,4972016,1.0467402105263155,2011,tt1675192,Take Shelter,Take Shelter,121.0,"Drama,Horror,Thriller",7.4,83200
+865,4417,18,2012-09-14,Barfi,4600000,2804874,36751984,7.989561739130435,2012,tt3099638,Barfi,Barfi,105.0,"Comedy,Romance",6.5,114
+866,4431,32,2016-03-25,The Lobster,4500000,9196278,18019834,4.004407555555557,2016,tt3464902,The Lobster,The Lobster,119.0,"Comedy,Drama,Romance",7.1,182622
+867,4452,53,2013-03-01,The Sweeney,4500000,26345,8000366,1.7778591111111108,2013,tt0857190,The Sweeney,The Sweeney,112.0,"Action,Crime,Drama",6.1,18095
+868,4480,81,2015-01-23,The Boy Next Door,4000000,36006065,53401938,13.3504845,2015,tt3181822,The Boy Next Door,The Boy Next Door,91.0,"Horror,Thriller",4.7,34816
+869,4484,85,2014-07-11,Boyhood,4000000,25379975,57273049,14.31826225,2014,tt1065073,Boyhood,Boyhood,165.0,Drama,7.9,315584
+870,4488,89,2014-04-18,A Haunted House 2,4000000,17329487,21206861,5.30171525,2014,tt2828996,A Haunted House 2,A Haunted House 2,86.0,"Comedy,Fantasy",4.7,18085
+871,4489,90,2013-03-01,The Last Exorcism Part II,4000000,15179303,25448707,6.36217675,2013,tt2034139,The Last Exorcism Part II,The Last Exorcism Part II,88.0,"Drama,Horror,Thriller",4.0,15124
+872,4497,98,2016-05-13,The Darkness,4000000,10753574,10898293,2.72457325,2016,tt1878841,The Darkness,The Darkness,92.0,"Horror,Thriller",4.4,12435
+873,4517,18,2012-08-24,Samsara,4000000,2672413,5966671,1.49166775,2012,tt0770802,Samsara,Samsara,102.0,"Documentary,Music",8.5,29725
+874,4524,25,2012-10-17,Holy Motors,4000000,641054,4230426,1.0576065000000001,2012,tt2076220,Holy Motors,Holy Motors,115.0,"Drama,Fantasy",7.1,36874
+875,4590,91,2018-04-13,Truth or Dare,3500000,41411015,95127344,27.179241142857148,2018,tt2125681,Truth or Dare,Truth or Dare,85.0,"Horror,Romance,Thriller",6.0,14
+876,4593,94,2016-02-19,The Witch,3500000,25138705,40454520,11.558434285714286,2016,tt4263482,The Witch,The VVitch: A New-England Folktale,92.0,"Horror,Mystery",6.8,154278
+877,4594,95,2018-02-02,Winchester,3500000,25091816,44378040,12.67944,2018,tt1072748,Winchester,Winchester,99.0,"Biography,Drama,Fantasy",5.4,24351
+878,4596,97,2013-02-22,Dark Skies,3500000,17418667,27704111,7.915460285714285,2013,tt2387433,Dark Skies,Dark Skies,97.0,"Horror,Sci-Fi,Thriller",6.3,65754
+879,4597,98,2018-01-19,Forever My Girl,3500000,16376066,16376066,4.678876,2018,tt4103724,Forever My Girl,Forever My Girl,108.0,"Drama,Music,Romance",6.7,10316
+880,4610,11,2018-05-18,First Reformed,3500000,3448256,3874772,1.1070777142857142,2018,tt6053438,First Reformed,First Reformed,113.0,"Drama,Mystery,Thriller",7.1,33542
+881,4636,37,2011-10-21,Margin Call,3400000,5353586,20433227,6.0097726470588215,2011,tt1615147,Margin Call,Margin Call,107.0,"Drama,Thriller",7.1,107264
+882,4642,43,2014-10-10,Whiplash,3300000,13092006,38969037,11.80879909090909,2014,tt2582802,Whiplash,Whiplash,106.0,"Drama,Music",8.5,616916
+883,4653,54,2018-07-06,Sorry to Bother You,3200000,17493096,18285560,5.7142375,2018,tt5688932,Sorry to Bother You,Sorry to Bother You,111.0,"Comedy,Fantasy,Sci-Fi",7.0,40290
+884,4656,57,2011-06-03,Beginners,3200000,5790894,14314407,4.4732521875,2011,tt1532503,Beginners,Beginners,105.0,"Comedy,Drama,Romance",7.2,83770
+885,4657,58,2016-04-22,The Meddler,3200000,4267219,5526942,1.727169375,2016,tt4501454,The Meddler,The Meddler,103.0,"Comedy,Drama,Romance",6.3,10629
+886,4665,66,2015-08-28,War Room,3000000,67790117,73975239,24.658413,2015,tt3832914,War Room,War Room,120.0,Drama,6.5,11716
+887,4666,67,2013-06-07,The Purge,3000000,64473115,91266581,30.422193666666665,2013,tt2184339,The Purge,The Purge,85.0,"Horror,Thriller",5.7,183549
+888,4668,69,2012-10-12,Sinister,3000000,48086903,87727807,29.24260233333333,2012,tt1922777,Sinister,Sinister,110.0,"Horror,Mystery,Thriller",6.8,198345
+889,4688,89,2018-06-01,Upgrade,3000000,11977130,16553285,5.517761666666668,2018,tt6499752,Upgrade,Upgrade,100.0,"Action,Sci-Fi,Thriller",7.6,104978
+890,4698,99,2013-05-24,Before Midnight,3000000,8110621,23251930,7.750643333333333,2013,tt2209418,Before Midnight,Before Midnight,109.0,"Drama,Romance",7.9,123107
+891,4702,3,2017-10-27,Let There Be Light,3000000,7233471,7241309,2.4137696666666666,2017,tt5804314,Let There Be Light,Let There Be Light,100.0,Drama,4.8,2179
+892,4709,10,2016-06-24,Swiss Army Man,3000000,4210454,5837111,1.9457036666666667,2016,tt4034354,Swiss Army Man,Swiss Army Man,97.0,"Adventure,Comedy,Drama",7.0,91736
+893,4713,14,2013-05-17,Frances Ha,3000000,4067398,11262769,3.754256333333333,2013,tt2347569,Frances Ha,Frances Ha,86.0,"Comedy,Drama,Romance",7.4,60026
+894,4720,21,2016-04-22,Compadres,3000000,3127773,7445044,2.4816813333333334,2016,tt3367294,Compadres,Compadres,101.0,"Action,Comedy,Crime",4.7,876
+895,4728,29,2017-05-12,The Wall,3000000,1803064,4495262,1.4984206666666666,2017,tt1455256,The Wall,The Wall,78.0,Documentary,9.2,8
+896,4734,35,2012-09-07,Bachelorette,3000000,446770,12577401,4.192467,2012,tt1920849,Bachelorette,Bachelorette,87.0,"Comedy,Romance",5.3,43131
+897,4755,56,2017-10-10,Demonic,3000000,0,4668109,1.5560363333333334,2017,tt1841642,Demonic,Demonic,83.0,"Horror,Thriller",5.3,12025
+898,4792,93,2018-10-26,Indivisible,2700000,3511417,3588305,1.3290018518518518,2018,tt5147828,Indivisible,Indivisible,78.0,Documentary,7.2,10
+899,4794,95,2015-12-31,Sardaar Ji,2700000,0,8200000,3.037037037037037,2015,tt4080386,Sardaar Ji,Sardaar Ji,141.0,"Comedy,Fantasy,Horror",6.5,1182
+900,4802,3,2014-05-02,Ida,2600000,3827060,15298355,5.8839826923076926,2014,tt2718492,Ida,Ida,82.0,Drama,7.4,46819
+901,4811,12,2013-01-11,A Haunted House,2500000,40041683,59922558,23.9690232,2013,tt2243537,A Haunted House,A Haunted House,86.0,"Comedy,Fantasy",5.1,40308
+902,4813,14,2013-07-03,Kevin Hart: Let Me Explain,2500000,32244051,32327255,12.930902,2013,tt2609912,Kevin Hart: Let Me Explain,Kevin Hart: Let Me Explain,75.0,"Comedy,Documentary",6.8,7880
+903,4821,22,2013-08-02,The Spectacular Now,2500000,6852971,6916951,2.7667804,2013,tt1714206,The Spectacular Now,The Spectacular Now,95.0,"Comedy,Drama,Romance",7.1,133887
+904,4824,25,2016-06-24,Hunt for the Wilderpeople,2500000,5205471,23845533,9.5382132,2016,tt4698684,Hunt for the Wilderpeople,Hunt for the Wilderpeople,101.0,"Adventure,Comedy,Drama",7.9,87532
+905,4825,26,2012-08-17,Robot & Frank,2500000,3317468,4934356,1.9737424,2012,tt1990314,Robot & Frank,Robot & Frank,89.0,"Comedy,Crime,Drama",7.1,59229
+906,4859,60,2015-03-20,Do You Believe?,2300000,12985600,14304931,6.2195352173913045,2015,tt4056738,Do You Believe?,Do You Believe?,120.0,Drama,6.1,6462
+907,4886,87,2011-09-30,Courageous,2000000,34522221,35185884,17.592942,2011,tt1630036,Courageous,Courageous,129.0,Drama,7.0,17586
+908,4893,94,2015-03-13,It Follows,2000000,14674077,23250755,11.625377499999999,2015,tt3235888,It Follows,It Follows,100.0,"Horror,Mystery",6.9,182839
+909,4894,95,2018-07-13,Eighth Grade,2000000,13539710,14341016,7.170508,2018,tt7014006,Eighth Grade,Eighth Grade,93.0,"Comedy,Drama",7.5,43256
+910,4896,97,2012-03-09,Silent House,2000000,12739737,16610760,8.30538,2012,tt1767382,Silent House,Silent House,86.0,"Drama,Horror,Mystery",5.3,20831
+911,4899,100,2016-04-08,Hardcore Henry,2000000,9252038,17187434,8.593717,2016,tt3072482,Hardcore Henry,Hardcore Henry,96.0,"Action,Adventure,Sci-Fi",6.7,78226
+912,4908,9,2014-10-10,Meet the Mormons,2000000,6047363,6049171,3.0245855,2014,tt4003774,Meet the Mormons,Meet the Mormons,78.0,Documentary,6.9,1897
+913,4910,11,2017-10-06,The Florida Project,2000000,5904366,11295324,5.647662,2017,tt5649144,The Florida Project,The Florida Project,111.0,Drama,7.6,72193
+914,4911,12,2017-08-25,All Saints,2000000,5802208,5941994,2.970997,2017,tt4663548,All Saints,All Saints,108.0,Drama,6.0,1220
+915,4919,20,2015-08-28,We Are Your Friends,2000000,3591417,10153415,5.0767074999999995,2015,tt3787590,We Are Your Friends,We Are Your Friends,96.0,"Drama,Music,Romance",6.2,32327
+916,4922,23,2015-09-18,Captive,2000000,2583301,2791973,1.3959865,2015,tt1699745,Captive,Captive,120.0,"Drama,Thriller",6.0,674
+917,4924,25,2018-06-08,Hearts Beat Loud,2000000,2386254,2420962,1.210481,2018,tt7158430,Hearts Beat Loud,Hearts Beat Loud,97.0,"Comedy,Drama,Music",6.9,6543
+918,4925,26,2017-01-20,The Resurrection of Gavin Stone,2000000,2303792,2303792,1.1518959999999998,2017,tt4902904,The Resurrection of Gavin Stone,The Resurrection of Gavin Stone,91.0,"Comedy,Drama,Family",6.2,1562
+919,4934,35,2015-08-07,The Diary of a Teenage Girl,2000000,1477002,2279959,1.1399795,2015,tt3172532,The Diary of a Teenage Girl,The Diary of a Teenage Girl,102.0,"Comedy,Drama,Romance",6.9,27003
+920,4936,37,2014-04-25,Locke,2000000,1370646,2088390,1.044195,2014,tt2692904,Locke,Locke,85.0,Drama,7.1,120703
+921,4940,41,2014-11-28,The Babadook,2000000,950792,7482387,3.7411934999999996,2014,tt2321549,The Babadook,The Babadook,94.0,"Drama,Horror",6.8,171411
+922,4959,60,2015-04-07,Lost River,2000000,45431,2009644,1.0048219999999999,2015,tt2366608,Lost River,Lost River,95.0,"Drama,Fantasy,Mystery",5.8,15667
+923,4961,62,2015-10-09,Knock Knock,2000000,36336,6328516,3.1642580000000002,2015,tt3605418,Knock Knock,Knock Knock,99.0,"Drama,Thriller",4.9,68328
+924,4975,76,2011-09-09,Grave Encounters,2000000,0,2151887,1.0759435,2011,tt1703199,Grave Encounters,Grave Encounters,92.0,Horror,6.1,48125
+925,5008,9,2011-06-03,Submarine,1900000,467602,4581937,2.411545789473684,2011,tt1440292,Submarine,Submarine,97.0,"Comedy,Drama,Romance",7.3,79810
+926,5010,11,2013-02-08,ABCD (Any Body Can Dance),1900000,222098,10137234,5.3353863157894725,2013,tt2321163,ABCD (Any Body Can Dance),ABCD (Any Body Can Dance),160.0,"Drama,Music",6.4,5695
+927,5017,18,2012-06-27,Beasts of the Southern Wild,1800000,12795746,23265132,12.925073333333335,2012,tt2125435,Beasts of the Southern Wild,Beasts of the Southern Wild,93.0,"Adventure,Drama,Fantasy",7.3,77440
+928,5041,42,2014-02-28,The Lunchbox,1700000,4231500,12231500,7.195,2014,tt2350496,The Lunchbox,Dabba,104.0,"Drama,Romance",7.8,42618
+929,5042,43,2013-10-04,Grace Unplugged,1700000,2507159,2507159,1.474799411764706,2013,tt2349460,Grace Unplugged,Grace Unplugged,102.0,"Drama,Music",6.2,3006
+930,5062,63,2011-04-01,Insidious,1500000,54009150,99870886,66.58059066666667,2011,tt1591095,Insidious,Insidious,103.0,"Horror,Mystery,Thriller",6.9,254197
+931,5063,64,2016-10-21,Moonlight,1500000,27854931,65245512,43.497008,2016,tt4975722,Moonlight,Moonlight,111.0,Drama,7.4,227964
+932,5069,70,2018-03-23,Unsane,1500000,7690044,14244931,9.496620666666667,2018,tt7153766,Unsane,Unsane,98.0,"Drama,Horror,Mystery",6.4,32049
+933,5076,77,2013-07-26,The To Do List,1500000,3491669,4128828,2.752552,2013,tt1758795,The To Do List,The To Do List,104.0,"Comedy,Romance",5.8,34524
+934,5077,78,2013-02-01,The Gatekeepers,1500000,2408553,2592308,1.7282053333333334,2013,tt2309788,The Gatekeepers,The Gatekeepers,101.0,"Documentary,History,War",7.6,5214
+935,5083,84,2013-04-19,The Lords of Salem,1500000,1165881,1541131,1.0274206666666668,2013,tt1731697,The Lords of Salem,The Lords of Salem,101.0,"Horror,Thriller",5.1,25089
+936,5120,21,2015-11-20,Mustang,1400000,845464,5552584,3.966131428571429,2015,tt3966404,Mustang,Mustang,97.0,Drama,7.6,30899
+937,5122,23,2014-10-03,La chambre bleue,1400000,260441,1945420,1.3895857142857142,2014,tt4586720,La chambre bleue,La chambre bleue,48.0,Documentary,6.2,6
+938,5150,51,2014-10-17,Dear White People,1250000,4404154,5403771,4.3230167999999995,2014,tt2235108,Dear White People,Dear White People,108.0,"Comedy,Drama,Romance",6.1,23321
+939,5151,52,2013-04-19,Filly Brown,1250000,2850357,2940411,2.3523287999999996,2013,tt1869425,Filly Brown,Filly Brown,80.0,"Drama,Music",5.7,1003
+940,5165,66,2013-04-19,Home Run,1200000,2859955,2859955,2.3832958333333334,2013,tt1669617,Home Run,Home Run,82.0,"Drama,Family,Sport",4.2,66
+941,5211,12,2012-01-06,The Devil Inside,1000000,53262945,101759490,101.75949,2012,tt1560985,The Devil Inside,The Devil Inside,83.0,Horror,4.2,33522
+942,5213,14,2015-04-17,Unfriended,1000000,32789645,64364198,64.364198,2015,tt3713166,Unfriended,Unfriended,83.0,"Horror,Mystery,Thriller",5.6,62043
+943,5216,17,2013-08-23,You're Next,1000000,18494006,26887177,26.887177,2013,tt1853739,You're Next,You're Next,95.0,"Action,Comedy,Horror",6.6,79451
+944,5217,18,2012-05-25,Chernobyl Diaries,1000000,18119640,42411721,42.411721,2012,tt1991245,Chernobyl Diaries,Chernobyl Diaries,86.0,"Horror,Mystery,Thriller",5.0,60304
+945,5228,29,2018-07-20,Unfriended: Dark Web,1000000,8866745,16434588,16.434588,2018,tt4761916,Unfriended: Dark Web,Unfriended: Dark Web,92.0,"Crime,Horror,Mystery",5.9,13822
+946,5230,31,2015-09-25,The Green Inferno,1000000,7192291,12931420,12.93142,2015,tt2403021,The Green Inferno,The Green Inferno,100.0,"Adventure,Horror",5.3,33239
+947,5231,32,2017-02-03,I Am Not Your Negro,1000000,7123919,9617402,9.617402,2017,tt5804038,I Am Not Your Negro,I Am Not Your Negro,93.0,Documentary,7.8,13948
+948,5232,33,2012-10-19,The Sessions,1000000,6002451,11495204,11.495204,2012,tt1866249,The Sessions,The Sessions,95.0,"Biography,Comedy,Drama",7.2,39731
+949,5234,35,2012-03-23,October Baby,1000000,5355847,5391992,5.391992,2012,tt1720182,October Baby,October Baby,107.0,Drama,6.8,6903
+950,5235,36,2014-09-12,The Skeleton Twins,1000000,5284309,5797192,5.797192,2014,tt1571249,The Skeleton Twins,The Skeleton Twins,93.0,"Comedy,Drama,Romance",6.8,36793
+951,5240,41,2014-06-06,Obvious Child,1000000,3122616,3324070,3.32407,2014,tt2910274,Obvious Child,Obvious Child,84.0,"Comedy,Drama,Romance",6.8,21536
+952,5241,42,2011-10-21,Martha Marcy May Marlene,1000000,2981038,5438911,5.438911,2011,tt1441326,Martha Marcy May Marlene,Martha Marcy May Marlene,102.0,"Drama,Mystery,Thriller",6.9,45873
+953,5255,56,2017-08-18,Patti Cake$,1000000,800148,1471090,1.47109,2017,tt6288250,Patti Cake$,Patti Cake$,109.0,"Drama,Music",6.7,8581
+954,5257,58,2014-05-09,Palo Alto,1000000,767732,1156309,1.156309,2014,tt2479800,Palo Alto,Palo Alto,100.0,Drama,6.2,25402
+955,5261,62,2011-07-29,The Future,1000000,568662,1239174,1.239174,2011,tt1235170,The Future,The Future,91.0,"Drama,Fantasy,Romance",6.2,7648
+956,5265,66,2013-07-19,The Act of Killing,1000000,486919,1227316,1.227316,2013,tt2375605,The Act of Killing,The Act of Killing,117.0,"Crime,Documentary",8.2,31115
+957,5334,35,2017-05-12,Lowriders,916000,6179955,6188421,6.755918122270742,2017,tt1366338,Lowriders,Lowriders,98.0,"Adventure,Crime,Drama",5.7,1954
+958,5337,38,2013-07-12,Fruitvale Station,900000,16098998,17549645,19.499605555555554,2013,tt2334649,Fruitvale Station,Fruitvale Station,85.0,"Biography,Drama,Romance",7.5,68187
+959,5338,39,2016-04-01,Meet the Blacks,900000,9097072,9097072,10.107857777777776,2016,tt4191580,Meet the Blacks,Meet the Blacks,94.0,"Comedy,Horror",5.9,34669
+960,5340,41,2011-08-26,Circumstance,900000,454121,958978,1.0655311111111112,2011,tt1684628,Circumstance,Circumstance,107.0,Drama,5.9,7055
+961,5374,75,2011-09-09,Kevin Hart: Laugh at My Pain,750000,7706436,7712436,10.283248,2011,tt1999192,Kevin Hart: Laugh at My Pain,Kevin Hart: Laugh at My Pain,89.0,"Comedy,Documentary",7.4,5081
+962,5376,77,2012-06-08,Safety Not Guaranteed,750000,4010957,4422318,5.896424,2012,tt1862079,Safety Not Guaranteed,Safety Not Guaranteed,86.0,"Comedy,Drama,Romance",7.0,111907
+963,5377,78,2012-02-03,The Innkeepers,750000,78396,1011535,1.3487133333333334,2012,tt1594562,The Innkeepers,The Innkeepers,101.0,"Drama,Horror,Mystery",5.5,31089
+964,5392,93,2017-08-04,Columbus,700000,1017107,1110511,1.5864442857142858,2017,tt5203734,Columbus,Columbus,127.0,Comedy,7.3,42
+965,5438,39,2011-07-08,Sholem Aleichem: Laughing in the Darkness,500000,1131261,1131261,2.262522,2011,tt1976608,Sholem Aleichem: Laughing in the Darkness,Sholem Aleichem: Laughing in the Darkness,93.0,Documentary,6.8,157
+966,5454,55,2011-04-01,Rubber,500000,100370,680914,1.361828,2011,tt1612774,Rubber,Rubber,82.0,"Comedy,Fantasy,Horror",5.8,31316
+967,5506,7,2014-04-25,Blue Ruin,420000,258384,437002,1.0404809523809524,2014,tt2359024,Blue Ruin,Blue Ruin,90.0,"Crime,Drama,Thriller",7.1,58811
+968,5558,59,2014-10-31,All You Need Is Love,300000,0,3565259,11.884196666666664,2014,tt2704210,All You Need Is Love,All You Need Is Love,90.0,Documentary,6.8,9
+969,5567,68,2012-08-17,Compliance,270000,319285,830700,3.0766666666666667,2012,tt1971352,Compliance,Compliance,90.0,"Biography,Crime,Drama",6.4,28703
+970,5571,72,2017-04-28,Sleight,250000,3930990,3934450,15.7378,2017,tt4573516,Sleight,Sleight,89.0,"Action,Drama,Sci-Fi",5.9,7074
+971,5573,74,2011-10-28,Like Crazy,250000,3395391,3728400,14.9136,2011,tt1758692,Like Crazy,Like Crazy,86.0,"Drama,Romance",6.7,55841
+972,5609,10,2012-07-20,Burn,225000,1109276,1109276,4.930115555555554,2012,tt1781784,Burn,Burn,86.0,Documentary,7.5,663
+973,5617,18,2011-02-25,The Grace Card,200000,2430735,2430735,12.153675,2011,tt1544600,The Grace Card,The Grace Card,101.0,Drama,6.6,2488
+974,5620,21,2015-06-19,The Overnight,200000,1109808,1165996,5.82998,2015,tt0326592,The Overnight,The Overnight,88.0,,7.5,24
+975,5622,23,2012-10-12,Middle of Nowhere,200000,236806,236806,1.18403,2012,tt1211890,Middle of Nowhere,Middle of Nowhere,97.0,Drama,6.4,1406
+976,5642,43,2011-09-23,Weekend,190000,484592,1577585,8.303078947368421,2011,tt1714210,Weekend,Weekend,97.0,"Drama,Romance",7.6,25424
+977,5647,48,2011-07-22,Another Earth,175000,1321194,2102779,12.015880000000001,2011,tt1549572,Another Earth,Another Earth,92.0,"Drama,Romance,Sci-Fi",7.0,85839
+978,5667,68,2012-04-27,Sound of My Voice,135000,408015,429448,3.181096296296296,2012,tt1748207,Sound of My Voice,Sound of My Voice,85.0,"Drama,Mystery,Sci-Fi",6.6,19387
+979,5672,73,2012-06-15,Your Sister's Sister,120000,1597486,3090593,25.75494166666667,2012,tt1742336,Your Sister's Sister,Your Sister's Sister,90.0,"Comedy,Drama",6.7,24780
+980,5679,80,2015-07-10,The Gallows,100000,22764410,41656474,416.56474,2015,tt2309260,The Gallows,The Gallows,81.0,"Horror,Mystery,Thriller",4.2,17763
+981,5685,86,2017-07-07,A Ghost Story,100000,1594798,2769782,27.69782,2017,tt6265828,A Ghost Story,A Ghost Story,92.0,"Drama,Fantasy,Romance",6.8,46280
+982,5737,38,2016-03-18,Krisha,30000,144822,144822,4.8274,2016,tt4266638,Krisha,Krisha,83.0,Drama,7.2,5917
+983,5748,49,2015-09-01,Exeter,25000,0,489792,19.59168,2015,tt1945044,Exeter,Exeter,91.0,"Horror,Mystery,Thriller",4.5,5156
