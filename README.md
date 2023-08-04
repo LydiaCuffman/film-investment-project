@@ -2,7 +2,7 @@
 
 **Authors**: Lydia Cuffman, Em Jager & JF Roberts
 
-![img]()
+![img](attachment:Holywood.jpeg)
 
 ## Overview
 
