@@ -28,22 +28,24 @@ The data we used for our analysis combined two data sets. The first data set was
 We engineered a "Profit Ratio" variable to allow for more meaningful business analysis and comparison between different movies. We filtered our data set to include only movies released between 2010 and 2019 (2019 being the most recent release date in the original data set). This was to account for the rise of streaming services in the late 2000s that completely changed how the public released and consumed movies.
 
 
-![img]('images/Profit Ratio Table')
+![img](images/pr_table.png)
 
 ## Conclusion - 3 Recommendations 
 
 1. **Produce Horror Movies** - Based on our in-depth analysis, we recommend producing horror movies compared to other genres as they provide the highest profit ratio of all movie genres on average.
 
-![img]('images/Sheet 3')
+
+![img](images/top_20.png)
 
 2. **Focus on Low-Budget Horror Movies** - Taking it a step further, we recommend producing low-budget horror movies as they return higher profit ratios, on average, than high-budget horror movies. In doing so, you would both minimize your investment risk and lower your initial investment, reducing your barrier to entry to the film industry.
 
-![img]('images/Sheet 1')
-![img]('images/Sheet 4')
+
+![img](images/bar_chart1.png)
+![img](images/bar_chart3.png)
 
 3. **Month of release should not be a primary focus** - Though there seems to be a difference, according to our visuals, that month of release affects the profit ratio for a horror movie; there actually is no statistically significant difference between months. This leads us to our 'Next Steps' in our analysis...
 
-![img]('images/Sheet 2')
+![img](images/bar_chart2.png)
 
 ## Next Steps
 
